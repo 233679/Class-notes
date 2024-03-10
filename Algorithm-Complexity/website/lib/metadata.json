@@ -1,0 +1,463 @@
+{
+  "vaultName": "Class",
+  "lastExport": 1710073233643,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Complexity/All-Complexity-Graph.jpg",
+    "Complexity/Complexity-Index.md",
+    "Complexity/Constant-Complexity.md",
+    "Complexity/Constant-Complexity-Graph.jpg",
+    "Complexity/Exponential-Complexity.md",
+    "Complexity/Linear-Complexity.md",
+    "Complexity/Linear-Complexity-Graph.jpg",
+    "Complexity/Linearithmic-Complexity.md",
+    "Complexity/Linearithmic-Complexity-Graph.jpg",
+    "Complexity/Logarithmic-Complexity.md",
+    "Complexity/Logarithmic-Complexity-Graph.jpg",
+    "Complexity/Polynomial-Complexity.md",
+    "Complexity/Quadratic-Complexity.md",
+    "Complexity/Quadratic-Complexity-Graph.jpg",
+    "Complexity/Space-Complexity.md",
+    "Searching algorithms/Binary-Search.md",
+    "Searching algorithms/Linear-Search.md",
+    "Searching algorithms/Searching-Algorithms.md",
+    "Sorting algorithms/Bubble-Sort.md",
+    "Sorting algorithms/Merge-Sort.md",
+    "Sorting algorithms/Sorting-Algorithms.md",
+    "Big-O.md",
+    "Index.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/MathJax_Zero.woff",
+    "lib/fonts/MathJax_Main-Regular.woff",
+    "lib/fonts/MathJax_Main-Bold.woff",
+    "lib/fonts/MathJax_Math-Italic.woff",
+    "lib/fonts/MathJax_Main-Italic.woff",
+    "lib/fonts/MathJax_Math-BoldItalic.woff",
+    "lib/fonts/MathJax_Size1-Regular.woff",
+    "lib/fonts/MathJax_Size2-Regular.woff",
+    "lib/fonts/MathJax_Size3-Regular.woff",
+    "lib/fonts/MathJax_Size4-Regular.woff",
+    "lib/fonts/MathJax_AMS-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Bold.woff",
+    "lib/fonts/MathJax_Fraktur-Regular.woff",
+    "lib/fonts/MathJax_Fraktur-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Regular.woff",
+    "lib/fonts/MathJax_SansSerif-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Italic.woff",
+    "lib/fonts/MathJax_Script-Regular.woff",
+    "lib/fonts/MathJax_Typewriter-Regular.woff",
+    "lib/fonts/MathJax_Vector-Regular.woff",
+    "lib/fonts/MathJax_Vector-Bold.woff"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/MathJax_Zero.woff",
+    "lib/fonts/MathJax_Main-Regular.woff",
+    "lib/fonts/MathJax_Main-Bold.woff",
+    "lib/fonts/MathJax_Math-Italic.woff",
+    "lib/fonts/MathJax_Main-Italic.woff",
+    "lib/fonts/MathJax_Math-BoldItalic.woff",
+    "lib/fonts/MathJax_Size1-Regular.woff",
+    "lib/fonts/MathJax_Size2-Regular.woff",
+    "lib/fonts/MathJax_Size3-Regular.woff",
+    "lib/fonts/MathJax_Size4-Regular.woff",
+    "lib/fonts/MathJax_AMS-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Bold.woff",
+    "lib/fonts/MathJax_Fraktur-Regular.woff",
+    "lib/fonts/MathJax_Fraktur-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Regular.woff",
+    "lib/fonts/MathJax_SansSerif-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Italic.woff",
+    "lib/fonts/MathJax_Script-Regular.woff",
+    "lib/fonts/MathJax_Typewriter-Regular.woff",
+    "lib/fonts/MathJax_Vector-Regular.woff",
+    "lib/fonts/MathJax_Vector-Bold.woff"
+  ],
+  "fileInfo": {
+    "Complexity/All-Complexity-Graph.jpg": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 53226,
+      "exportedPath": "Complexity/All-Complexity-Graph.jpg",
+      "dependencies": []
+    },
+    "Complexity/Complexity-Index.md": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 276,
+      "exportedPath": "Complexity/Complexity-Index.html",
+      "dependencies": []
+    },
+    "Complexity/Constant-Complexity.md": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 158,
+      "exportedPath": "Complexity/Constant-Complexity.html",
+      "dependencies": []
+    },
+    "Complexity/Constant-Complexity-Graph.jpg": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 26963,
+      "exportedPath": "Complexity/Constant-Complexity-Graph.jpg",
+      "dependencies": []
+    },
+    "Complexity/Exponential-Complexity.md": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 234,
+      "exportedPath": "Complexity/Exponential-Complexity.html",
+      "dependencies": []
+    },
+    "Complexity/Linear-Complexity.md": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 138,
+      "exportedPath": "Complexity/Linear-Complexity.html",
+      "dependencies": []
+    },
+    "Complexity/Linear-Complexity-Graph.jpg": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 30484,
+      "exportedPath": "Complexity/Linear-Complexity-Graph.jpg",
+      "dependencies": []
+    },
+    "Complexity/Linearithmic-Complexity.md": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 26,
+      "exportedPath": "Complexity/Linearithmic-Complexity.html",
+      "dependencies": []
+    },
+    "Complexity/Linearithmic-Complexity-Graph.jpg": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 32890,
+      "exportedPath": "Complexity/Linearithmic-Complexity-Graph.jpg",
+      "dependencies": []
+    },
+    "Complexity/Logarithmic-Complexity.md": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 166,
+      "exportedPath": "Complexity/Logarithmic-Complexity.html",
+      "dependencies": []
+    },
+    "Complexity/Logarithmic-Complexity-Graph.jpg": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 28913,
+      "exportedPath": "Complexity/Logarithmic-Complexity-Graph.jpg",
+      "dependencies": []
+    },
+    "Complexity/Polynomial-Complexity.md": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 524,
+      "exportedPath": "Complexity/Polynomial-Complexity.html",
+      "dependencies": []
+    },
+    "Complexity/Quadratic-Complexity.md": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 128,
+      "exportedPath": "Complexity/Quadratic-Complexity.html",
+      "dependencies": []
+    },
+    "Complexity/Quadratic-Complexity-Graph.jpg": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 27095,
+      "exportedPath": "Complexity/Quadratic-Complexity-Graph.jpg",
+      "dependencies": []
+    },
+    "Complexity/Space-Complexity.md": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 596,
+      "exportedPath": "Complexity/Space-Complexity.html",
+      "dependencies": []
+    },
+    "Searching algorithms/Binary-Search.md": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 470,
+      "exportedPath": "Searching algorithms/Binary-Search.html",
+      "dependencies": []
+    },
+    "Searching algorithms/Linear-Search.md": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 354,
+      "exportedPath": "Searching algorithms/Linear-Search.html",
+      "dependencies": []
+    },
+    "Searching algorithms/Searching-Algorithms.md": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 468,
+      "exportedPath": "Searching algorithms/Searching-Algorithms.html",
+      "dependencies": []
+    },
+    "Sorting algorithms/Bubble-Sort.md": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 1063,
+      "exportedPath": "Sorting algorithms/Bubble-Sort.html",
+      "dependencies": []
+    },
+    "Sorting algorithms/Merge-Sort.md": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 335,
+      "exportedPath": "Sorting algorithms/Merge-Sort.html",
+      "dependencies": []
+    },
+    "Sorting algorithms/Sorting-Algorithms.md": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 420,
+      "exportedPath": "Sorting algorithms/Sorting-Algorithms.html",
+      "dependencies": []
+    },
+    "Big-O.md": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 1976,
+      "exportedPath": "Big-O.html",
+      "dependencies": []
+    },
+    "Index.md": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 191,
+      "exportedPath": "Index.html",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Zero.woff": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/MathJax_Zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Regular.woff": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/MathJax_Main-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Bold.woff": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/MathJax_Main-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Math-Italic.woff": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/MathJax_Math-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Italic.woff": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/MathJax_Main-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Math-BoldItalic.woff": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/MathJax_Math-BoldItalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size1-Regular.woff": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/MathJax_Size1-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size2-Regular.woff": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/MathJax_Size2-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size3-Regular.woff": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/MathJax_Size3-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size4-Regular.woff": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/MathJax_Size4-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_AMS-Regular.woff": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/MathJax_AMS-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Calligraphic-Regular.woff": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/MathJax_Calligraphic-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Calligraphic-Bold.woff": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/MathJax_Calligraphic-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Fraktur-Regular.woff": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/MathJax_Fraktur-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Fraktur-Bold.woff": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/MathJax_Fraktur-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Regular.woff": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Bold.woff": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Italic.woff": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Script-Regular.woff": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/MathJax_Script-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Typewriter-Regular.woff": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/MathJax_Typewriter-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Vector-Regular.woff": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/MathJax_Vector-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Vector-Bold.woff": {
+      "modifiedTime": 1710073233643,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/MathJax_Vector-Bold.woff",
+      "dependencies": []
+    }
+  }
+}
