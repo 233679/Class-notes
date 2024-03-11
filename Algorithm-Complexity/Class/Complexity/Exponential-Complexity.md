@@ -1,2 +1,0 @@
-# Exponential Complexity
-Algorithms with with exponential complexity have a [[Big-O|Big O]] of O($k^n$). This results in **horrible** scaling. Most algorithm with this complexity will become unusable before reaching the double digits.
