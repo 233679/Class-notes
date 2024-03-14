@@ -1,6 +1,6 @@
 A 1-dimensional array stores a set of numbered cards from 0 to 7. An example of this data is shown in Fig in 4.1:
 
-![[Big-O-Fig-4.1.png]]
+![Big-O-Fig-4.1](Big-O-Fig-4.1.png)
 
 A programmer is writing a computer program to sort the cards into the correct order (0 to 7).  Sorting algorithms the programmer could have used are a merge sort, bubble sort, and insertion sort. The worst case scenario for Merge is O(n log(n)) and for Bubble and insertion is O(n^2). 
 
