@@ -16,5 +16,6 @@ This changes the bubble sort [best, worst & average](../Big-O.md#best-worst-aver
 - Worst case: O($n^2$)
 - Average case: O($n^2$)
 
-Click [here](https://www.sortvisualizer.com/bubblesort/) for a demonstration of the algorithm at work. (The link only shows an optimised version of bubble sort).
+Click [here](https://www.sortvisualizer.com/bubblesort/) for a demonstration of the algorithm at work. (The link only shows an optimized version of bubble sort).
 
+Bubble sort has a [space complexity](../Complexity/Space-Complexity.md) of O($1$) as no matter the size of the array, only the current elements being compared/swapped & the index of the array will be present in memory.
