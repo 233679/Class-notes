@@ -1,3 +1,5 @@
 # Diodes
- - Diodes have a [Voltage Drop](../Voltage%20Drop.md) of 0.7V.
- - Diodes only allow [Current](../Ohms%20law/Current.md) to flow one way.
+There are three main types of [Diodes](Diodes.md):
+- [Silicone Diodes](Silicone%20Diodes.md)
+- [Zener Diodes](Zener%20Diodes.md)
+- [Light Emitting Diodes](Light%20Emitting%20Diodes.md)

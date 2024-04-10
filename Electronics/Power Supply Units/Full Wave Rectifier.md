@@ -17,4 +17,3 @@ Example Diagram of a smoothed [Full Wave Rectifier](Full%20Wave%20Rectifier.md):
 Example waveform of a smoothed [Full Wave Rectifier](Full%20Wave%20Rectifier.md):
 ![](Full-Wave-Rectifier-Smooth-Waveform.png)
 
-
