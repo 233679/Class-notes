@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "8db27831fabcce3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "07bf97f307aed242",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74498bdd92f8bc39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electronics/Power Supply Units/Voltage Ripple.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b96256a2e8b60760",
+    "type": "split",
+    "children": [
+      {
+        "id": "81922811c2140ddc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3aa182553593f5a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a6b87e7eb1790e22",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6448d1f7a12dcd91",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "3322243298f68c23",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8d92c9938aba35a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "38de80db448dda94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9137ef430dbf361d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Electronics/Power Supply Units/Voltage Ripple.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "255d68ad3e0d7456",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Electronics/Power Supply Units/Voltage Ripple.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "03dcae99219ad341",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "97ee76331552ed00",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Electronics/Power Supply Units/Voltage Ripple.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
+    }
+  },
+  "active": "74498bdd92f8bc39",
+  "lastOpenFiles": [
+    "Electronics/Power Supply Units/RMS.md",
+    "Electronics/AC.md",
+    "Electronics/DC.md",
+    "Electronics/Power Supply Units/Voltage Ripple.md",
+    "Electronics/Power Supply Units/Wave Rectifier.md",
+    "Electronics/Power Supply Units/Peak Voltage.md",
+    "Electronics/Power Supply Units/Half wave rectifier.md",
+    "Electronics/Power Supply Units/Full Wave Rectifier.md",
+    "Electronics/Ohms law/Voltage.md",
+    "Electronics/Ohms law/Resistance.md",
+    "Electronics/Ohms law/Ohms Law.md",
+    "Electronics/Ohms law/Current.md",
+    "Electronics/Diodes/Diodes.md",
+    "Electronics/Circuits/Series-Circuit.gif",
+    "Electronics/Circuits/Series Circuit.md",
+    "Electronics/Circuits/Parallel-Circuit.gif",
+    "Electronics/Circuits/Parallel Circuit.md",
+    "Electronics/Circuits/Circuit.md",
+    "Algorithm-Complexity/Sorting algorithms/Merge-Sort.md",
+    "Exam-Practice/Big-O-Exam-Question.md",
+    "Exam-Practice/Big-O-Fig-4.1.png",
+    "Algorithm-Complexity/Sorting algorithms/Insertion-Sort-Example-Image.png",
+    "Algorithm-Complexity/Sorting algorithms/Insertion-Sort.md",
+    "Algorithm-Complexity/Sorting algorithms/Bubble-Sort.md",
+    "Algorithm-Complexity/Searching algorithms/Searching-Algorithms.md",
+    "Algorithm-Complexity/Complexity/Space-Complexity.md",
+    "Algorithm-Complexity/Index.md",
+    "Algorithm-Complexity/Examples/Bubble-Sort-Code-Example.md",
+    "Algorithm-Complexity/Examples/Insertion-Sort-Code-Example.md",
+    "Algorithm-Complexity/Examples/README.md",
+    "Algorithm-Complexity/Class/Complexity/All-Complexity-Graph.jpg",
+    "Algorithm-Complexity/Complexity/Linear-Complexity-Graph.jpg",
+    "Algorithm-Complexity/Complexity/Linearithmic-Complexity-Graph.jpg",
+    "Algorithm-Complexity/Examples/Insertion.java",
+    "Algorithm-Complexity/Examples/Bubble.java",
+    "Algorithm-Complexity/Examples/New Text Document.txt",
+    "Algorithm-Complexity/Examples/Insertion.mf"
+  ]
+}

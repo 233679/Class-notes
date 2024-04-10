@@ -1,0 +1,9 @@
+{
+  "spellcheck": true,
+  "spellcheckLanguages": null,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative",
+  "showUnsupportedFiles": true,
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./"
+}
