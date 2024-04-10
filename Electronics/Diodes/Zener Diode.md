@@ -1,0 +1,2 @@
+# Zener Diode
+A [Zener Diode](Zener%20Diode.md) is often used to regulate [Voltage](../Ohms%20law/Voltage.md). This is because once the [Zener Diode](Zener%20Diode.md) begins to conduct [Current](../Ohms%20law/Current.md) the [Voltage](../Ohms%20law/Voltage.md) at which it does remains very consistent, regardless how larger the [Current](../Ohms%20law/Current.md) becomes.
