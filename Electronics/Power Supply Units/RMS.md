@@ -1,5 +1,5 @@
 # RMS
-RMS is the standard unit used for measuring [AC](../AC.md). It represents the [DC](../DC.md) [Voltage](../Ohms%20law/Voltage.md) that an [AC](../AC.md) [Voltage](../Ohms%20law/Voltage.md) can be converted to using a [Wave Rectifier](Wave%20Rectifier.md).
+RMS is the standard unit used for measuring [AC](../AC.md). It represents the [DC](../DC.md) [Voltage](../Voltage/Voltage.md) that an [AC](../AC.md) [Voltage](../Voltage/Voltage.md) can be converted to using a [Wave Rectifier](Wave%20Rectifier.md).
 
 #### Formula:
 - $pk = rms/_\sqrt{2}$

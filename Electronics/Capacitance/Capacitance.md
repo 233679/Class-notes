@@ -7,4 +7,4 @@ $Q = C * V$
 
 - $Q$ - The amount of charge of a [Capacitor](Capacitor.md).
 - $C$ - The [Capacitance](Capacitance.md).
-- $V$ - The [Voltage](../Ohms%20law/Voltage.md) across a [Capacitor](Capacitor.md).
+- $V$ - The [Voltage](../Voltage/Voltage.md) across a [Capacitor](Capacitor.md).

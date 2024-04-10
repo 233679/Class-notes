@@ -1,7 +1,7 @@
 # Ohms Law
-Ohms Law states the relationship between [Voltage](Voltage.md), [Current](Current.md), & [Resistance](Resistance.md) with the formula: $V = I*R$ .
+Ohms Law states the relationship between [Voltage](../Voltage/Voltage.md), [Current](Current.md), & [Resistance](Resistance.md) with the formula: $V = I*R$ .
 
-$V$ - [Voltage](Voltage.md)
+$V$ - [Voltage](../Voltage/Voltage.md)
 $I$ - [Current](Current.md)
 $R$ - [Resistance](Resistance.md)
 

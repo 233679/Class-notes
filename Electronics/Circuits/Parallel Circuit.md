@@ -4,7 +4,7 @@ In a [Parallel Circuit](../../..//Electronics/Circuits/Parallel%20Circuit.md) th
 #### Key Facts:
 - [Current](../Ohms%20law/Current.md) is different in each branch of the [Circuit](Circuit.md).
 - Total [Resistance](../Ohms%20law/Resistance.md) decreases for components added in parallel.
-- The [Voltage](../Ohms%20law/Voltage.md) is the same across all components in parallel.
+- The [Voltage](../Voltage/Voltage.md) is the same across all components in parallel.
 
 Animation of a [Parallel Circuit](../../..//Electronics/Circuits/Parallel%20Circuit.md)[^1]
 ![Parallel-Circuit](Parallel-Circuit.gif)s

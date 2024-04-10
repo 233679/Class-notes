@@ -3,7 +3,7 @@ In a [Series Circuit](../../..//Electronics/Circuits/Series%20Circuit.md) compon
 
 #### Key Facts:
 - [Current](../Ohms%20law/Current.md) is equal across every component / part of the [Circuit](Circuit.md)
-- [Voltage](../Ohms%20law/Voltage.md) is the sum of the [Voltage Drop](../Voltage%20Drop.md) over every component in the [Circuit](Circuit.md)
+- [Voltage](../Voltage/Voltage.md) is the sum of the [Voltage Drop](../Voltage/Voltage%20Drop.md) over every component in the [Circuit](Circuit.md)
 - [Resistance](../Ohms%20law/Resistance.md) is equal to the value of all the [Resistances](../Ohms%20law/Resistance.md) summed up.
 
 Animation of a [Series Circuit](../../..//Electronics/Circuits/Series%20Circuit.md)[^1]

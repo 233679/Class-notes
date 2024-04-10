@@ -1,6 +1,6 @@
 # Voltage Ripple
 
-[Voltage Ripple](../../..//Electronics/Power%20Supply%20Units/Voltage%20Ripple.md) is the difference between the highest & lowest [pk](Peak%20Voltage.md) of a [DC](../DC.md) [Voltage](../Ohms%20law/Voltage.md).
+[Voltage Ripple](../../..//Electronics/Power%20Supply%20Units/Voltage%20Ripple.md) is the difference between the highest & lowest [pk](Peak%20Voltage.md) of a [DC](../DC.md) [Voltage](../Voltage/Voltage.md).
 
 Voltage ripple is defined by the formula:
 $Vrip = Il/Fr *C$

@@ -6,4 +6,4 @@ Example [Circuit](../Circuits/Circuit.md) of a [Half wave rectifier](Half%20wave
 
 Example waveform of a [Half wave rectifier](Half%20wave%20rectifier.md):
 ![](Half-Wave-Rectifier-Waveform.jpeg)
-The drop in [Peak Voltage](Peak%20Voltage.md) between the input & the output is because the [Current](../Ohms%20law/Current.md) flows though a [Diodes](../Diodes/Diodes.md), experiencing a [Voltage Drop](../Voltage%20Drop.md) of 0.7V.
+The drop in [Peak Voltage](Peak%20Voltage.md) between the input & the output is because the [Current](../Ohms%20law/Current.md) flows though a [Diodes](../Diodes/Diodes.md), experiencing a [Voltage Drop](../Voltage/Voltage%20Drop.md) of 0.7V.
