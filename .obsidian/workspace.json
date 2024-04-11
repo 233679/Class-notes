@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "854c7bb547342338",
+            "id": "9732cfd6286c6d5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/Diodes/Diodes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff86d69e5ffdc941",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Electronics/Diodes/Diodes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb8c0577e48bceac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Particles/Atom.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "927253d2cad795fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Electronics/Power Supply Units/Full Wave Rectifier.md",
+                "file": "Computer-Science/Processor Scheduling/Processor Scheduling.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Power Supply Units/Full Wave Rectifier.md",
+                "file": "Computer-Science/Processor Scheduling/Processor Scheduling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Power Supply Units/Full Wave Rectifier.md",
+                "file": "Computer-Science/Processor Scheduling/Processor Scheduling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Power Supply Units/Full Wave Rectifier.md"
+                "file": "Computer-Science/Processor Scheduling/Processor Scheduling.md"
               }
             }
           }
@@ -191,50 +154,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "927253d2cad795fd",
+  "active": "9732cfd6286c6d5b",
   "lastOpenFiles": [
-    "Electronics/Equivalent Circuit/Equivalent Circuit.md",
+    "Computer-Science/Processor Scheduling/Starvation.md",
+    "Computer-Science/Processor Scheduling/Processor Scheduling.md",
+    "Computer-Science/Processor Scheduling/Pre-Emptive.md",
+    "Computer-Science/Processor Scheduling/Non Pre-emptive.md",
+    "Computer-Science/Architecture/RAM.md",
+    "Computer-Science/Architecture/Register.md",
+    "Computer-Science/Architecture/Secondary Storage.md",
+    "Computer-Science/Architecture/Word.md",
+    "Computer-Science/Architecture/Address Bus.md",
+    "Computer-Science/Architecture/ALU.md",
+    "Computer-Science/Architecture/IO Device.md",
+    "Computer-Science/Architecture/Memory.md",
+    "Computer-Science/Architecture/Data bus.md",
+    "Computer-Science/Architecture/Motherboard.md",
+    "Computer-Science/Architecture/Data Bus.md",
+    "Computer-Science/Architecture/CPU Cache.md",
+    "Computer-Science/Architecture/CPU Core.md",
+    "Computer-Science/Architecture/CPU.md",
+    "Computer-Science/Processor Scheduling/Pre-emptive.md",
+    "Computer-Science/Architecture/Memory Address.md",
+    "Computer-Science/Architecture/Program Counter.md",
+    "Computer-Science/Parallel.md",
+    "Computer-Science/Data Structures/Queue.md",
+    "Computer-Science/Data Structures/List.md",
+    "Computer-Science/Operating System.md",
+    "Computer-Science/Multi-Tasking.md",
+    "Computer-Science/Architecture",
+    "Computer-Science/Data Structures",
+    "Computer-Science/Processor Scheduling",
     "Electronics/Equivalent Circuit/Equivalent-Circuit.png",
-    "Electronics/Voltage/Voltage Drop.md",
-    "Electronics/Short Circuit.md",
     "Electronics/Equivalent Circuit/To-Equivalent-Circuit.png",
     "Electronics/Equivalent Circuit/To-Equivalent-Circuit.png",
-    "Physics/Electricity/Critical Temperature.md",
     "Electronics/Equivalent Circuit",
-    "Physics/Electricity/Super Conductor.md",
-    "Physics/Particles/Atom.md",
     "Physics/Electricity",
-    "Physics/Particles/Proton.md",
-    "Physics/Particles/Electron.md",
-    "Physics/Particles/Neutron.md",
-    "TODO.md",
     "Physics/Particles",
-    "Electronics/Voltage/Voltage Divider.md",
     "Physics",
-    "Electronics/Diodes/Diodes.md",
     "Electronics/Diodes/Zener-Diode-Graph.png",
-    "Electronics/Diodes/Silicone Diodes.md",
-    "Electronics/Diodes/Light Emitting Diodes.md",
-    "Electronics/Diodes/Zener Diodes.md",
-    "Electronics/Ohms law/Current.md",
-    "Electronics/Power Supply Units/Full Wave Rectifier.md",
     "Electronics/Power Supply Units/Full-Wave-Rectifier-Smooth-Waveform.png",
     "Electronics/Power Supply Units/Full-Wave-Rectifier-Smooth-Circuit.png",
     "Electronics/Power Supply Units/Full-Wave-Rectifier-Waveform.png",
     "Electronics/Power Supply Units/Full-Wave-Rectifier-Circuit.png",
-    "Electronics/Power Supply Units/Half wave rectifier.md",
     "Electronics/Power Supply Units/Half-Wave-Rectifier-Waveform.jpeg",
-    "Electronics/Power Supply Units/Half Wave Rectifier.md",
-    "Electronics/Power Supply Units/Peak Voltage.md",
-    "Electronics/Capacitance/Farads.md",
-    "Half Wave Rectifier.md",
-    "Electronics/AC.md",
-    "Electronics/Circuits/Parallel Circuit.md",
-    "Electronics/Power Supply Units/Voltage Stabilization.md",
     "Electronics/Capacitance",
     "Algorithm-Complexity/Examples/Insertion.java",
-    "Algorithm-Complexity/Examples/Bubble.java",
-    "Algorithm-Complexity/Examples/New Text Document.txt",
-    "Algorithm-Complexity/Examples/Insertion.mf"
+    "Algorithm-Complexity/Examples/Bubble.java"
   ]
 }
