@@ -2,7 +2,7 @@
 The [Voltage Divider](Voltage%20Divider.md) equation / [Circuit](../Circuits/Circuit.md) can be used to find the [Voltage Drop](Voltage%20Drop.md) of a component.
 
 The [Voltage Divider](Voltage%20Divider.md) [Circuit](../Circuits/Circuit.md) is shown bellow:[^1]
-![](Voltage-Divider-Circuit.jpg)
+![Voltage-Divider-Circuit](Voltage-Divider-Circuit.jpg)
 To measure the [Voltage](Voltage.md) of $R_2$ measure the [Voltage](Voltage.md) between $V_{out}$ and ground.
 To measure the [Voltage](Voltage.md) of $R_1$ subtract the [Voltage](Voltage.md) over $R_2$ from $V_{in}$ .
 
