@@ -2,7 +2,7 @@
 Is the ability of a material to conduct [Current](../Ohms%20law/Current.md).
 
 It's calculated with the formula:
-$S = \Delta I / \Delta V$ 
+$S = \Delta I / \Delta V$
 - $S$ - Siemens
 - $\Delta I$ - Change in [Current](../Ohms%20law/Current.md)
 - $\Delta V$ - Change in [Voltage](../Voltage/Voltage.md)

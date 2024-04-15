@@ -1,10 +1,11 @@
+# Big-O-Exam-Question
 A 1-dimensional array stores a set of numbered cards from 0 to 7. An example of this data is shown in Fig in 4.1:
 
 ![Big-O-Fig-4.1](Big-O-Fig-4.1.png)
 
-A programmer is writing a computer program to sort the cards into the correct order (0 to 7).  Sorting algorithms the programmer could have used are a merge sort, bubble sort, and insertion sort. The worst case scenario for Merge is O(n log(n)) and for Bubble and insertion is O(n^2). 
+A programmer is writing a computer program to sort the cards into the correct order (0 to 7).  Sorting algorithms the programmer could have used are a merge sort, bubble sort, and insertion sort. The worst case scenario for Merge is O(n log(n)) and for Bubble and insertion is O(n^2).
 
-Compare the use of a merge sort and a bubble sort and an insertion sort on this array, evaluating the performance of each sort, making reference to the worse case Big O notation  
+Compare the use of a merge sort and a bubble sort and an insertion sort on this array, evaluating the performance of each sort, making reference to the worse case Big O notation
 
 - For Knowledge points (4) describe how each algorithm works
 - For application (4 points) explain the big O for each algorithms including best, worst and average case time complexity and space complexity
@@ -14,9 +15,8 @@ You can use the internet to research your answer
 
 ---
 
-
-Bubble sort works by iterating over the array, comparing adjacent values. If the second value is smaller than the first value, swap it. 
-The best case for bubble sort is O($n$). The average & worst case is O($n^2$). The space complexity is O($1$). 
+Bubble sort works by iterating over the array, comparing adjacent values. If the second value is smaller than the first value, swap it.
+The best case for bubble sort is O($n$). The average & worst case is O($n^2$). The space complexity is O($1$).
 
 Insertion sort works by iterating & checking if the next element is bigger than the previous element. If it finds an element that is out of order it swaps the first & last element. It then keeps moving back in the array with the element until it's in order. It then jumps back to the index the element was original at & keeps iterating over the array. The best case for insertion sort is O($n$). The average & worst case is O($n^2$). The space complexity is O($1$).
 

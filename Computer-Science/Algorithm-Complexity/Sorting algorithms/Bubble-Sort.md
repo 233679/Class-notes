@@ -1,8 +1,7 @@
 # Bubble Sort
-This algorithm iterates over an array, comparing adjacent elements. If the elements are out of order they are swapped. This produces an effect where the highest element is "bubbled" to the end of the array on each iteration. 
+This algorithm iterates over an array, comparing adjacent elements. If the elements are out of order they are swapped. This produces an effect where the highest element is "bubbled" to the end of the array on each iteration.
 
-The algorithm performs two comparisons per switch so therefore it has a [Big O](../Big-O.md) of O($n^2$); this makes it a [quadratic](../Complexity/Quadratic-Complexity.md) algorithm. 
-
+The algorithm performs two comparisons per switch so therefore it has a [Big O](../Big-O.md) of O($n^2$); this makes it a [quadratic](../Complexity/Quadratic-Complexity.md) algorithm.
 
 # Optimizations
 
