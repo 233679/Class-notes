@@ -1,4 +1,5 @@
 [
   "update-relative-links",
-  "obsidian-linter"
+  "obsidian-linter",
+  "webpage-html-export"
 ]
