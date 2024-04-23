@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Uncertainties/Percentage Uncertainty.md",
+                "file": "Physics/Springs/Hooks law.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "aa29c9f1af9ff92a",
+            "id": "2aa18a9c6baf7ac8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Uncertainties/Uncertainty.md",
+                "file": "Physics/Springs/Spring Constant.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Uncertainties/Percentage Uncertainty.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Uncertainties/Percentage Uncertainty.md",
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Uncertainties/Percentage Uncertainty.md"
+                "file": "TODO.md"
               }
             }
           }
@@ -167,44 +167,82 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "4ffbca365d9168f5",
+  "floating": {
+    "id": "8ab10c9e6b6286ac",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5fc84908a6467f30",
+        "type": "window",
+        "children": [
+          {
+            "id": "05b47a5d009be42f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2b855c671206e017",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "TODO.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 233,
+        "y": 228,
+        "width": 900,
+        "height": 500,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "2b855c671206e017",
   "lastOpenFiles": [
+    "Index.md",
+    "Physics/Uncertainties/Uncertainty.md",
+    "Physics/Uncertainties/Resolution.md",
+    "Physics/Uncertainties/Reliable.md",
+    "Physics/Uncertainties/Percentage Uncertainty.md",
+    "Physics/Uncertainties/Absolute Uncertainty.md",
+    "Physics/Springs/Spring Constant.md",
+    "Physics/Springs/Rubber Band.md",
+    "Physics/Springs/Plastic Deformation.md",
+    "Physics/Springs/Hooks law.md",
+    "Physics/Springs/Energy.md",
+    "Physics/Springs/Elastic Deformation.md",
+    "Physics/Springs/Ductile.md",
+    "Physics/Springs/Brittle.md",
+    "Physics/Particles/Proton.md",
+    "Physics/Particles/Neutron.md",
+    "Physics/Particles/Electron.md",
+    "Physics/Materials/Density.md",
+    "Physics/Electricity/Super Conductor.md",
+    "Physics/Electricity/Critical Temperature.md",
+    "Electronics/Short Circuit.md",
+    "Electronics/DC.md",
+    "Electronics/AC.md",
+    "Electronics/Voltage/Voltage Drop.md",
+    "Electronics/Voltage/Voltage Divider.md",
+    "Electronics/Resistance/Transconductance.md",
+    "Physics/Springs/Hooks-Law-Graph.png",
+    "Physics/Materials",
+    "Physics/Springs",
     "website/Physics/Uncertainties/Resolution.html",
     "website/Physics/Uncertainties/Uncertainty.html",
     "website/Physics/Uncertainties/Percentage Uncertainty.html",
     "website/Physics/Uncertainties/Absolute Uncertainty.html",
-    "TODO.md",
-    "Physics/Electricity/Critical Temperature.md",
-    "Physics/Electricity/Super Conductor.md",
-    "Physics/Particles/Atom.md",
-    "Physics/Particles/Electron.md",
-    "Physics/Particles/Neutron.md",
-    "Physics/Particles/Proton.md",
-    "Physics/Uncertainties/Precise.md",
-    "Physics/Uncertainties/Reliable.md",
-    "Physics/Uncertainties/Uncertainty.md",
-    "Physics/Uncertainties/Percentage Uncertainty.md",
-    "Physics/Uncertainties/Absolute Uncertainty.md",
-    "Electronics/AC.md",
-    "Electronics/Astable Circuits/Relaxation Oscillator.md",
-    "Electronics/Capacitance/Capacitance.md",
-    "Electronics/Capacitance/Capacitor.md",
-    "Electronics/Capacitance/Farads.md",
-    "Electronics/Circuits/Parallel Circuit.md",
-    "Electronics/Circuits/Series Circuit.md",
-    "Electronics/DC.md",
-    "Electronics/Diodes/Diodes.md",
-    "Electronics/Diodes/Light Emitting Diodes.md",
-    "Electronics/Diodes/Silicone Diodes.md",
-    "Electronics/Diodes/Zener Diodes.md",
-    "Electronics/Equivalent Circuit/Equivalent Circuit.md",
     "website/Computer-Science/Data Structures/Queue.html",
     "website/Computer-Science/Data Structures/List.html",
     "website/Computer-Science/Data Structures",
     "website/Computer-Science/Architecture/Word.html",
-    "website/Computer-Science/Architecture/Secondary Storage.html",
-    "website/Computer-Science/Architecture/Register.html",
-    "website/Computer-Science/Architecture/RAM.html",
     "website/Computer-Science/Algorithm-Complexity/Sorting algorithms/Insertion-Sort-Example-Image.png",
     "website/Computer-Science/Algorithm-Complexity/Exam-Practice/Big-O-Fig-4.1.png",
     "website/Computer-Science/Algorithm-Complexity/Complexity/Quadratic-Complexity-Graph.jpg",
@@ -213,7 +251,6 @@
     "website/Computer-Science/Algorithm-Complexity/Complexity/Linear-Complexity-Graph.jpg",
     "website/Computer-Science/Algorithm-Complexity/Complexity/Constant-Complexity-Graph.jpg",
     "Electronics/Equivalent Circuit/Equivalent-Circuit.png",
-    "Electronics/Equivalent Circuit/To-Equivalent-Circuit.png",
     "Electronics/Equivalent Circuit/To-Equivalent-Circuit.png"
   ]
 }
