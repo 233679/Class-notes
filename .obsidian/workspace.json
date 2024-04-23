@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Springs/Hooks law.md",
+                "file": "Electronics/Latches/SR Bistable.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b97929f46e1bc45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electronics/Latches/SR Bistable.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e36694d07eb019a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electronics/Active Low.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,19 +193,19 @@
     }
   },
   "floating": {
-    "id": "8ab10c9e6b6286ac",
+    "id": "8ba22e4bc8a1f0fa",
     "type": "floating",
     "children": [
       {
-        "id": "5fc84908a6467f30",
+        "id": "c04e64be85db6f6e",
         "type": "window",
         "children": [
           {
-            "id": "05b47a5d009be42f",
+            "id": "0208161cc9e5aee4",
             "type": "tabs",
             "children": [
               {
-                "id": "2b855c671206e017",
+                "id": "f00dad2a943bf741",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -204,34 +229,46 @@
       }
     ]
   },
-  "active": "2b855c671206e017",
+  "active": "f00dad2a943bf741",
   "lastOpenFiles": [
-    "Index.md",
-    "Physics/Uncertainties/Uncertainty.md",
-    "Physics/Uncertainties/Resolution.md",
-    "Physics/Uncertainties/Reliable.md",
-    "Physics/Uncertainties/Percentage Uncertainty.md",
-    "Physics/Uncertainties/Absolute Uncertainty.md",
-    "Physics/Springs/Spring Constant.md",
-    "Physics/Springs/Rubber Band.md",
-    "Physics/Springs/Plastic Deformation.md",
-    "Physics/Springs/Hooks law.md",
-    "Physics/Springs/Energy.md",
-    "Physics/Springs/Elastic Deformation.md",
-    "Physics/Springs/Ductile.md",
-    "Physics/Springs/Brittle.md",
-    "Physics/Particles/Proton.md",
-    "Physics/Particles/Neutron.md",
-    "Physics/Particles/Electron.md",
-    "Physics/Materials/Density.md",
-    "Physics/Electricity/Super Conductor.md",
     "Physics/Electricity/Critical Temperature.md",
-    "Electronics/Short Circuit.md",
-    "Electronics/DC.md",
+    "Physics/Electricity/Super Conductor.md",
+    "Physics/Materials/Density.md",
+    "Physics/Particles/Atom.md",
+    "Physics/Particles/Electron.md",
+    "Physics/Particles/Neutron.md",
+    "Physics/Particles/Proton.md",
+    "Physics/Springs/Brittle.md",
+    "Physics/Springs/Ductile.md",
+    "Physics/Springs/Energy.md",
+    "Physics/Springs/Hooks law.md",
+    "Physics/Springs/Plastic Deformation.md",
+    "Physics/Springs/Plastic.md",
+    "Physics/Springs/Spring Constant.md",
+    "Physics/Uncertainties/Absolute Uncertainty.md",
+    "Physics/Uncertainties/Percentage Uncertainty.md",
+    "Physics/Uncertainties/Precise.md",
+    "Physics/Uncertainties/Reliable.md",
+    "Physics/Uncertainties/Uncertainty.md",
     "Electronics/AC.md",
-    "Electronics/Voltage/Voltage Drop.md",
-    "Electronics/Voltage/Voltage Divider.md",
-    "Electronics/Resistance/Transconductance.md",
+    "Electronics/Active Low.md",
+    "Electronics/Astable Circuits/Relaxation Oscillator.md",
+    "Electronics/Boolean Algebra/Boolean Algebra.md",
+    "Electronics/Capacitance/Capacitance.md",
+    "Electronics/Capacitance/Capacitor.md",
+    "Electronics/Capacitance/Farads.md",
+    "Electronics/Latches/SR-Sequence-Diagram.png",
+    "Electronics/Latches/SR-Sequence-Table.png",
+    "Electronics/Latches/SR-Layout.png",
+    "Electronics/Latches/SR-Truth-Table.png",
+    "Electronics/Logic Gates/NAND-TRUTH.png",
+    "Electronics/Logic Gates/NAND-GATE.png",
+    "Electronics/Latches/Low-Signal-Words.png",
+    "Electronics/Latches/Simple-SR-Bistable.png",
+    "Electronics/Output Representations",
+    "Electronics/Logic Gates/Truth-Table-Example.jpg",
+    "Electronics/Latches",
+    "Electronics/Boolean Algebra",
     "Physics/Springs/Hooks-Law-Graph.png",
     "Physics/Materials",
     "Physics/Springs",
@@ -239,18 +276,6 @@
     "website/Physics/Uncertainties/Uncertainty.html",
     "website/Physics/Uncertainties/Percentage Uncertainty.html",
     "website/Physics/Uncertainties/Absolute Uncertainty.html",
-    "website/Computer-Science/Data Structures/Queue.html",
-    "website/Computer-Science/Data Structures/List.html",
-    "website/Computer-Science/Data Structures",
-    "website/Computer-Science/Architecture/Word.html",
-    "website/Computer-Science/Algorithm-Complexity/Sorting algorithms/Insertion-Sort-Example-Image.png",
-    "website/Computer-Science/Algorithm-Complexity/Exam-Practice/Big-O-Fig-4.1.png",
-    "website/Computer-Science/Algorithm-Complexity/Complexity/Quadratic-Complexity-Graph.jpg",
-    "website/Computer-Science/Algorithm-Complexity/Complexity/Logarithmic-Complexity-Graph.jpg",
-    "website/Computer-Science/Algorithm-Complexity/Complexity/Linearithmic-Complexity-Graph.jpg",
-    "website/Computer-Science/Algorithm-Complexity/Complexity/Linear-Complexity-Graph.jpg",
-    "website/Computer-Science/Algorithm-Complexity/Complexity/Constant-Complexity-Graph.jpg",
-    "Electronics/Equivalent Circuit/Equivalent-Circuit.png",
-    "Electronics/Equivalent Circuit/To-Equivalent-Circuit.png"
+    "website/Computer-Science/Data Structures/Queue.html"
   ]
 }
