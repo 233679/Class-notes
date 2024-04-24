@@ -13,4 +13,4 @@ The exam board has defined certain types of [Operating Systems](Operating%20Syst
 
 ![Device Drivers](Device%20Drivers.md)
 
-![Virtualisation](Virtualisation.md)
+![Virtualization](Virtualization.md)
