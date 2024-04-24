@@ -8,6 +8,8 @@ The exam board has defined certain types of [Operating Systems](Operating%20Syst
 - [Embedded Operating Systems](Embedded%20Operating%20Systems.md).
 - [Open-source Operating Systems](Open-source%20Operating%20Systems.md).
 - [Real Time Operating System](Real%20Time%20Operating%20System.md).
+- [[Multi User Operating System]].
+- [[Multi Task Operating System]].
 
 ![Device Drivers](Device%20Drivers.md)
 
