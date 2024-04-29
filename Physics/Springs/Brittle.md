@@ -1,2 +1,0 @@
-# Brittle
-[[../../TODO|TODO]]

@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "35046bb28ff0539e",
+        "id": "dbe77ce842ed5d3a",
         "type": "tabs",
         "children": [
           {
-            "id": "1b97929f46e1bc45",
+            "id": "244091a6a6819a5d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer-Science/Operating Systems/Operating System.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0fcd56f3fdaec405",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer-Science/Operating Systems/Operating System.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a095493bcaeffc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer-Science/Operating Systems/Operating System.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0d527a9c0e0598e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer-Science/Multi-Tasking.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer-Science/Operating Systems/Operating System.md",
+                "file": "Physics/Momentum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer-Science/Operating Systems/Operating System.md",
+                "file": "Physics/Momentum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer-Science/Operating Systems/Operating System.md"
+                "file": "Physics/Momentum.md"
               }
             }
           }
@@ -192,8 +151,37 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5a095493bcaeffc4",
+  "active": "b3aa182553593f5a",
   "lastOpenFiles": [
+    "Physics/Materials/Springs/Stress Strain Graph.md",
+    "Physics/Momentum.md",
+    "Physics/Materials/Springs/Brittle.md",
+    "Electronics/Timing/Flip Flop/Flip Flop.md",
+    "Electronics/Timing/Flip Flop/Flip-Flop-Sequence-2.png",
+    "Electronics/Timing/Flip Flop/Flip-Flop-Sequence.png",
+    "Electronics/Output Representations/Sequence Diagram.md",
+    "Electronics/Output Representations/Sequence Table.md",
+    "Electronics/Timing/Clock/Clock.md",
+    "Electronics/Timing/Clock/Falling-Edge.png",
+    "Electronics/Timing/Latches/SR Bistable.md",
+    "Electronics/Timing/Latches/Low-Signal-Words.png",
+    "Electronics/Timing",
+    "Electronics/Timing/Clock/Rising-Edge.png",
+    "Electronics/Timing/Clock/Clock-Mark.png",
+    "Electronics/Pasted image 20240425140111.png",
+    "Electronics/Timing/Clock",
+    "Electronics/AC-image.png",
+    "Electronics/Timing/Flip Flop/Flip Fop Image.png",
+    "Electronics/DC.md",
+    "Electronics/Timing/Flip Flop",
+    "Electronics/Untitled.md",
+    "Physics/Materials/Springs/Hooks law.md",
+    "Physics/Materials/Springs/Elastic Deformation.md",
+    "Physics/Materials/Springs/Ductile.md",
+    "Physics/Materials/Density.md",
+    "Physics/Materials/Springs/Energy.md",
+    "Physics/Materials/Springs/Spring Constant.md",
+    "Computer-Science/Operating Systems/Operating System.md",
     "TODO.md",
     "index.md",
     "Physics/Alloy.md",
@@ -203,23 +191,6 @@
     "Physics/Uncertainties/Precise.md",
     "Physics/Uncertainties/Percentage Uncertainty.md",
     "Physics/Uncertainties/Accurate.md",
-    "Physics/Uncertainties/Absolute Uncertainty.md",
-    "Physics/Springs/Spring Constant.md",
-    "Physics/Springs/Rubber Band.md",
-    "Physics/Springs/Plastic Deformation.md",
-    "Physics/Springs/Plastic.md",
-    "Physics/Springs/Hooks law.md",
-    "Physics/Springs/Energy.md",
-    "Physics/Springs/Elastic Deformation.md",
-    "Physics/Springs/Ductile.md",
-    "Physics/Springs/Brittle.md",
-    "Physics/Particles/Proton.md",
-    "Physics/Particles/Neutron.md",
-    "Physics/Particles/Electron.md",
-    "Physics/Particles/Atom.md",
-    "Physics/Materials/Density.md",
-    "Physics/Electricity/Super Conductor.md",
-    "Physics/Electricity/Critical Temperature.md",
     "website/index.html",
     "website/Computer-Science/Operating Systems/Multi User Operating System.html",
     "website/Computer-Science/Operating Systems/Multi Task Operating System.html",
@@ -227,18 +198,6 @@
     "website/Electronics/Propagation Delay/Propagation Delay.html",
     "website/Electronics/Propagation Delay/Propagation Delay Example.png",
     "website/Electronics/Propagation Delay",
-    "Electronics/Propagation Delay/Propagation Delay Example.png",
-    "Electronics/Propagation Delay",
-    "Electronics/Latches/SR-Sequence-Diagram.png",
-    "Electronics/Latches/SR-Sequence-Table.png",
-    "Electronics/Latches/SR-Layout.png",
-    "Electronics/Latches/SR-Truth-Table.png",
-    "Electronics/Logic Gates/NAND-TRUTH.png",
-    "Electronics/Logic Gates/NAND-GATE.png",
-    "Electronics/Latches/Low-Signal-Words.png",
-    "Electronics/Latches/Simple-SR-Bistable.png",
-    "Electronics/Output Representations",
-    "Electronics/Latches",
-    "Electronics/Boolean Algebra"
+    "Electronics/Timing/Propagation Delay"
   ]
 }
