@@ -8,14 +8,31 @@
         "type": "tabs",
         "children": [
           {
+            "id": "a0ddc9f4185ce262",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Practice/Practice one.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "244091a6a6819a5d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Practice/Practice one.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Momentum.md",
+                "file": "Physics/Practice/Practice one.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Momentum.md",
+                "file": "Physics/Practice/Practice one.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Momentum.md"
+                "file": "Physics/Practice/Practice one.md"
               }
             }
           }
@@ -151,11 +168,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b3aa182553593f5a",
+  "active": "244091a6a6819a5d",
   "lastOpenFiles": [
+    "Physics/Materials/Springs/Young Modulus.md",
+    "Physics/Materials/Springs/Hookes law.md",
+    "Physics/Materials/Springs/Spring Constant.md",
     "Physics/Materials/Springs/Stress Strain Graph.md",
-    "Physics/Momentum.md",
     "Physics/Materials/Springs/Brittle.md",
+    "Physics/Practice/Practice one.md",
+    "Physics/Practice",
+    "Physics/Momentum.md",
     "Electronics/Timing/Flip Flop/Flip Flop.md",
     "Electronics/Timing/Flip Flop/Flip-Flop-Sequence-2.png",
     "Electronics/Timing/Flip Flop/Flip-Flop-Sequence.png",
@@ -175,12 +197,10 @@
     "Electronics/DC.md",
     "Electronics/Timing/Flip Flop",
     "Electronics/Untitled.md",
-    "Physics/Materials/Springs/Hooks law.md",
     "Physics/Materials/Springs/Elastic Deformation.md",
     "Physics/Materials/Springs/Ductile.md",
     "Physics/Materials/Density.md",
     "Physics/Materials/Springs/Energy.md",
-    "Physics/Materials/Springs/Spring Constant.md",
     "Computer-Science/Operating Systems/Operating System.md",
     "TODO.md",
     "index.md",
@@ -189,15 +209,12 @@
     "Physics/Uncertainties/Resolution.md",
     "Physics/Uncertainties/Reliable.md",
     "Physics/Uncertainties/Precise.md",
-    "Physics/Uncertainties/Percentage Uncertainty.md",
-    "Physics/Uncertainties/Accurate.md",
     "website/index.html",
     "website/Computer-Science/Operating Systems/Multi User Operating System.html",
     "website/Computer-Science/Operating Systems/Multi Task Operating System.html",
     "website/Electronics/Prop.html",
     "website/Electronics/Propagation Delay/Propagation Delay.html",
     "website/Electronics/Propagation Delay/Propagation Delay Example.png",
-    "website/Electronics/Propagation Delay",
-    "Electronics/Timing/Propagation Delay"
+    "website/Electronics/Propagation Delay"
   ]
 }

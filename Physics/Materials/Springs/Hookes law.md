@@ -1,5 +1,5 @@
-# Hooks Law
-[[Hooks law]] is a law that describes how much a material will [[Elastic Deformation|Elastically Deform]] under a given force.
+# Hookes Law
+[[Hookes law]] is a law that describes how much a material will [[Elastic Deformation|Elastically Deform]] under a given force.
 
 [[../../../TODO|TODO]] add image from ray paper.
 
