@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Physics/Materials/Young Modulus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e18450a4edb6edb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Physics/Homework/Materials Catchup.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,53 +168,52 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9807752b8230c3e1",
+  "active": "e18450a4edb6edb5",
   "lastOpenFiles": [
-    "Physics/Materials/Springs/Young Modulus.md",
-    "Physics/Materials/Springs/Tensile Stress.md",
-    "Physics/Materials/Springs/Spring Constant.md",
-    "Physics/Materials/Springs/Stress Strain Graph.md",
+    "Physics/Materials/Young Modulus.md",
+    "Physics/Materials/Strain Energy.md",
     "Physics/Homework/Materials Catchup.md",
-    "Physics/Materials/Springs/Hookes law.md",
-    "Physics/Homework/Pasted image 20240429140755.png",
-    "Physics/Homework/Pasted image 20240429140213.png",
-    "Physics/Homework/Pasted image 20240429142740.png",
-    "Physics/Homework/Pasted image 20240429141646.png",
-    "Physics/Homework/Pasted image 20240429141422.png",
-    "Physics/Practice/Practice one.md",
-    "Physics/Homework",
-    "Physics/Homework.md",
-    "Physics/Materials/Springs/Brittle.md",
-    "Physics/Practice",
-    "Physics/Momentum.md",
-    "Electronics/Timing/Flip Flop/Flip Flop.md",
-    "Electronics/Timing/Flip Flop/Flip-Flop-Sequence-2.png",
-    "Electronics/Timing/Flip Flop/Flip-Flop-Sequence.png",
-    "Electronics/Output Representations/Sequence Diagram.md",
-    "Electronics/Output Representations/Sequence Table.md",
-    "Electronics/Timing/Clock/Clock.md",
-    "Electronics/Timing/Clock/Falling-Edge.png",
-    "Electronics/Timing/Latches/SR Bistable.md",
-    "Electronics/Timing/Latches/Low-Signal-Words.png",
-    "Electronics/Timing",
-    "Electronics/Timing/Clock/Rising-Edge.png",
-    "Electronics/Timing/Clock",
-    "Electronics/DC.md",
-    "Electronics/Timing/Flip Flop",
-    "Electronics/Untitled.md",
-    "Physics/Materials/Springs/Elastic Deformation.md",
-    "Physics/Materials/Springs/Ductile.md",
+    "Physics/Homework/193-1.png",
+    "Physics/Materials/Strain-Graph-Annotated.png",
+    "Physics/Materials/Strain-Graph.png",
+    "Physics/Materials/Proportional Limit.md",
+    "Physics/Materials/Tensile Stress.md",
+    "Physics/Materials/Plastic Deformation.md",
+    "Physics/Materials/Energy.md",
+    "Physics/Materials/Plastic.md",
+    "Physics/Materials/Brittle.md",
     "Physics/Materials/Density.md",
-    "Physics/Materials/Springs/Energy.md",
-    "Computer-Science/Operating Systems/Operating System.md",
-    "TODO.md",
-    "index.md",
-    "Physics/Alloy.md",
-    "Physics/Uncertainties/Uncertainty.md",
+    "Physics/Materials/Ductile.md",
+    "Physics/Materials/Stiffness.md",
+    "Physics/Materials/Strength.md",
+    "Physics/Materials/Ultimate Tensile Strength.md",
+    "Physics/Materials/Stress Strain Graph.md",
+    "Physics/Materials/Stress-Strain-Graph.png",
+    "Physics/Homework/191-4.png",
+    "Physics/Homework/191-3.png",
+    "Physics/Homework/191-2.png",
+    "Physics/Homework/191-1.png",
+    "Physics/Homework/188-4.png",
+    "Physics/Homework/188-3.png",
+    "Physics/Homework/Pasted image 20240430110128.png.md",
+    "Physics/Materials/Spring Constant.md",
+    "Physics/Materials/Hookes law.md",
+    "Physics/Waves/Similar Waves.md",
+    "Physics/Materials/Elastic Deformation.md",
+    "Physics/Uncertainties/Percentage Uncertainty.md",
+    "Physics/Uncertainties/Absolute Uncertainty.md",
+    "Physics/Equipment/ClampStand.md",
+    "Physics/Equipment/Setsquare.md",
+    "Physics/Waves/Constructive Interference.md",
+    "Physics/Equipment",
+    "Physics/Waves",
+    "Physics/Homework",
+    "Physics/Practice",
+    "Electronics/Timing",
+    "Electronics/Timing/Clock",
+    "Electronics/Timing/Flip Flop",
     "website/index.html",
     "website/Computer-Science/Operating Systems/Multi User Operating System.html",
-    "website/Computer-Science/Operating Systems/Multi Task Operating System.html",
-    "website/Electronics/Prop.html",
-    "website/Electronics/Propagation Delay/Propagation Delay.html"
+    "website/Computer-Science/Operating Systems/Multi Task Operating System.html"
   ]
 }

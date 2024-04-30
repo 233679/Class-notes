@@ -7,3 +7,5 @@ F - Force
 L - Starting Length
 A - Cross sectional area
 $\Delta$L - Change in length
+
+The symbol for [[Young Modulus]] is $E_y$. It's usually measured in pascals $Pa$

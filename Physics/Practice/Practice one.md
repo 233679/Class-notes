@@ -4,7 +4,7 @@
 ### Q2
 A: $\frac{100 \times 10^{6}}{7 \times 10^{-4}}$ = $1.4 \times 10^{11}Pa$
 
-B: The graph shows a [[../Materials/Springs/Brittle|Brittle]] material, as the graph doesn't show [[../Materials/Springs/Plastic Deformation|Plastic Deformation]].
+B: The graph shows a [[../Materials/Brittle|Brittle]] material, as the graph doesn't show [[../Materials/Plastic Deformation|Plastic Deformation]].
 
 C: $\frac{FL}{A \Delta L} = E_y$
 
