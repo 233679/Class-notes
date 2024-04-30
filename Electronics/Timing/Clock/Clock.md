@@ -9,3 +9,5 @@ The above symbol represents a rising edge triggered clock.
 
 The bellow symbol represents a falling edge triggered clock.
 ![[Falling-Edge.png]]
+
+[[Clock]] can also be mark as "CK".

@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9807752b8230c3e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Materials/Young Modulus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e18450a4edb6edb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Homework/Materials Catchup.md",
+                "file": "Electronics/Asynchronous Counters/3 Bit/Three Bit Counter.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Homework/Materials Catchup.md",
+                "file": "Electronics/Asynchronous Counters/3 Bit/Three Bit Counter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Homework/Materials Catchup.md",
+                "file": "Electronics/Asynchronous Counters/3 Bit/Three Bit Counter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Homework/Materials Catchup.md"
+                "file": "Electronics/Asynchronous Counters/3 Bit/Three Bit Counter.md"
               }
             }
           }
@@ -170,9 +157,37 @@
   },
   "active": "e18450a4edb6edb5",
   "lastOpenFiles": [
+    "Electronics/Asynchronous Counters/3 Bit/Three-Bit-Sequence-Diagram.png",
+    "Electronics/Asynchronous Counters/3 Bit/Three Bit Counter.md",
+    "Electronics/Asynchronous Counters/Asynchronous Counter.md",
+    "Electronics/Asynchronous Counters/Ripple.md",
+    "Electronics/Asynchronous Counters/2 Bit/Two Bit Counter.md",
+    "Electronics/Asynchronous Counters/3 Bit/Three-Bit-Counter.png",
+    "Electronics/Asynchronous Counters/3 Bit",
+    "Electronics/Asynchronous Counters/2 Bit/Two-Bit-Counter-Sequence-Diagram.png",
+    "Electronics/Number systems/Binary/Least Significant Bit.md",
+    "Electronics/Timing/Clock/Clock.md",
+    "Electronics/Number systems/Binary",
+    "Electronics/Number systems",
+    "Electronics/Asynchronous Counters/2 Bit/Two-Bit-Up-Counter.png",
+    "Electronics/Asynchronous Counters/1 Bit/One Bit Counter.md",
+    "Electronics/Asynchronous Counters/2 Bit",
+    "Electronics/Asynchronous Counters/Two Bit.md",
+    "Electronics/Asynchronous Counters/1 Bit/One-Bit-Counter.png",
+    "Electronics/Asynchronous Counters/1 Bit",
+    "Electronics/Asynchronous Counters/One Bit.md",
+    "Electronics/Asynchronous Counters/1 Bit/One-Bit-Counter-Sequence-Diagram.png",
+    "Electronics/De Bounce.md",
+    "Electronics/Output Representations/Sequence Diagram.md",
+    "Electronics/Timing/Flip Flop/Flip Flop.md",
+    "Electronics/Timing/Latches/SR Bistable.md",
+    "Electronics/Active Low.md",
+    "Electronics/Asynchronous Counters",
+    "Electronics/Short Circuit.md",
+    "Electronics/Prop.md",
+    "Physics/Homework/Materials Catchup.md",
     "Physics/Materials/Young Modulus.md",
     "Physics/Materials/Strain Energy.md",
-    "Physics/Homework/Materials Catchup.md",
     "Physics/Homework/193-1.png",
     "Physics/Materials/Strain-Graph-Annotated.png",
     "Physics/Materials/Strain-Graph.png",
@@ -182,38 +197,10 @@
     "Physics/Materials/Energy.md",
     "Physics/Materials/Plastic.md",
     "Physics/Materials/Brittle.md",
-    "Physics/Materials/Density.md",
-    "Physics/Materials/Ductile.md",
-    "Physics/Materials/Stiffness.md",
-    "Physics/Materials/Strength.md",
-    "Physics/Materials/Ultimate Tensile Strength.md",
-    "Physics/Materials/Stress Strain Graph.md",
     "Physics/Materials/Stress-Strain-Graph.png",
-    "Physics/Homework/191-4.png",
-    "Physics/Homework/191-3.png",
-    "Physics/Homework/191-2.png",
-    "Physics/Homework/191-1.png",
-    "Physics/Homework/188-4.png",
-    "Physics/Homework/188-3.png",
-    "Physics/Homework/Pasted image 20240430110128.png.md",
-    "Physics/Materials/Spring Constant.md",
-    "Physics/Materials/Hookes law.md",
-    "Physics/Waves/Similar Waves.md",
-    "Physics/Materials/Elastic Deformation.md",
-    "Physics/Uncertainties/Percentage Uncertainty.md",
-    "Physics/Uncertainties/Absolute Uncertainty.md",
-    "Physics/Equipment/ClampStand.md",
-    "Physics/Equipment/Setsquare.md",
-    "Physics/Waves/Constructive Interference.md",
     "Physics/Equipment",
     "Physics/Waves",
     "Physics/Homework",
-    "Physics/Practice",
-    "Electronics/Timing",
-    "Electronics/Timing/Clock",
-    "Electronics/Timing/Flip Flop",
-    "website/index.html",
-    "website/Computer-Science/Operating Systems/Multi User Operating System.html",
-    "website/Computer-Science/Operating Systems/Multi Task Operating System.html"
+    "Physics/Practice"
   ]
 }
