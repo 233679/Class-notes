@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/Asynchronous Counters/3 Bit/Three Bit Counter.md",
+                "file": "Electronics/Asynchronous Counters/Ripple.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Asynchronous Counters/3 Bit/Three Bit Counter.md",
+                "file": "Electronics/Asynchronous Counters/Ripple.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Asynchronous Counters/3 Bit/Three Bit Counter.md",
+                "file": "Electronics/Asynchronous Counters/Ripple.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Asynchronous Counters/3 Bit/Three Bit Counter.md"
+                "file": "Electronics/Asynchronous Counters/Ripple.md"
               }
             }
           }
@@ -157,8 +157,17 @@
   },
   "active": "e18450a4edb6edb5",
   "lastOpenFiles": [
-    "Electronics/Asynchronous Counters/3 Bit/Three-Bit-Sequence-Diagram.png",
+    "Electronics/Asynchronous Counters/Resetting Counters/Resetting Counters.md",
+    "Electronics/Asynchronous Counters/Resetting Counters/Resetting-Counters-Sequence-Diagram.png",
+    "Electronics/Asynchronous Counters/Resetting Counters",
+    "Electronics/Asynchronous Counters/Down Counter/Down Counter.md",
+    "Electronics/Asynchronous Counters/Down Counter/Down-Counter.png",
+    "Electronics/Asynchronous Counters/Down Counter/Down-Counter-Sequence-Diagram.png",
+    "Electronics/Asynchronous Counters/Down Counter",
+    "Electronics/Asynchronous Counters/Resetting Counters/Resetting-Circuit-Example.png",
     "Electronics/Asynchronous Counters/3 Bit/Three Bit Counter.md",
+    "Electronics/Asynchronous Counters/Reseting",
+    "Electronics/Asynchronous Counters/3 Bit/Three-Bit-Sequence-Diagram.png",
     "Electronics/Asynchronous Counters/Asynchronous Counter.md",
     "Electronics/Asynchronous Counters/Ripple.md",
     "Electronics/Asynchronous Counters/2 Bit/Two Bit Counter.md",
@@ -188,19 +197,10 @@
     "Physics/Homework/Materials Catchup.md",
     "Physics/Materials/Young Modulus.md",
     "Physics/Materials/Strain Energy.md",
-    "Physics/Homework/193-1.png",
-    "Physics/Materials/Strain-Graph-Annotated.png",
-    "Physics/Materials/Strain-Graph.png",
     "Physics/Materials/Proportional Limit.md",
     "Physics/Materials/Tensile Stress.md",
     "Physics/Materials/Plastic Deformation.md",
     "Physics/Materials/Energy.md",
-    "Physics/Materials/Plastic.md",
-    "Physics/Materials/Brittle.md",
-    "Physics/Materials/Stress-Strain-Graph.png",
-    "Physics/Equipment",
-    "Physics/Waves",
-    "Physics/Homework",
-    "Physics/Practice"
+    "Physics/Equipment"
   ]
 }
