@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/Asynchronous Counters/Ripple.md",
+                "file": "Physics/Quantum/Gold Leaf Experiment.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Asynchronous Counters/Ripple.md",
+                "file": "Physics/Quantum/Gold Leaf Experiment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Asynchronous Counters/Ripple.md",
+                "file": "Physics/Quantum/Gold Leaf Experiment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Asynchronous Counters/Ripple.md"
+                "file": "Physics/Quantum/Gold Leaf Experiment.md"
               }
             }
           }
@@ -157,6 +157,25 @@
   },
   "active": "e18450a4edb6edb5",
   "lastOpenFiles": [
+    "Physics/Electrons.md",
+    "Physics/Quantum/Gold Leaf Experiment.md",
+    "Physics/Photon.md",
+    "Physics/Intensity.md",
+    "Physics/Power.md",
+    "Physics/Electromagnetic.md",
+    "Physics/Quantum/Photoelectric Effect.md",
+    "Physics/Quantum/Photoelectron.md",
+    "Physics/Quantum/Work Function.md",
+    "Physics/Joules.md",
+    "Physics/Quantum/Threshold Frequency.md",
+    "Physics/Frequency.md",
+    "Physics/Electrostatic.md",
+    "Physics/Light/Ultra Violet.md",
+    "Physics/Light",
+    "Physics/Hertz.md",
+    "Physics/Quantum/Quantum.md",
+    "Electronics/Asynchronous Counters/Ripple.md",
+    "Physics/Quantum",
     "Electronics/Asynchronous Counters/Resetting Counters/Resetting Counters.md",
     "Electronics/Asynchronous Counters/Resetting Counters/Resetting-Counters-Sequence-Diagram.png",
     "Electronics/Asynchronous Counters/Resetting Counters",
@@ -169,7 +188,6 @@
     "Electronics/Asynchronous Counters/Reseting",
     "Electronics/Asynchronous Counters/3 Bit/Three-Bit-Sequence-Diagram.png",
     "Electronics/Asynchronous Counters/Asynchronous Counter.md",
-    "Electronics/Asynchronous Counters/Ripple.md",
     "Electronics/Asynchronous Counters/2 Bit/Two Bit Counter.md",
     "Electronics/Asynchronous Counters/3 Bit/Three-Bit-Counter.png",
     "Electronics/Asynchronous Counters/3 Bit",
@@ -184,23 +202,6 @@
     "Electronics/Asynchronous Counters/Two Bit.md",
     "Electronics/Asynchronous Counters/1 Bit/One-Bit-Counter.png",
     "Electronics/Asynchronous Counters/1 Bit",
-    "Electronics/Asynchronous Counters/One Bit.md",
-    "Electronics/Asynchronous Counters/1 Bit/One-Bit-Counter-Sequence-Diagram.png",
-    "Electronics/De Bounce.md",
-    "Electronics/Output Representations/Sequence Diagram.md",
-    "Electronics/Timing/Flip Flop/Flip Flop.md",
-    "Electronics/Timing/Latches/SR Bistable.md",
-    "Electronics/Active Low.md",
-    "Electronics/Asynchronous Counters",
-    "Electronics/Short Circuit.md",
-    "Electronics/Prop.md",
-    "Physics/Homework/Materials Catchup.md",
-    "Physics/Materials/Young Modulus.md",
-    "Physics/Materials/Strain Energy.md",
-    "Physics/Materials/Proportional Limit.md",
-    "Physics/Materials/Tensile Stress.md",
-    "Physics/Materials/Plastic Deformation.md",
-    "Physics/Materials/Energy.md",
-    "Physics/Equipment"
+    "Electronics/Asynchronous Counters/1 Bit/One-Bit-Counter-Sequence-Diagram.png"
   ]
 }
