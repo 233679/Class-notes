@@ -31,5 +31,5 @@ Each [[../Photon|Photon]] with **enough energy** releases one electron.
 - More [[../Photon|Photons]] per second leads to a faster discharge (more [[Photoelectron|Photoelectrons]] emitted per unit of time).
 - Higher [[../Frequency|Frequency]] has the same rate of discharge, even though the [[../Particles/Electron|Electrons]] have more energy.
 
-### Own words:
+### Own Words:
 When a [[../Light/Ultra Violet|Ultra Violet]] light is incident to a negatively charged metal, the [[../Electromagnetic|Electromagnetic]] radiation (acting as a [[../Photon|Photon]]) the [[../Photon|Photons]] interact with the negatively charged [[../Particles/Electron|Electrons]], which are pushed to the surface by [[../Electromagnetic|Electromagnetic]] repulsion. The interaction between the [[../Photon|Photons]] & the [[../Particles/Electron|Electrons]] releases the [[../Particles/Electron|Electron]] from the metal, by overcoming the [[../Electrostatic|Electrostatic]] attraction between the delocalized electron & the metal irons. The released [[../Particles/Electron|Electrons]] are labelled as [[Photoelectron|Photoelectrons]]. As more [[../Particles/Electron|Electrons]] are released, there is less [[../Electrostatic|Electrostatic]] repulsion supporting the golden leaf.
