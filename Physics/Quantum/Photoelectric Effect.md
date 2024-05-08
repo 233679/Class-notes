@@ -1,6 +1,6 @@
 # Photoelectric Effect
 
-### Defenitions
+### Definitions
 - [[Photoelectron]]
 - [[Threshold Frequency]]
 - [[Work Function]]
