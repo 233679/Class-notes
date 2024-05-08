@@ -16,4 +16,4 @@ B)
 
 $E_{photon} = hf = 6.63\times10^{-34}\times1.2\times10^{15} = 8.0\times10^{-19}$
 $E_{Kmax} = hf - \phi$
-$\phi = E_{photon} - E_{Kmax} =$
+$\phi = E_{photon} - E_{Kmax} = 8.0\times10^{-19} - $
