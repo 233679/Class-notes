@@ -14,9 +14,10 @@ Intensity, however, does increase the rate of loss of charge. This is because th
 B)
 ![[Q1B.png]]
 
-$E_{photon} = hf = 6.63\times10^{-34}\times1.2\times10^{15} = 8.0\times10^{-19}$
+$E_{photon} = hf = 6.63\times10^{-34}\times1.2\times10^{15} = 8.0\times10^{-19}$J
+$\frac{8.0\times10^{-19}}{1.60\times10^{-19}} = 5$eV
 $E_{Kmax} = hf - \phi$
-$\phi = E_{photon} - E_{Kmax} = 8.0\times10^{-19} - $
+$\phi = E_{photon} - E_{Kmax} = 5 - 1.1 = 3.9$eV
 
 # 2
 ![[Q2.png]]

@@ -1,319 +1,294 @@
 {
   "vaultName": "Class-notes",
-  "lastExport": 1715257052764,
+  "lastExport": 1715259763309,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
-    "Computer-Science/Algorithm-Complexity/Complexity/Complexity-Index.md",
-    "Computer-Science/Algorithm-Complexity/Complexity/Constant-Complexity.md",
-    "Computer-Science/Algorithm-Complexity/Complexity/Constant-Complexity-Graph.jpg",
-    "Computer-Science/Algorithm-Complexity/Complexity/Exponential-Complexity.md",
-    "Computer-Science/Algorithm-Complexity/Complexity/Linear-Complexity.md",
-    "Computer-Science/Algorithm-Complexity/Complexity/Linear-Complexity-Graph.jpg",
-    "Computer-Science/Algorithm-Complexity/Complexity/Linearithmic-Complexity.md",
-    "Computer-Science/Algorithm-Complexity/Complexity/Linearithmic-Complexity-Graph.jpg",
-    "Computer-Science/Algorithm-Complexity/Complexity/Logarithmic-Complexity.md",
-    "Computer-Science/Algorithm-Complexity/Complexity/Logarithmic-Complexity-Graph.jpg",
-    "Computer-Science/Algorithm-Complexity/Complexity/Polynomial-Complexity.md",
-    "Computer-Science/Algorithm-Complexity/Complexity/Quadratic-Complexity.md",
-    "Computer-Science/Algorithm-Complexity/Complexity/Quadratic-Complexity-Graph.jpg",
-    "Computer-Science/Algorithm-Complexity/Complexity/Space-Complexity.md",
-    "Computer-Science/Algorithm-Complexity/Exam-Practice/Big-O-Exam-Question.md",
-    "Computer-Science/Algorithm-Complexity/Exam-Practice/Big-O-Fig-4.1.png",
-    "Computer-Science/Algorithm-Complexity/Examples/Bubble.class",
+    "Computer-Science/Translation/JIT.md",
+    "Computer-Science/Translation/Interpreter.md",
+    "Computer-Science/Translation/Compiler.md",
+    "Computer-Science/Translation/Assembler.md",
+    "Computer-Science/Program.md",
+    "Computer-Science/Virtual Machine.md",
+    "Computer-Science/Programs/Program.md",
+    "Computer-Science/Programs/Source Code.md",
+    "Computer-Science/Programs/Machine Code.md",
+    "Computer-Science/Programs/Compile.md",
+    "Computer-Science/Programs/Byte Code.md",
+    "Computer-Science/Processor Scheduling/Starvation.md",
+    "Computer-Science/Processor Scheduling/Processor Scheduling.md",
+    "Computer-Science/Processor Scheduling/Pre-Emptive.md",
+    "Computer-Science/Processor Scheduling/Non Pre-emptive.md",
+    "Computer-Science/Parallel.md",
+    "Computer-Science/Exam-Practice/Big-O-Exam-Question.md",
+    "Computer-Science/Exam-Practice/Big-O-Fig-4.1.png",
+    "Computer-Science/Data Structures/Queue.md",
+    "Computer-Science/Data Structures/List.md",
+    "Computer-Science/Operating Systems/Virtualization.md",
+    "Computer-Science/Operating Systems/Operating System.md",
+    "Computer-Science/Operating Systems/Virtualisation.md",
+    "Computer-Science/Operating Systems/Real Time Operating System.md",
+    "Computer-Science/Operating Systems/Open-source Operating Systems.md",
+    "Computer-Science/Operating Systems/Multi User Operating System.md",
+    "Computer-Science/Operating Systems/Multi Task Operating System.md",
+    "Computer-Science/Operating Systems/Mobile Operating System.md",
+    "Computer-Science/Operating Systems/Embedded Operating Systems.md",
+    "Computer-Science/Operating Systems/Distributed Operating System.md",
+    "Computer-Science/Operating Systems/Device Drivers.md",
+    "Computer-Science/Operating Systems/Basic Input Output System.md",
+    "Computer-Science/Architecture/RAM.md",
+    "Computer-Science/Architecture/Secondary Storage.md",
+    "Computer-Science/Architecture/Word.md",
+    "Computer-Science/Architecture/Memory.md",
+    "Computer-Science/Architecture/Register.md",
+    "Computer-Science/Architecture/Memory Address.md",
+    "Computer-Science/Architecture/Program Counter.md",
+    "Computer-Science/Architecture/Motherboard.md",
+    "Computer-Science/Architecture/IO Device.md",
+    "Computer-Science/Architecture/Data bus.md",
+    "Computer-Science/Architecture/CPU.md",
+    "Computer-Science/Architecture/CPU Core.md",
+    "Computer-Science/Architecture/CPU Cache.md",
+    "Computer-Science/Architecture/Architecture.md",
+    "Computer-Science/Architecture/ALU.md",
+    "Computer-Science/Architecture/Address Bus.md",
+    "Computer-Science/Multi-Tasking.md",
+    "Computer-Science/Hardware.md",
+    "Computer-Science/Algorithm-Complexity/Sorting algorithms/Sorting-Algorithms.md",
+    "Computer-Science/Algorithm-Complexity/Sorting algorithms/Insertion-Sort.md",
+    "Computer-Science/Algorithm-Complexity/Sorting algorithms/Merge-Sort.md",
+    "Computer-Science/Algorithm-Complexity/Sorting algorithms/Insertion-Sort-Example-Image.png",
+    "Computer-Science/Algorithm-Complexity/Sorting algorithms/Bubble-Sort.md",
+    "Computer-Science/Algorithm-Complexity/Searching algorithms/Searching-Algorithms.md",
+    "Computer-Science/Algorithm-Complexity/Searching algorithms/Linear-Search.md",
+    "Computer-Science/Algorithm-Complexity/Searching algorithms/Binary-Search.md",
     "Computer-Science/Algorithm-Complexity/Examples/Bubble.java",
-    "Computer-Science/Algorithm-Complexity/Examples/Bubble-Sort-Code-Example.md",
+    "Computer-Science/Algorithm-Complexity/Examples/README.md",
     "Computer-Science/Algorithm-Complexity/Examples/Insertion.java",
     "Computer-Science/Algorithm-Complexity/Examples/Insertion.class",
     "Computer-Science/Algorithm-Complexity/Examples/Insertion-Sort-Code-Example.md",
-    "Computer-Science/Algorithm-Complexity/Examples/README.md",
-    "Computer-Science/Algorithm-Complexity/Searching algorithms/Binary-Search.md",
-    "Computer-Science/Algorithm-Complexity/Searching algorithms/Linear-Search.md",
-    "Computer-Science/Algorithm-Complexity/Searching algorithms/Searching-Algorithms.md",
-    "Computer-Science/Algorithm-Complexity/Sorting algorithms/Bubble-Sort.md",
-    "Computer-Science/Algorithm-Complexity/Sorting algorithms/Insertion-Sort.md",
-    "Computer-Science/Algorithm-Complexity/Sorting algorithms/Insertion-Sort-Example-Image.png",
-    "Computer-Science/Algorithm-Complexity/Sorting algorithms/Merge-Sort.md",
-    "Computer-Science/Algorithm-Complexity/Sorting algorithms/Sorting-Algorithms.md",
-    "Computer-Science/Algorithm-Complexity/Big-O.md",
+    "Computer-Science/Algorithm-Complexity/Examples/Bubble.class",
+    "Computer-Science/Algorithm-Complexity/Examples/Bubble-Sort-Code-Example.md",
+    "Computer-Science/Algorithm-Complexity/Exam-Practice/Big-O-Fig-4.1.png",
+    "Computer-Science/Algorithm-Complexity/Exam-Practice/Big-O-Exam-Question.md",
     "Computer-Science/Algorithm-Complexity/Index.md",
-    "Computer-Science/Architecture/Address Bus.md",
-    "Computer-Science/Architecture/ALU.md",
-    "Computer-Science/Architecture/Architecture.md",
-    "Computer-Science/Architecture/CPU.md",
-    "Computer-Science/Architecture/CPU Cache.md",
-    "Computer-Science/Architecture/CPU Core.md",
-    "Computer-Science/Architecture/Data bus.md",
-    "Computer-Science/Architecture/IO Device.md",
-    "Computer-Science/Architecture/Memory.md",
-    "Computer-Science/Architecture/Memory Address.md",
-    "Computer-Science/Architecture/Motherboard.md",
-    "Computer-Science/Architecture/Program Counter.md",
-    "Computer-Science/Architecture/RAM.md",
-    "Computer-Science/Architecture/Register.md",
-    "Computer-Science/Architecture/Secondary Storage.md",
-    "Computer-Science/Architecture/Word.md",
-    "Computer-Science/Data Structures/List.md",
-    "Computer-Science/Data Structures/Queue.md",
-    "Computer-Science/Exam-Practice/Big-O-Exam-Question.md",
-    "Computer-Science/Exam-Practice/Big-O-Fig-4.1.png",
-    "Computer-Science/Operating Systems/Basic Input Output System.md",
-    "Computer-Science/Operating Systems/Device Drivers.md",
-    "Computer-Science/Operating Systems/Distributed Operating System.md",
-    "Computer-Science/Operating Systems/Embedded Operating Systems.md",
-    "Computer-Science/Operating Systems/Mobile Operating System.md",
-    "Computer-Science/Operating Systems/Multi Task Operating System.md",
-    "Computer-Science/Operating Systems/Multi User Operating System.md",
-    "Computer-Science/Operating Systems/Open-source Operating Systems.md",
-    "Computer-Science/Operating Systems/Operating System.md",
-    "Computer-Science/Operating Systems/Real Time Operating System.md",
-    "Computer-Science/Operating Systems/Virtualisation.md",
-    "Computer-Science/Operating Systems/Virtualization.md",
-    "Computer-Science/Processor Scheduling/Non Pre-emptive.md",
-    "Computer-Science/Processor Scheduling/Pre-Emptive.md",
-    "Computer-Science/Processor Scheduling/Processor Scheduling.md",
-    "Computer-Science/Processor Scheduling/Starvation.md",
-    "Computer-Science/Programs/Byte Code.md",
-    "Computer-Science/Programs/Compile.md",
-    "Computer-Science/Programs/Machine Code.md",
-    "Computer-Science/Programs/Program.md",
-    "Computer-Science/Programs/Source Code.md",
-    "Computer-Science/Translation/Assembler.md",
-    "Computer-Science/Translation/Compiler.md",
-    "Computer-Science/Translation/Interpreter.md",
-    "Computer-Science/Translation/JIT.md",
+    "Computer-Science/Algorithm-Complexity/Complexity/Space-Complexity.md",
+    "Computer-Science/Algorithm-Complexity/Complexity/Logarithmic-Complexity-Graph.jpg",
+    "Computer-Science/Algorithm-Complexity/Complexity/Quadratic-Complexity.md",
+    "Computer-Science/Algorithm-Complexity/Complexity/Quadratic-Complexity-Graph.jpg",
+    "Computer-Science/Algorithm-Complexity/Complexity/Polynomial-Complexity.md",
+    "Computer-Science/Algorithm-Complexity/Complexity/Logarithmic-Complexity.md",
+    "Computer-Science/Algorithm-Complexity/Complexity/Linearithmic-Complexity.md",
+    "Computer-Science/Algorithm-Complexity/Complexity/Linear-Complexity.md",
+    "Computer-Science/Algorithm-Complexity/Complexity/Linearithmic-Complexity-Graph.jpg",
+    "Computer-Science/Algorithm-Complexity/Complexity/Linear-Complexity-Graph.jpg",
+    "Computer-Science/Algorithm-Complexity/Complexity/Constant-Complexity.md",
+    "Computer-Science/Algorithm-Complexity/Complexity/Exponential-Complexity.md",
+    "Computer-Science/Algorithm-Complexity/Complexity/Constant-Complexity-Graph.jpg",
+    "Computer-Science/Algorithm-Complexity/Complexity/Complexity-Index.md",
+    "Computer-Science/Algorithm-Complexity/Big-O.md",
     "Computer-Science/Embedded Devices.md",
-    "Computer-Science/Hardware.md",
-    "Computer-Science/Multi-Tasking.md",
-    "Computer-Science/Parallel.md",
-    "Computer-Science/Program.md",
-    "Computer-Science/Virtual Machine.md",
-    "Electronics/Astable Circuits/555 Astable.md",
-    "Electronics/Astable Circuits/Astable Circuit.md",
-    "Electronics/Astable Circuits/Relaxation Oscillator.md",
-    "Electronics/Astable Circuits/Relaxation-Oscillator.png",
+    "Electronics/Gray Code.md",
+    "Electronics/Voltage/Voltage Divider.md",
+    "Electronics/Voltage/Voltage Drop.md",
+    "Electronics/Voltage/Voltage.md",
+    "Electronics/Voltage/Voltage-Divider-Circuit.jpg",
+    "Electronics/Timing/Propagation Delay/Propagation Delay Example.png",
+    "Electronics/Timing/Propagation Delay/Propagation Delay.md",
+    "Electronics/Timing/Latches/SR-Truth-Table.png",
+    "Electronics/Timing/Latches/SR-Sequence-Diagram.png",
+    "Electronics/Timing/Latches/SR-Sequence-Table.png",
+    "Electronics/Timing/Latches/SR Bistable.md",
+    "Electronics/Timing/Latches/SR-Layout.png",
+    "Electronics/Timing/Latches/Low-Signal-Words.png",
+    "Electronics/Timing/Latches/Simple-SR-Bistable.png",
+    "Electronics/Timing/Clock/Rising-Edge.png",
+    "Electronics/Timing/Clock/Clock-Mark.png",
+    "Electronics/Timing/Clock/Clock.md",
+    "Electronics/Timing/Clock/Falling-Edge.png",
+    "Electronics/Timing/Flip Flop/Flip-Flop-Sequence.png",
+    "Electronics/Timing/Flip Flop/Flip Fop Image.png",
+    "Electronics/Timing/Flip Flop/Flip-Flop-Sequence-2.png",
+    "Electronics/Timing/Flip Flop/Flip Flop.md",
+    "Electronics/Seven Segment Display/Seven-Segment-Display.png",
+    "Electronics/Seven Segment Display/Common Anode.md",
+    "Electronics/Seven Segment Display/Seven Segment Display.md",
+    "Electronics/Seven Segment Display/Common Cathode.md",
+    "Electronics/Seven Segment Display/IC-Seven-Segment-Display.png",
+    "Electronics/Seven Segment Display/Binary Coded Decimal.md",
+    "Electronics/Seven Segment Display/Cathode-Example-Display.png",
+    "Electronics/Seven Segment Display/BCD.png",
+    "Electronics/Seven Segment Display/Cathode-example-code.png",
+    "Electronics/Sequence Generator/Sequence Generator.md",
+    "Electronics/Sequence Generator/Example-Circuit.png",
+    "Electronics/Sequence Generator/Boolean-Representation.png",
+    "Electronics/Sequence Generator/Example-State-Table.png",
+    "Electronics/Short Circuit.md",
+    "Electronics/Rising Edge.md",
+    "Electronics/Power.md",
+    "Electronics/Output Representations/Truth Table.md",
+    "Electronics/Output Representations/State Table.md",
+    "Electronics/Output Representations/Sequence Table.md",
+    "Electronics/Output Representations/Sequence Diagram.md",
+    "Electronics/Resistance/Light Dependent Resistor.md",
+    "Electronics/Resistance/Variable Resistor.md",
+    "Electronics/Resistance/Transconductance.md",
+    "Electronics/Resistance/Resistor.md",
+    "Electronics/Resistance/Resistance.md",
+    "Electronics/Resistance/E24-Resistor-Values.jpg",
+    "Electronics/Ohms law/Resistance.md",
+    "Electronics/Ohms law/Ohms Law.md",
+    "Electronics/Ohms law/Current.md",
+    "Electronics/Power Supply Units/Voltage Stabilization.md",
+    "Electronics/Power Supply Units/Wave Rectifier.md",
+    "Electronics/Power Supply Units/Peak Voltage.md",
+    "Electronics/Power Supply Units/Voltage Ripple.md",
+    "Electronics/Power Supply Units/Half-Wave-Rectifier-Waveform.jpeg",
+    "Electronics/Power Supply Units/RMS.md",
+    "Electronics/Power Supply Units/Peak-Voltage-image.png",
+    "Electronics/Power Supply Units/Half-Wave-Rectifier-Circuit.jpeg",
+    "Electronics/Power Supply Units/Half wave rectifier.md",
+    "Electronics/Power Supply Units/Full-Wave-Rectifier-Waveform.png",
+    "Electronics/Power Supply Units/Full-Wave-Rectifier-Smooth-Waveform.png",
+    "Electronics/Power Supply Units/Full-Wave-Rectifier-Smooth-Circuit.png",
+    "Electronics/Power Supply Units/Full-Wave-Rectifier-Circuit.png",
+    "Electronics/Power Supply Units/Full Wave Rectifier.md",
+    "Electronics/Number systems/Binary/Least Significant Bit.md",
+    "Electronics/Monostable/Monostable-555-Circuit.png",
+    "Electronics/Monostable/Monostable Circuit.md",
+    "Electronics/Monostable/Pulse Length.md",
+    "Electronics/Monostable/Monostable 555.md",
+    "Electronics/Logic Gates/Truth-Table-Example.jpg",
+    "Electronics/Logic Gates/NAND.md",
+    "Electronics/Logic Gates/NAND-TRUTH.png",
+    "Electronics/Logic Gates/NAND-GATE.png",
+    "Electronics/Logic Gates/Logic Gates.md",
+    "Electronics/Logic Gates/AND.md",
+    "Electronics/MOSFET/N-MOSFET.png",
+    "Electronics/MOSFET/MOSFET.md",
+    "Electronics/Integrated Circuit.md",
+    "Electronics/Falling Edge.md",
+    "Electronics/Equivalent Circuit/To-Equivalent-Circuit.png",
+    "Electronics/Equivalent Circuit/Equivalent-Circuit.png",
+    "Electronics/Equivalent Circuit/Equivalent Circuit.md",
+    "Electronics/Diodes/LED.png",
+    "Electronics/Diodes/Zener Diodes.md",
+    "Electronics/Diodes/Zener-Diode-Graph.png",
+    "Electronics/Diodes/Silicone Diodes.md",
+    "Electronics/Diodes/Zener Diode.md",
+    "Electronics/Diodes/Light Emitting Diodes.md",
+    "Electronics/Diodes/Diodes.md",
+    "Electronics/De Bounce.md",
+    "Electronics/Circuits/Series-Circuit.gif",
+    "Electronics/Circuits/Series Circuit.md",
+    "Electronics/Circuits/Parallel-Circuit.gif",
+    "Electronics/Circuits/Parallel Circuit.md",
+    "Electronics/Circuits/Circuit.md",
+    "Electronics/Capacitance/Farads.md",
+    "Electronics/Capacitance/Capacitor.md",
+    "Electronics/Capacitance/Capacitance.md",
+    "Electronics/DC.md",
+    "Electronics/DC-image.png",
+    "Electronics/Boolean Algebra/Boolean Representation.md",
+    "Electronics/Boolean Algebra/De Morgan's theorem.md",
+    "Electronics/Boolean Algebra/Boolean Algebra.md",
+    "Electronics/Counter.md",
     "Electronics/Astable Circuits/SquareWave.gif",
-    "Electronics/Asynchronous Counters/1 Bit/One Bit Counter.md",
-    "Electronics/Asynchronous Counters/1 Bit/One-Bit-Counter.png",
-    "Electronics/Asynchronous Counters/1 Bit/One-Bit-Counter-Sequence-Diagram.png",
-    "Electronics/Asynchronous Counters/2 Bit/Two Bit Counter.md",
-    "Electronics/Asynchronous Counters/2 Bit/Two-Bit-Counter-Sequence-Diagram.png",
-    "Electronics/Asynchronous Counters/2 Bit/Two-Bit-Up-Counter.png",
-    "Electronics/Asynchronous Counters/3 Bit/Three Bit Counter.md",
-    "Electronics/Asynchronous Counters/3 Bit/Three-Bit-Counter.png",
-    "Electronics/Asynchronous Counters/3 Bit/Three-Bit-Sequence-Diagram.png",
-    "Electronics/Asynchronous Counters/Down Counter/Down Counter.md",
-    "Electronics/Asynchronous Counters/Down Counter/Down-Counter.png",
-    "Electronics/Asynchronous Counters/Down Counter/Down-Counter-Sequence-Diagram.png",
-    "Electronics/Asynchronous Counters/Real Counter/Conecting-Counters.png",
-    "Electronics/Asynchronous Counters/Real Counter/Falling-Edge-Counter.png",
-    "Electronics/Asynchronous Counters/Real Counter/Real Counter.md",
+    "Electronics/Astable Circuits/555 Astable.md",
+    "Electronics/Astable Circuits/Relaxation-Oscillator.png",
+    "Electronics/Astable Circuits/Relaxation Oscillator.md",
+    "Electronics/Astable Circuits/Astable Circuit.md",
+    "Electronics/Active Low.md",
     "Electronics/Asynchronous Counters/Resetting Counters/Resetting Counters.md",
     "Electronics/Asynchronous Counters/Resetting Counters/Resetting-Circuit-Example.png",
     "Electronics/Asynchronous Counters/Resetting Counters/Resetting-Counters-Sequence-Diagram.png",
-    "Electronics/Asynchronous Counters/Asynchronous Counter.md",
     "Electronics/Asynchronous Counters/Ripple.md",
-    "Electronics/Boolean Algebra/Boolean Algebra.md",
-    "Electronics/Boolean Algebra/Boolean Representation.md",
-    "Electronics/Boolean Algebra/De Morgan's theorem.md",
-    "Electronics/Capacitance/Capacitance.md",
-    "Electronics/Capacitance/Capacitor.md",
-    "Electronics/Capacitance/Farads.md",
-    "Electronics/Circuits/Circuit.md",
-    "Electronics/Circuits/Parallel Circuit.md",
-    "Electronics/Circuits/Parallel-Circuit.gif",
-    "Electronics/Circuits/Series Circuit.md",
-    "Electronics/Circuits/Series-Circuit.gif",
-    "Electronics/Diodes/Diodes.md",
-    "Electronics/Diodes/LED.png",
-    "Electronics/Diodes/Light Emitting Diodes.md",
-    "Electronics/Diodes/Silicone Diodes.md",
-    "Electronics/Diodes/Zener Diode.md",
-    "Electronics/Diodes/Zener Diodes.md",
-    "Electronics/Diodes/Zener-Diode-Graph.png",
-    "Electronics/Equivalent Circuit/Equivalent Circuit.md",
-    "Electronics/Equivalent Circuit/Equivalent-Circuit.png",
-    "Electronics/Equivalent Circuit/To-Equivalent-Circuit.png",
-    "Electronics/Logic Gates/AND.md",
-    "Electronics/Logic Gates/Logic Gates.md",
-    "Electronics/Logic Gates/NAND.md",
-    "Electronics/Logic Gates/NAND-GATE.png",
-    "Electronics/Logic Gates/NAND-TRUTH.png",
-    "Electronics/Logic Gates/Truth-Table-Example.jpg",
-    "Electronics/Monostable/Monostable 555.md",
-    "Electronics/Monostable/Monostable Circuit.md",
-    "Electronics/Monostable/Monostable-555-Circuit.png",
-    "Electronics/Monostable/Pulse Length.md",
-    "Electronics/MOSFET/MOSFET.md",
-    "Electronics/MOSFET/N-MOSFET.png",
-    "Electronics/Number systems/Binary/Least Significant Bit.md",
-    "Electronics/Ohms law/Current.md",
-    "Electronics/Ohms law/Ohms Law.md",
-    "Electronics/Ohms law/Resistance.md",
-    "Electronics/Output Representations/Sequence Diagram.md",
-    "Electronics/Output Representations/Sequence Table.md",
-    "Electronics/Output Representations/State Table.md",
-    "Electronics/Output Representations/Truth Table.md",
-    "Electronics/Power Supply Units/Full Wave Rectifier.md",
-    "Electronics/Power Supply Units/Full-Wave-Rectifier-Circuit.png",
-    "Electronics/Power Supply Units/Full-Wave-Rectifier-Smooth-Circuit.png",
-    "Electronics/Power Supply Units/Full-Wave-Rectifier-Smooth-Waveform.png",
-    "Electronics/Power Supply Units/Full-Wave-Rectifier-Waveform.png",
-    "Electronics/Power Supply Units/Half wave rectifier.md",
-    "Electronics/Power Supply Units/Half-Wave-Rectifier-Circuit.jpeg",
-    "Electronics/Power Supply Units/Half-Wave-Rectifier-Waveform.jpeg",
-    "Electronics/Power Supply Units/Peak Voltage.md",
-    "Electronics/Power Supply Units/Peak-Voltage-image.png",
-    "Electronics/Power Supply Units/RMS.md",
-    "Electronics/Power Supply Units/Voltage Ripple.md",
-    "Electronics/Power Supply Units/Voltage Stabilization.md",
-    "Electronics/Power Supply Units/Wave Rectifier.md",
-    "Electronics/Resistance/E24-Resistor-Values.jpg",
-    "Electronics/Resistance/Light Dependent Resistor.md",
-    "Electronics/Resistance/Resistance.md",
-    "Electronics/Resistance/Resistor.md",
-    "Electronics/Resistance/Transconductance.md",
-    "Electronics/Resistance/Variable Resistor.md",
-    "Electronics/Sequence Generator/Boolean-Representation.png",
-    "Electronics/Sequence Generator/Example-Circuit.png",
-    "Electronics/Sequence Generator/Example-State-Table.png",
-    "Electronics/Sequence Generator/Sequence Generator.md",
-    "Electronics/Seven Segment Display/BCD.png",
-    "Electronics/Seven Segment Display/Binary Coded Decimal.md",
-    "Electronics/Seven Segment Display/Cathode-example-code.png",
-    "Electronics/Seven Segment Display/Cathode-Example-Display.png",
-    "Electronics/Seven Segment Display/Common Anode.md",
-    "Electronics/Seven Segment Display/Common Cathode.md",
-    "Electronics/Seven Segment Display/IC-Seven-Segment-Display.png",
-    "Electronics/Seven Segment Display/Seven Segment Display.md",
-    "Electronics/Seven Segment Display/Seven-Segment-Display.png",
-    "Electronics/Timing/Clock/Clock.md",
-    "Electronics/Timing/Clock/Clock-Mark.png",
-    "Electronics/Timing/Clock/Falling-Edge.png",
-    "Electronics/Timing/Clock/Rising-Edge.png",
-    "Electronics/Timing/Flip Flop/Flip Flop.md",
-    "Electronics/Timing/Flip Flop/Flip Fop Image.png",
-    "Electronics/Timing/Flip Flop/Flip-Flop-Sequence.png",
-    "Electronics/Timing/Flip Flop/Flip-Flop-Sequence-2.png",
-    "Electronics/Timing/Latches/Low-Signal-Words.png",
-    "Electronics/Timing/Latches/Simple-SR-Bistable.png",
-    "Electronics/Timing/Latches/SR Bistable.md",
-    "Electronics/Timing/Latches/SR-Layout.png",
-    "Electronics/Timing/Latches/SR-Sequence-Diagram.png",
-    "Electronics/Timing/Latches/SR-Sequence-Table.png",
-    "Electronics/Timing/Latches/SR-Truth-Table.png",
-    "Electronics/Timing/Propagation Delay/Propagation Delay.md",
-    "Electronics/Timing/Propagation Delay/Propagation Delay Example.png",
-    "Electronics/Voltage/Voltage.md",
-    "Electronics/Voltage/Voltage Divider.md",
-    "Electronics/Voltage/Voltage Drop.md",
-    "Electronics/Voltage/Voltage-Divider-Circuit.jpg",
+    "Electronics/Asynchronous Counters/Down Counter/Down Counter.md",
+    "Electronics/Asynchronous Counters/Down Counter/Down-Counter.png",
+    "Electronics/Asynchronous Counters/Down Counter/Down-Counter-Sequence-Diagram.png",
+    "Electronics/Asynchronous Counters/3 Bit/Three-Bit-Sequence-Diagram.png",
+    "Electronics/Asynchronous Counters/3 Bit/Three Bit Counter.md",
+    "Electronics/Asynchronous Counters/3 Bit/Three-Bit-Counter.png",
+    "Electronics/Asynchronous Counters/Real Counter/Real Counter.md",
+    "Electronics/Asynchronous Counters/Real Counter/Conecting-Counters.png",
+    "Electronics/Asynchronous Counters/Real Counter/Falling-Edge-Counter.png",
+    "Electronics/Asynchronous Counters/Asynchronous Counter.md",
+    "Electronics/Asynchronous Counters/1 Bit/One-Bit-Counter.png",
+    "Electronics/Asynchronous Counters/1 Bit/One-Bit-Counter-Sequence-Diagram.png",
+    "Electronics/Asynchronous Counters/1 Bit/One Bit Counter.md",
+    "Electronics/Asynchronous Counters/2 Bit/Two-Bit-Counter-Sequence-Diagram.png",
+    "Electronics/Asynchronous Counters/2 Bit/Two-Bit-Up-Counter.png",
+    "Electronics/Asynchronous Counters/2 Bit/Two Bit Counter.md",
     "Electronics/AC.md",
     "Electronics/AC-image.png",
-    "Electronics/Active Low.md",
-    "Electronics/Counter.md",
-    "Electronics/DC.md",
-    "Electronics/DC-image.png",
-    "Electronics/De Bounce.md",
-    "Electronics/Falling Edge.md",
-    "Electronics/Integrated Circuit.md",
-    "Electronics/Power.md",
-    "Electronics/Rising Edge.md",
-    "Electronics/Short Circuit.md",
-    "Homework/Electronics/A11Bi.png",
-    "Homework/Electronics/Mock Revision - Core.md",
-    "Homework/Electronics/Q4A.png",
-    "Homework/Electronics/Q4B.png",
-    "Homework/Electronics/Q4C.png",
-    "Homework/Electronics/Q5.png",
-    "Homework/Electronics/Q6.png",
-    "Homework/Electronics/Q7.png",
-    "Homework/Electronics/Q10.png",
-    "Homework/Electronics/Q11.png",
-    "Homework/Physics/Homework/Materials Catchup/188-1.png",
-    "Homework/Physics/Homework/Materials Catchup/188-2.png",
-    "Homework/Physics/Homework/Materials Catchup/188-3.png",
-    "Homework/Physics/Homework/Materials Catchup/188-4.png",
-    "Homework/Physics/Homework/Materials Catchup/191-1.png",
-    "Homework/Physics/Homework/Materials Catchup/191-2.png",
-    "Homework/Physics/Homework/Materials Catchup/191-3.png",
-    "Homework/Physics/Homework/Materials Catchup/191-4.png",
-    "Homework/Physics/Homework/Materials Catchup/193-1.png",
-    "Homework/Physics/Homework/Materials Catchup/Materials Catchup.md",
-    "Homework/Physics/Homework/Photoelectric Effect/Photoelectric Effect.md",
-    "Homework/Physics/Homework/Photoelectric Effect/Q1.png",
-    "Homework/Physics/Homework/Photoelectric Effect/Q1A.png",
-    "Homework/Physics/Homework/Photoelectric Effect/Q1B.png",
-    "Homework/Physics/Homework/Photoelectric Effect/Q2.png",
-    "Homework/Physics/Homework/Photoelectric Effect/Q2B.png",
-    "Physics/Electricity/Critical Temperature.md",
-    "Physics/Electricity/Equation.md",
-    "Physics/Electricity/Super Conductor.md",
-    "Physics/Equipment/ClampStand.md",
-    "Physics/Equipment/Setsquare.md",
-    "Physics/Light/Ultra Violet.md",
-    "Physics/Materials/Brittle.md",
-    "Physics/Materials/Density.md",
-    "Physics/Materials/Ductile.md",
-    "Physics/Materials/Elastic Deformation.md",
-    "Physics/Materials/Energy.md",
-    "Physics/Materials/Hookes law.md",
-    "Physics/Materials/Hooks-Law-Graph.png",
-    "Physics/Materials/Plastic.md",
-    "Physics/Materials/Plastic Deformation.md",
-    "Physics/Materials/Proportional Limit.md",
-    "Physics/Materials/Rubber Band.md",
-    "Physics/Materials/Spring Constant.md",
-    "Physics/Materials/Stiffness.md",
-    "Physics/Materials/Strain Energy.md",
-    "Physics/Materials/Strain-Graph.png",
-    "Physics/Materials/Strain-Graph-Annotated.png",
-    "Physics/Materials/Strength.md",
-    "Physics/Materials/Stress Strain Graph.md",
-    "Physics/Materials/Stress-Strain-Graph.png",
-    "Physics/Materials/Tensile Stress.md",
-    "Physics/Materials/Ultimate Tensile Strength.md",
-    "Physics/Materials/Young Modulus.md",
-    "Physics/Particles/Atom.md",
-    "Physics/Particles/Electron.md",
-    "Physics/Particles/Neutron.md",
-    "Physics/Particles/Photon.md",
-    "Physics/Particles/Planck Constant.md",
-    "Physics/Particles/Proton.md",
-    "Physics/Practice/Practice one.md",
-    "Physics/Practice/Practice Two.md",
-    "Physics/Quantum/Gold Leaf Experiment.md",
-    "Physics/Quantum/Photoelectric Effect.md",
-    "Physics/Quantum/Photoelectron.md",
-    "Physics/Quantum/Photoemissive Surface.md",
-    "Physics/Quantum/Quantum.md",
-    "Physics/Quantum/Threshold Frequency.md",
-    "Physics/Quantum/Work Function.md",
-    "Physics/Uncertainties/Absolute Uncertainty.md",
-    "Physics/Uncertainties/Accurate.md",
-    "Physics/Uncertainties/Percentage Uncertainty.md",
-    "Physics/Uncertainties/Precise.md",
-    "Physics/Uncertainties/Reliable.md",
-    "Physics/Uncertainties/Resolution.md",
-    "Physics/Uncertainties/Uncertainty.md",
+    "Physics/Waves/Similar Waves.md",
+    "Physics/Waves/Phase-Difference-Diagram.jpg",
+    "Physics/Waves/Phase Difference.md",
+    "Physics/Waves/Superposition.md",
     "Physics/Waves/Constructive Interference.md",
     "Physics/Waves/Destructive Interference.md",
-    "Physics/Waves/Phase Difference.md",
-    "Physics/Waves/Phase-Difference-Diagram.jpg",
-    "Physics/Waves/Similar Waves.md",
-    "Physics/Waves/Superposition.md",
-    "Physics/Alloy.md",
-    "Physics/Electromagnetic.md",
-    "Physics/Electron Volts.md",
-    "Physics/Electrostatic.md",
-    "Physics/Frequency.md",
-    "Physics/Hertz.md",
-    "Physics/Intensity.md",
-    "Physics/Joules.md",
+    "Physics/Quantum/Work Function.md",
+    "Physics/Quantum/Threshold Frequency.md",
+    "Physics/Quantum/Photoemissive Surface.md",
+    "Physics/Quantum/Quantum.md",
+    "Physics/Quantum/Photoelectric Effect.md",
+    "Physics/Quantum/Gold Leaf Experiment.md",
+    "Physics/Quantum/Photoelectron.md",
     "Physics/Momentum.md",
+    "Physics/Uncertainties/Resolution.md",
+    "Physics/Uncertainties/Percentage Uncertainty.md",
+    "Physics/Uncertainties/Reliable.md",
+    "Physics/Uncertainties/Uncertainty.md",
+    "Physics/Uncertainties/Precise.md",
+    "Physics/Uncertainties/Accurate.md",
+    "Physics/Uncertainties/Absolute Uncertainty.md",
     "Physics/Power.md",
+    "Physics/Practice/Practice Two.md",
+    "Physics/Practice/Practice one.md",
+    "Physics/Particles/Planck Constant.md",
+    "Physics/Particles/Proton.md",
+    "Physics/Particles/Neutron.md",
+    "Physics/Particles/Electron.md",
+    "Physics/Particles/Photon.md",
+    "Physics/Particles/Atom.md",
+    "Physics/Light/Ultra Violet.md",
+    "Physics/Materials/Young Modulus.md",
+    "Physics/Materials/Tensile Stress.md",
+    "Physics/Materials/Ultimate Tensile Strength.md",
+    "Physics/Materials/Stress-Strain-Graph.png",
+    "Physics/Materials/Strength.md",
+    "Physics/Materials/Stress Strain Graph.md",
+    "Physics/Materials/Strain-Graph.png",
+    "Physics/Materials/Strain-Graph-Annotated.png",
+    "Physics/Materials/Strain Energy.md",
+    "Physics/Materials/Spring Constant.md",
+    "Physics/Materials/Stiffness.md",
+    "Physics/Materials/Rubber Band.md",
+    "Physics/Materials/Hooks-Law-Graph.png",
+    "Physics/Materials/Proportional Limit.md",
+    "Physics/Materials/Plastic.md",
+    "Physics/Materials/Plastic Deformation.md",
+    "Physics/Materials/Hookes law.md",
+    "Physics/Materials/Energy.md",
+    "Physics/Materials/Ductile.md",
+    "Physics/Materials/Elastic Deformation.md",
+    "Physics/Materials/Density.md",
+    "Physics/Materials/Brittle.md",
+    "Physics/Joules.md",
+    "Physics/Intensity.md",
+    "Physics/Frequency.md",
+    "Physics/Electrostatic.md",
+    "Physics/Hertz.md",
+    "Physics/Equipment/Setsquare.md",
+    "Physics/Equipment/ClampStand.md",
+    "Physics/Electron Volts.md",
+    "Physics/Electricity/Super Conductor.md",
+    "Physics/Electricity/Critical Temperature.md",
+    "Physics/Electricity/Equation.md",
+    "Physics/Electromagnetic.md",
+    "Physics/Alloy.md",
     "index.md",
     "TODO.md",
     "lib/fonts/94f2f163d4b698242fef.otf",
@@ -393,2079 +368,1929 @@
   ],
   "fileInfo": {
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/fonts/MathJax_Zero.woff": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/MathJax_Zero.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Regular.woff": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/MathJax_Main-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Bold.woff": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/MathJax_Main-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Math-Italic.woff": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/MathJax_Math-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Italic.woff": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/MathJax_Main-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Math-BoldItalic.woff": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/MathJax_Math-BoldItalic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size1-Regular.woff": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/MathJax_Size1-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size2-Regular.woff": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/MathJax_Size2-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size3-Regular.woff": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/MathJax_Size3-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size4-Regular.woff": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/MathJax_Size4-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_AMS-Regular.woff": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/MathJax_AMS-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Calligraphic-Regular.woff": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/MathJax_Calligraphic-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Calligraphic-Bold.woff": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/MathJax_Calligraphic-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Fraktur-Regular.woff": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/MathJax_Fraktur-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Fraktur-Bold.woff": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/MathJax_Fraktur-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Regular.woff": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Bold.woff": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Italic.woff": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Script-Regular.woff": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/MathJax_Script-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Typewriter-Regular.woff": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/MathJax_Typewriter-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Vector-Regular.woff": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/MathJax_Vector-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Vector-Bold.woff": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/MathJax_Vector-Bold.woff",
       "dependencies": []
     },
     "Computer-Science/Algorithm-Complexity/Complexity/Complexity-Index.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 300,
       "exportedPath": "Computer-Science/Algorithm-Complexity/Complexity/Complexity-Index.html",
       "dependencies": []
     },
     "Computer-Science/Algorithm-Complexity/Complexity/Constant-Complexity.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 182,
       "exportedPath": "Computer-Science/Algorithm-Complexity/Complexity/Constant-Complexity.html",
       "dependencies": []
     },
     "Computer-Science/Algorithm-Complexity/Complexity/Constant-Complexity-Graph.jpg": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 26963,
       "exportedPath": "Computer-Science/Algorithm-Complexity/Complexity/Constant-Complexity-Graph.jpg",
       "dependencies": []
     },
     "Computer-Science/Algorithm-Complexity/Complexity/Exponential-Complexity.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 242,
       "exportedPath": "Computer-Science/Algorithm-Complexity/Complexity/Exponential-Complexity.html",
       "dependencies": []
     },
     "Computer-Science/Algorithm-Complexity/Complexity/Linear-Complexity.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 173,
       "exportedPath": "Computer-Science/Algorithm-Complexity/Complexity/Linear-Complexity.html",
       "dependencies": []
     },
     "Computer-Science/Algorithm-Complexity/Complexity/Linear-Complexity-Graph.jpg": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 30484,
       "exportedPath": "Computer-Science/Algorithm-Complexity/Complexity/Linear-Complexity-Graph.jpg",
       "dependencies": []
     },
     "Computer-Science/Algorithm-Complexity/Complexity/Linearithmic-Complexity.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 297,
       "exportedPath": "Computer-Science/Algorithm-Complexity/Complexity/Linearithmic-Complexity.html",
       "dependencies": []
     },
     "Computer-Science/Algorithm-Complexity/Complexity/Linearithmic-Complexity-Graph.jpg": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 32890,
       "exportedPath": "Computer-Science/Algorithm-Complexity/Complexity/Linearithmic-Complexity-Graph.jpg",
       "dependencies": []
     },
     "Computer-Science/Algorithm-Complexity/Complexity/Logarithmic-Complexity.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 194,
       "exportedPath": "Computer-Science/Algorithm-Complexity/Complexity/Logarithmic-Complexity.html",
       "dependencies": []
     },
     "Computer-Science/Algorithm-Complexity/Complexity/Logarithmic-Complexity-Graph.jpg": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 28913,
       "exportedPath": "Computer-Science/Algorithm-Complexity/Complexity/Logarithmic-Complexity-Graph.jpg",
       "dependencies": []
     },
     "Computer-Science/Algorithm-Complexity/Complexity/Polynomial-Complexity.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 539,
       "exportedPath": "Computer-Science/Algorithm-Complexity/Complexity/Polynomial-Complexity.html",
       "dependencies": []
     },
     "Computer-Science/Algorithm-Complexity/Complexity/Quadratic-Complexity.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 154,
       "exportedPath": "Computer-Science/Algorithm-Complexity/Complexity/Quadratic-Complexity.html",
       "dependencies": []
     },
     "Computer-Science/Algorithm-Complexity/Complexity/Quadratic-Complexity-Graph.jpg": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 27095,
       "exportedPath": "Computer-Science/Algorithm-Complexity/Complexity/Quadratic-Complexity-Graph.jpg",
       "dependencies": []
     },
     "Computer-Science/Algorithm-Complexity/Complexity/Space-Complexity.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 844,
       "exportedPath": "Computer-Science/Algorithm-Complexity/Complexity/Space-Complexity.html",
       "dependencies": []
     },
     "Computer-Science/Algorithm-Complexity/Exam-Practice/Big-O-Exam-Question.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 2471,
       "exportedPath": "Computer-Science/Algorithm-Complexity/Exam-Practice/Big-O-Exam-Question.html",
       "dependencies": []
     },
     "Computer-Science/Algorithm-Complexity/Exam-Practice/Big-O-Fig-4.1.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 3967,
       "exportedPath": "Computer-Science/Algorithm-Complexity/Exam-Practice/Big-O-Fig-4.1.png",
       "dependencies": []
     },
     "Computer-Science/Algorithm-Complexity/Examples/Bubble.java": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 1223,
       "exportedPath": "Computer-Science/Algorithm-Complexity/Examples/Bubble.java",
       "dependencies": []
     },
     "Computer-Science/Algorithm-Complexity/Examples/Bubble.class": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 741,
       "exportedPath": "Computer-Science/Algorithm-Complexity/Examples/Bubble.class",
       "dependencies": []
     },
     "Computer-Science/Algorithm-Complexity/Examples/Bubble-Sort-Code-Example.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 1224,
       "exportedPath": "Computer-Science/Algorithm-Complexity/Examples/Bubble-Sort-Code-Example.html",
       "dependencies": []
     },
     "Computer-Science/Algorithm-Complexity/Examples/Insertion.java": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 1017,
       "exportedPath": "Computer-Science/Algorithm-Complexity/Examples/Insertion.java",
       "dependencies": []
     },
     "Computer-Science/Algorithm-Complexity/Examples/Insertion.class": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 667,
       "exportedPath": "Computer-Science/Algorithm-Complexity/Examples/Insertion.class",
       "dependencies": []
     },
     "Computer-Science/Algorithm-Complexity/Examples/Insertion-Sort-Code-Example.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 1024,
       "exportedPath": "Computer-Science/Algorithm-Complexity/Examples/Insertion-Sort-Code-Example.html",
       "dependencies": []
     },
     "Computer-Science/Algorithm-Complexity/Examples/README.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 409,
       "exportedPath": "Computer-Science/Algorithm-Complexity/Examples/README.html",
       "dependencies": []
     },
     "Computer-Science/Algorithm-Complexity/Searching algorithms/Binary-Search.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 490,
       "exportedPath": "Computer-Science/Algorithm-Complexity/Searching algorithms/Binary-Search.html",
       "dependencies": []
     },
     "Computer-Science/Algorithm-Complexity/Searching algorithms/Linear-Search.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 554,
       "exportedPath": "Computer-Science/Algorithm-Complexity/Searching algorithms/Linear-Search.html",
       "dependencies": []
     },
     "Computer-Science/Algorithm-Complexity/Searching algorithms/Searching-Algorithms.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 414,
       "exportedPath": "Computer-Science/Algorithm-Complexity/Searching algorithms/Searching-Algorithms.html",
       "dependencies": []
     },
     "Computer-Science/Algorithm-Complexity/Sorting algorithms/Bubble-Sort.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 1344,
       "exportedPath": "Computer-Science/Algorithm-Complexity/Sorting algorithms/Bubble-Sort.html",
       "dependencies": []
     },
     "Computer-Science/Algorithm-Complexity/Sorting algorithms/Insertion-Sort.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 973,
       "exportedPath": "Computer-Science/Algorithm-Complexity/Sorting algorithms/Insertion-Sort.html",
       "dependencies": []
     },
     "Computer-Science/Algorithm-Complexity/Sorting algorithms/Insertion-Sort-Example-Image.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 54181,
       "exportedPath": "Computer-Science/Algorithm-Complexity/Sorting algorithms/Insertion-Sort-Example-Image.png",
       "dependencies": []
     },
     "Computer-Science/Algorithm-Complexity/Sorting algorithms/Merge-Sort.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 661,
       "exportedPath": "Computer-Science/Algorithm-Complexity/Sorting algorithms/Merge-Sort.html",
       "dependencies": []
     },
     "Computer-Science/Algorithm-Complexity/Sorting algorithms/Sorting-Algorithms.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 569,
       "exportedPath": "Computer-Science/Algorithm-Complexity/Sorting algorithms/Sorting-Algorithms.html",
       "dependencies": []
     },
     "Computer-Science/Algorithm-Complexity/Big-O.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 2105,
       "exportedPath": "Computer-Science/Algorithm-Complexity/Big-O.html",
       "dependencies": []
     },
     "Computer-Science/Algorithm-Complexity/Index.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 248,
       "exportedPath": "Computer-Science/Algorithm-Complexity/Index.html",
       "dependencies": []
     },
     "Computer-Science/Architecture/Address Bus.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 288,
       "exportedPath": "Computer-Science/Architecture/Address Bus.html",
       "dependencies": []
     },
     "Computer-Science/Architecture/ALU.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 6,
       "exportedPath": "Computer-Science/Architecture/ALU.html",
       "dependencies": []
     },
     "Computer-Science/Architecture/Architecture.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 341,
       "exportedPath": "Computer-Science/Architecture/Architecture.html",
       "dependencies": []
     },
     "Computer-Science/Architecture/CPU.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 335,
       "exportedPath": "Computer-Science/Architecture/CPU.html",
       "dependencies": []
     },
     "Computer-Science/Architecture/CPU Cache.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 12,
       "exportedPath": "Computer-Science/Architecture/CPU Cache.html",
       "dependencies": []
     },
     "Computer-Science/Architecture/CPU Core.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 267,
       "exportedPath": "Computer-Science/Architecture/CPU Core.html",
       "dependencies": []
     },
     "Computer-Science/Architecture/Data bus.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 267,
       "exportedPath": "Computer-Science/Architecture/Data bus.html",
       "dependencies": []
     },
     "Computer-Science/Architecture/IO Device.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 202,
       "exportedPath": "Computer-Science/Architecture/IO Device.html",
       "dependencies": []
     },
     "Computer-Science/Architecture/Memory.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 510,
       "exportedPath": "Computer-Science/Architecture/Memory.html",
       "dependencies": []
     },
     "Computer-Science/Architecture/Memory Address.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 152,
       "exportedPath": "Computer-Science/Architecture/Memory Address.html",
       "dependencies": []
     },
     "Computer-Science/Architecture/Motherboard.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 14,
       "exportedPath": "Computer-Science/Architecture/Motherboard.html",
       "dependencies": []
     },
     "Computer-Science/Architecture/Program Counter.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 205,
       "exportedPath": "Computer-Science/Architecture/Program Counter.html",
       "dependencies": []
     },
     "Computer-Science/Architecture/RAM.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 364,
       "exportedPath": "Computer-Science/Architecture/RAM.html",
       "dependencies": []
     },
     "Computer-Science/Architecture/Register.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 12,
       "exportedPath": "Computer-Science/Architecture/Register.html",
       "dependencies": []
     },
     "Computer-Science/Architecture/Secondary Storage.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 20,
       "exportedPath": "Computer-Science/Architecture/Secondary Storage.html",
       "dependencies": []
     },
     "Computer-Science/Architecture/Word.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 82,
       "exportedPath": "Computer-Science/Architecture/Word.html",
       "dependencies": []
     },
     "Computer-Science/Data Structures/List.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 62,
       "exportedPath": "Computer-Science/Data Structures/List.html",
       "dependencies": []
     },
     "Computer-Science/Data Structures/Queue.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 211,
       "exportedPath": "Computer-Science/Data Structures/Queue.html",
       "dependencies": []
     },
     "Computer-Science/Exam-Practice/Big-O-Exam-Question.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 2471,
       "exportedPath": "Computer-Science/Exam-Practice/Big-O-Exam-Question.html",
       "dependencies": []
     },
     "Computer-Science/Exam-Practice/Big-O-Fig-4.1.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 3967,
       "exportedPath": "Computer-Science/Exam-Practice/Big-O-Fig-4.1.png",
       "dependencies": []
     },
     "Computer-Science/Operating Systems/Basic Input Output System.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 344,
       "exportedPath": "Computer-Science/Operating Systems/Basic Input Output System.html",
       "dependencies": []
     },
     "Computer-Science/Operating Systems/Device Drivers.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 475,
       "exportedPath": "Computer-Science/Operating Systems/Device Drivers.html",
       "dependencies": []
     },
     "Computer-Science/Operating Systems/Distributed Operating System.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 1020,
       "exportedPath": "Computer-Science/Operating Systems/Distributed Operating System.html",
       "dependencies": []
     },
     "Computer-Science/Operating Systems/Embedded Operating Systems.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 240,
       "exportedPath": "Computer-Science/Operating Systems/Embedded Operating Systems.html",
       "dependencies": []
     },
     "Computer-Science/Operating Systems/Mobile Operating System.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 370,
       "exportedPath": "Computer-Science/Operating Systems/Mobile Operating System.html",
       "dependencies": []
     },
     "Computer-Science/Operating Systems/Open-source Operating Systems.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 309,
       "exportedPath": "Computer-Science/Operating Systems/Open-source Operating Systems.html",
       "dependencies": []
     },
     "Computer-Science/Operating Systems/Operating System.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 1218,
       "exportedPath": "Computer-Science/Operating Systems/Operating System.html",
       "dependencies": []
     },
     "Computer-Science/Operating Systems/Real Time Operating System.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 340,
       "exportedPath": "Computer-Science/Operating Systems/Real Time Operating System.html",
       "dependencies": []
     },
     "Computer-Science/Operating Systems/Virtualisation.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 409,
       "exportedPath": "Computer-Science/Operating Systems/Virtualisation.html",
       "dependencies": []
     },
     "Computer-Science/Processor Scheduling/Non Pre-emptive.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 159,
       "exportedPath": "Computer-Science/Processor Scheduling/Non Pre-emptive.html",
       "dependencies": []
     },
     "Computer-Science/Processor Scheduling/Pre-Emptive.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 158,
       "exportedPath": "Computer-Science/Processor Scheduling/Pre-Emptive.html",
       "dependencies": []
     },
     "Computer-Science/Processor Scheduling/Processor Scheduling.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 2430,
       "exportedPath": "Computer-Science/Processor Scheduling/Processor Scheduling.html",
       "dependencies": []
     },
     "Computer-Science/Processor Scheduling/Starvation.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 298,
       "exportedPath": "Computer-Science/Processor Scheduling/Starvation.html",
       "dependencies": []
     },
     "Computer-Science/Programs/Byte Code.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 372,
       "exportedPath": "Computer-Science/Programs/Byte Code.html",
       "dependencies": []
     },
     "Computer-Science/Programs/Compile.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 198,
       "exportedPath": "Computer-Science/Programs/Compile.html",
       "dependencies": []
     },
     "Computer-Science/Programs/Machine Code.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 240,
       "exportedPath": "Computer-Science/Programs/Machine Code.html",
       "dependencies": []
     },
     "Computer-Science/Programs/Program.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 122,
       "exportedPath": "Computer-Science/Programs/Program.html",
       "dependencies": []
     },
     "Computer-Science/Programs/Source Code.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 170,
       "exportedPath": "Computer-Science/Programs/Source Code.html",
       "dependencies": []
     },
     "Computer-Science/Embedded Devices.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 243,
       "exportedPath": "Computer-Science/Embedded Devices.html",
       "dependencies": []
     },
     "Computer-Science/Hardware.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 11,
       "exportedPath": "Computer-Science/Hardware.html",
       "dependencies": []
     },
     "Computer-Science/Multi-Tasking.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 109,
       "exportedPath": "Computer-Science/Multi-Tasking.html",
       "dependencies": []
     },
     "Computer-Science/Parallel.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 11,
       "exportedPath": "Computer-Science/Parallel.html",
       "dependencies": []
     },
     "Computer-Science/Program.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 45,
       "exportedPath": "Computer-Science/Program.html",
       "dependencies": []
     },
     "Electronics/Astable Circuits/Astable Circuit.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 124,
       "exportedPath": "Electronics/Astable Circuits/Astable Circuit.html",
       "dependencies": []
     },
     "Electronics/Astable Circuits/Relaxation Oscillator.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 663,
       "exportedPath": "Electronics/Astable Circuits/Relaxation Oscillator.html",
       "dependencies": []
     },
     "Electronics/Astable Circuits/Relaxation-Oscillator.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 30919,
       "exportedPath": "Electronics/Astable Circuits/Relaxation-Oscillator.png",
       "dependencies": []
     },
     "Electronics/Astable Circuits/SquareWave.gif": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 4745,
       "exportedPath": "Electronics/Astable Circuits/SquareWave.gif",
       "dependencies": []
     },
     "Electronics/Boolean Algebra/Boolean Algebra.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 18,
       "exportedPath": "Electronics/Boolean Algebra/Boolean Algebra.html",
       "dependencies": []
     },
     "Electronics/Boolean Algebra/De Morgan's theorem.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 113,
       "exportedPath": "Electronics/Boolean Algebra/De Morgan's theorem.html",
       "dependencies": []
     },
     "Electronics/Capacitance/Capacitance.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 416,
       "exportedPath": "Electronics/Capacitance/Capacitance.html",
       "dependencies": []
     },
     "Electronics/Capacitance/Capacitor.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 465,
       "exportedPath": "Electronics/Capacitance/Capacitor.html",
       "dependencies": []
     },
     "Electronics/Capacitance/Farads.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 289,
       "exportedPath": "Electronics/Capacitance/Farads.html",
       "dependencies": []
     },
     "Electronics/Circuits/Circuit.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 809,
       "exportedPath": "Electronics/Circuits/Circuit.html",
       "dependencies": []
     },
     "Electronics/Circuits/Parallel Circuit.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 972,
       "exportedPath": "Electronics/Circuits/Parallel Circuit.html",
       "dependencies": []
     },
     "Electronics/Circuits/Parallel-Circuit.gif": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 966611,
       "exportedPath": "Electronics/Circuits/Parallel-Circuit.gif",
       "dependencies": []
     },
     "Electronics/Circuits/Series Circuit.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 1027,
       "exportedPath": "Electronics/Circuits/Series Circuit.html",
       "dependencies": []
     },
     "Electronics/Circuits/Series-Circuit.gif": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 926383,
       "exportedPath": "Electronics/Circuits/Series-Circuit.gif",
       "dependencies": []
     },
     "Electronics/Diodes/Diodes.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 193,
       "exportedPath": "Electronics/Diodes/Diodes.html",
       "dependencies": []
     },
     "Electronics/Diodes/Light Emitting Diodes.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 131,
       "exportedPath": "Electronics/Diodes/Light Emitting Diodes.html",
       "dependencies": []
     },
     "Electronics/Diodes/Silicone Diodes.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 228,
       "exportedPath": "Electronics/Diodes/Silicone Diodes.html",
       "dependencies": []
     },
     "Electronics/Diodes/Zener Diode.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 368,
       "exportedPath": "Electronics/Diodes/Zener Diode.html",
       "dependencies": []
     },
     "Electronics/Diodes/Zener Diodes.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 1310,
       "exportedPath": "Electronics/Diodes/Zener Diodes.html",
       "dependencies": []
     },
     "Electronics/Diodes/Zener-Diode-Graph.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 3426,
       "exportedPath": "Electronics/Diodes/Zener-Diode-Graph.png",
       "dependencies": []
     },
     "Electronics/Equivalent Circuit/Equivalent Circuit.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 1615,
       "exportedPath": "Electronics/Equivalent Circuit/Equivalent Circuit.html",
       "dependencies": []
     },
     "Electronics/Equivalent Circuit/Equivalent-Circuit.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 67006,
       "exportedPath": "Electronics/Equivalent Circuit/Equivalent-Circuit.png",
       "dependencies": []
     },
     "Electronics/Equivalent Circuit/To-Equivalent-Circuit.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 65939,
       "exportedPath": "Electronics/Equivalent Circuit/To-Equivalent-Circuit.png",
       "dependencies": []
     },
     "Electronics/Logic Gates/AND.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 6,
       "exportedPath": "Electronics/Logic Gates/AND.html",
       "dependencies": []
     },
     "Electronics/Logic Gates/Logic Gates.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 326,
       "exportedPath": "Electronics/Logic Gates/Logic Gates.html",
       "dependencies": []
     },
     "Electronics/Logic Gates/NAND.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 46,
       "exportedPath": "Electronics/Logic Gates/NAND.html",
       "dependencies": []
     },
     "Electronics/Logic Gates/NAND-GATE.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 3187,
       "exportedPath": "Electronics/Logic Gates/NAND-GATE.png",
       "dependencies": []
     },
     "Electronics/Logic Gates/NAND-TRUTH.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 4464,
       "exportedPath": "Electronics/Logic Gates/NAND-TRUTH.png",
       "dependencies": []
     },
     "Electronics/Logic Gates/Truth-Table-Example.jpg": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 20808,
       "exportedPath": "Electronics/Logic Gates/Truth-Table-Example.jpg",
       "dependencies": []
     },
     "Electronics/Monostable/Monostable 555.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 880,
       "exportedPath": "Electronics/Monostable/Monostable 555.html",
       "dependencies": []
     },
     "Electronics/Monostable/Monostable Circuit.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 42,
       "exportedPath": "Electronics/Monostable/Monostable Circuit.html",
       "dependencies": []
     },
     "Electronics/Monostable/Monostable-555-Circuit.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 75684,
       "exportedPath": "Electronics/Monostable/Monostable-555-Circuit.png",
       "dependencies": []
     },
     "Electronics/Monostable/Pulse Length.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 36,
       "exportedPath": "Electronics/Monostable/Pulse Length.html",
       "dependencies": []
     },
     "Electronics/MOSFET/MOSFET.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 635,
       "exportedPath": "Electronics/MOSFET/MOSFET.html",
       "dependencies": []
     },
     "Electronics/MOSFET/N-MOSFET.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 28579,
       "exportedPath": "Electronics/MOSFET/N-MOSFET.png",
       "dependencies": []
     },
     "Electronics/Ohms law/Current.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 457,
       "exportedPath": "Electronics/Ohms law/Current.html",
       "dependencies": []
     },
     "Electronics/Ohms law/Ohms Law.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 403,
       "exportedPath": "Electronics/Ohms law/Ohms Law.html",
       "dependencies": []
     },
     "Electronics/Ohms law/Resistance.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 714,
       "exportedPath": "Electronics/Ohms law/Resistance.html",
       "dependencies": []
     },
     "Electronics/Output Representations/Sequence Diagram.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 178,
       "exportedPath": "Electronics/Output Representations/Sequence Diagram.html",
       "dependencies": []
     },
     "Electronics/Output Representations/Sequence Table.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 375,
       "exportedPath": "Electronics/Output Representations/Sequence Table.html",
       "dependencies": []
     },
     "Electronics/Output Representations/Truth Table.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 267,
       "exportedPath": "Electronics/Output Representations/Truth Table.html",
       "dependencies": []
     },
     "Electronics/Power Supply Units/Full Wave Rectifier.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 1552,
       "exportedPath": "Electronics/Power Supply Units/Full Wave Rectifier.html",
       "dependencies": []
     },
     "Electronics/Power Supply Units/Full-Wave-Rectifier-Circuit.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 59245,
       "exportedPath": "Electronics/Power Supply Units/Full-Wave-Rectifier-Circuit.png",
       "dependencies": []
     },
     "Electronics/Power Supply Units/Full-Wave-Rectifier-Smooth-Circuit.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 61357,
       "exportedPath": "Electronics/Power Supply Units/Full-Wave-Rectifier-Smooth-Circuit.png",
       "dependencies": []
     },
     "Electronics/Power Supply Units/Full-Wave-Rectifier-Smooth-Waveform.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 39876,
       "exportedPath": "Electronics/Power Supply Units/Full-Wave-Rectifier-Smooth-Waveform.png",
       "dependencies": []
     },
     "Electronics/Power Supply Units/Full-Wave-Rectifier-Waveform.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 34584,
       "exportedPath": "Electronics/Power Supply Units/Full-Wave-Rectifier-Waveform.png",
       "dependencies": []
     },
     "Electronics/Power Supply Units/Half wave rectifier.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 654,
       "exportedPath": "Electronics/Power Supply Units/Half wave rectifier.html",
       "dependencies": []
     },
     "Electronics/Power Supply Units/Half-Wave-Rectifier-Circuit.jpeg": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 41622,
       "exportedPath": "Electronics/Power Supply Units/Half-Wave-Rectifier-Circuit.jpeg",
       "dependencies": []
     },
     "Electronics/Power Supply Units/Half-Wave-Rectifier-Waveform.jpeg": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 34794,
       "exportedPath": "Electronics/Power Supply Units/Half-Wave-Rectifier-Waveform.jpeg",
       "dependencies": []
     },
     "Electronics/Power Supply Units/Peak Voltage.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 317,
       "exportedPath": "Electronics/Power Supply Units/Peak Voltage.html",
       "dependencies": []
     },
     "Electronics/Power Supply Units/Peak-Voltage-image.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 19958,
       "exportedPath": "Electronics/Power Supply Units/Peak-Voltage-image.png",
       "dependencies": []
     },
     "Electronics/Power Supply Units/RMS.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 493,
       "exportedPath": "Electronics/Power Supply Units/RMS.html",
       "dependencies": []
     },
     "Electronics/Power Supply Units/Voltage Ripple.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 893,
       "exportedPath": "Electronics/Power Supply Units/Voltage Ripple.html",
       "dependencies": []
     },
     "Electronics/Power Supply Units/Voltage Stabilization.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 137,
       "exportedPath": "Electronics/Power Supply Units/Voltage Stabilization.html",
       "dependencies": []
     },
     "Electronics/Power Supply Units/Wave Rectifier.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 187,
       "exportedPath": "Electronics/Power Supply Units/Wave Rectifier.html",
       "dependencies": []
     },
     "Electronics/Resistance/E24-Resistor-Values.jpg": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 24148,
       "exportedPath": "Electronics/Resistance/E24-Resistor-Values.jpg",
       "dependencies": []
     },
     "Electronics/Resistance/Resistance.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 1073,
       "exportedPath": "Electronics/Resistance/Resistance.html",
       "dependencies": []
     },
     "Electronics/Resistance/Resistor.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 340,
       "exportedPath": "Electronics/Resistance/Resistor.html",
       "dependencies": []
     },
     "Electronics/Resistance/Transconductance.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 388,
       "exportedPath": "Electronics/Resistance/Transconductance.html",
       "dependencies": []
     },
     "Electronics/Voltage/Voltage.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 505,
       "exportedPath": "Electronics/Voltage/Voltage.html",
       "dependencies": []
     },
     "Electronics/Voltage/Voltage Divider.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 1199,
       "exportedPath": "Electronics/Voltage/Voltage Divider.html",
       "dependencies": []
     },
     "Electronics/Voltage/Voltage Drop.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 203,
       "exportedPath": "Electronics/Voltage/Voltage Drop.html",
       "dependencies": []
     },
     "Electronics/Voltage/Voltage-Divider-Circuit.jpg": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 8920,
       "exportedPath": "Electronics/Voltage/Voltage-Divider-Circuit.jpg",
       "dependencies": []
     },
     "Electronics/AC.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 175,
       "exportedPath": "Electronics/AC.html",
       "dependencies": []
     },
     "Electronics/AC-image.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 12961,
       "exportedPath": "Electronics/AC-image.png",
       "dependencies": []
     },
     "Electronics/Active Low.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 321,
       "exportedPath": "Electronics/Active Low.html",
       "dependencies": []
     },
     "Electronics/DC.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 394,
       "exportedPath": "Electronics/DC.html",
       "dependencies": []
     },
     "Electronics/DC-image.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 1483,
       "exportedPath": "Electronics/DC-image.png",
       "dependencies": []
     },
     "Electronics/Integrated Circuit.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 39,
       "exportedPath": "Electronics/Integrated Circuit.html",
       "dependencies": []
     },
     "Electronics/Short Circuit.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 34,
       "exportedPath": "Electronics/Short Circuit.html",
       "dependencies": []
     },
     "Physics/Electricity/Critical Temperature.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 441,
       "exportedPath": "Physics/Electricity/Critical Temperature.html",
       "dependencies": []
     },
     "Physics/Electricity/Super Conductor.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 825,
       "exportedPath": "Physics/Electricity/Super Conductor.html",
       "dependencies": []
     },
     "Physics/Materials/Density.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 431,
       "exportedPath": "Physics/Materials/Density.html",
       "dependencies": []
     },
     "Physics/Particles/Atom.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 237,
       "exportedPath": "Physics/Particles/Atom.html",
       "dependencies": []
     },
     "Physics/Particles/Electron.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 11,
       "exportedPath": "Physics/Particles/Electron.html",
       "dependencies": []
     },
     "Physics/Particles/Neutron.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 11,
       "exportedPath": "Physics/Particles/Neutron.html",
       "dependencies": []
     },
     "Physics/Particles/Proton.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 9,
       "exportedPath": "Physics/Particles/Proton.html",
       "dependencies": []
     },
     "Physics/Uncertainties/Absolute Uncertainty.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 194,
       "exportedPath": "Physics/Uncertainties/Absolute Uncertainty.html",
       "dependencies": []
     },
     "Physics/Uncertainties/Accurate.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 113,
       "exportedPath": "Physics/Uncertainties/Accurate.html",
       "dependencies": []
     },
     "Physics/Uncertainties/Percentage Uncertainty.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 284,
       "exportedPath": "Physics/Uncertainties/Percentage Uncertainty.html",
       "dependencies": []
     },
     "Physics/Uncertainties/Precise.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 89,
       "exportedPath": "Physics/Uncertainties/Precise.html",
       "dependencies": []
     },
     "Physics/Uncertainties/Reliable.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 119,
       "exportedPath": "Physics/Uncertainties/Reliable.html",
       "dependencies": []
     },
     "Physics/Uncertainties/Resolution.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 144,
       "exportedPath": "Physics/Uncertainties/Resolution.html",
       "dependencies": []
     },
     "Physics/Uncertainties/Uncertainty.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 555,
       "exportedPath": "Physics/Uncertainties/Uncertainty.html",
       "dependencies": []
     },
     "Physics/Alloy.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 73,
       "exportedPath": "Physics/Alloy.html",
       "dependencies": []
     },
     "TODO.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 40,
       "exportedPath": "TODO.html",
       "dependencies": []
     },
     "Computer-Science/Operating Systems/Multi Task Operating System.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 224,
       "exportedPath": "Computer-Science/Operating Systems/Multi Task Operating System.html",
       "dependencies": []
     },
     "Computer-Science/Operating Systems/Multi User Operating System.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 262,
       "exportedPath": "Computer-Science/Operating Systems/Multi User Operating System.html",
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 175,
       "exportedPath": "index.html",
       "dependencies": []
     },
     "Computer-Science/Operating Systems/Virtualization.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 409,
       "exportedPath": "Computer-Science/Operating Systems/Virtualization.html",
       "dependencies": []
     },
     "Computer-Science/Translation/Assembler.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 75,
       "exportedPath": "Computer-Science/Translation/Assembler.html",
       "dependencies": []
     },
     "Computer-Science/Translation/Compiler.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 190,
       "exportedPath": "Computer-Science/Translation/Compiler.html",
       "dependencies": []
     },
     "Computer-Science/Translation/Interpreter.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 288,
       "exportedPath": "Computer-Science/Translation/Interpreter.html",
       "dependencies": []
     },
     "Computer-Science/Translation/JIT.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 334,
       "exportedPath": "Computer-Science/Translation/JIT.html",
       "dependencies": []
     },
     "Computer-Science/Virtual Machine.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 178,
       "exportedPath": "Computer-Science/Virtual Machine.html",
       "dependencies": []
     },
     "Electronics/Astable Circuits/555 Astable.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 14,
       "exportedPath": "Electronics/Astable Circuits/555 Astable.html",
       "dependencies": []
     },
     "Electronics/Asynchronous Counters/1 Bit/One Bit Counter.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 419,
       "exportedPath": "Electronics/Asynchronous Counters/1 Bit/One Bit Counter.html",
       "dependencies": []
     },
     "Electronics/Asynchronous Counters/1 Bit/One-Bit-Counter.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 8194,
       "exportedPath": "Electronics/Asynchronous Counters/1 Bit/One-Bit-Counter.png",
       "dependencies": []
     },
     "Electronics/Asynchronous Counters/1 Bit/One-Bit-Counter-Sequence-Diagram.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 16796,
       "exportedPath": "Electronics/Asynchronous Counters/1 Bit/One-Bit-Counter-Sequence-Diagram.png",
       "dependencies": []
     },
     "Electronics/Asynchronous Counters/2 Bit/Two Bit Counter.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 630,
       "exportedPath": "Electronics/Asynchronous Counters/2 Bit/Two Bit Counter.html",
       "dependencies": []
     },
     "Electronics/Asynchronous Counters/2 Bit/Two-Bit-Counter-Sequence-Diagram.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 49783,
       "exportedPath": "Electronics/Asynchronous Counters/2 Bit/Two-Bit-Counter-Sequence-Diagram.png",
       "dependencies": []
     },
     "Electronics/Asynchronous Counters/2 Bit/Two-Bit-Up-Counter.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 15258,
       "exportedPath": "Electronics/Asynchronous Counters/2 Bit/Two-Bit-Up-Counter.png",
       "dependencies": []
     },
     "Electronics/Asynchronous Counters/3 Bit/Three Bit Counter.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 349,
       "exportedPath": "Electronics/Asynchronous Counters/3 Bit/Three Bit Counter.html",
       "dependencies": []
     },
     "Electronics/Asynchronous Counters/3 Bit/Three-Bit-Counter.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 17461,
       "exportedPath": "Electronics/Asynchronous Counters/3 Bit/Three-Bit-Counter.png",
       "dependencies": []
     },
     "Electronics/Asynchronous Counters/3 Bit/Three-Bit-Sequence-Diagram.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 68528,
       "exportedPath": "Electronics/Asynchronous Counters/3 Bit/Three-Bit-Sequence-Diagram.png",
       "dependencies": []
     },
     "Electronics/Asynchronous Counters/Down Counter/Down Counter.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 549,
       "exportedPath": "Electronics/Asynchronous Counters/Down Counter/Down Counter.html",
       "dependencies": []
     },
     "Electronics/Asynchronous Counters/Down Counter/Down-Counter.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 30295,
       "exportedPath": "Electronics/Asynchronous Counters/Down Counter/Down-Counter.png",
       "dependencies": []
     },
     "Electronics/Asynchronous Counters/Down Counter/Down-Counter-Sequence-Diagram.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 66832,
       "exportedPath": "Electronics/Asynchronous Counters/Down Counter/Down-Counter-Sequence-Diagram.png",
       "dependencies": []
     },
     "Electronics/Asynchronous Counters/Real Counter/Conecting-Counters.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 20319,
       "exportedPath": "Electronics/Asynchronous Counters/Real Counter/Conecting-Counters.png",
       "dependencies": []
     },
     "Electronics/Asynchronous Counters/Real Counter/Falling-Edge-Counter.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 7554,
       "exportedPath": "Electronics/Asynchronous Counters/Real Counter/Falling-Edge-Counter.png",
       "dependencies": []
     },
     "Electronics/Asynchronous Counters/Real Counter/Real Counter.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 571,
       "exportedPath": "Electronics/Asynchronous Counters/Real Counter/Real Counter.html",
       "dependencies": []
     },
     "Electronics/Asynchronous Counters/Resetting Counters/Resetting Counters.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 307,
       "exportedPath": "Electronics/Asynchronous Counters/Resetting Counters/Resetting Counters.html",
       "dependencies": []
     },
     "Electronics/Asynchronous Counters/Resetting Counters/Resetting-Circuit-Example.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 47773,
       "exportedPath": "Electronics/Asynchronous Counters/Resetting Counters/Resetting-Circuit-Example.png",
       "dependencies": []
     },
     "Electronics/Asynchronous Counters/Resetting Counters/Resetting-Counters-Sequence-Diagram.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 54287,
       "exportedPath": "Electronics/Asynchronous Counters/Resetting Counters/Resetting-Counters-Sequence-Diagram.png",
       "dependencies": []
     },
     "Electronics/Asynchronous Counters/Asynchronous Counter.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 23,
       "exportedPath": "Electronics/Asynchronous Counters/Asynchronous Counter.html",
       "dependencies": []
     },
     "Electronics/Asynchronous Counters/Ripple.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 9,
       "exportedPath": "Electronics/Asynchronous Counters/Ripple.html",
       "dependencies": []
     },
     "Electronics/Boolean Algebra/Boolean Representation.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 25,
       "exportedPath": "Electronics/Boolean Algebra/Boolean Representation.html",
       "dependencies": []
     },
     "Electronics/Diodes/LED.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 6275,
       "exportedPath": "Electronics/Diodes/LED.png",
       "dependencies": []
     },
     "Electronics/Number systems/Binary/Least Significant Bit.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 117,
       "exportedPath": "Electronics/Number systems/Binary/Least Significant Bit.html",
       "dependencies": []
     },
     "Electronics/Output Representations/State Table.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 86,
       "exportedPath": "Electronics/Output Representations/State Table.html",
       "dependencies": []
     },
     "Electronics/Resistance/Light Dependent Resistor.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 339,
       "exportedPath": "Electronics/Resistance/Light Dependent Resistor.html",
       "dependencies": []
     },
     "Electronics/Resistance/Variable Resistor.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 120,
       "exportedPath": "Electronics/Resistance/Variable Resistor.html",
       "dependencies": []
     },
     "Electronics/Sequence Generator/Boolean-Representation.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 14479,
       "exportedPath": "Electronics/Sequence Generator/Boolean-Representation.png",
       "dependencies": []
     },
     "Electronics/Sequence Generator/Example-Circuit.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 40474,
       "exportedPath": "Electronics/Sequence Generator/Example-Circuit.png",
       "dependencies": []
     },
     "Electronics/Sequence Generator/Example-State-Table.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 18065,
       "exportedPath": "Electronics/Sequence Generator/Example-State-Table.png",
       "dependencies": []
     },
     "Electronics/Sequence Generator/Sequence Generator.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 678,
       "exportedPath": "Electronics/Sequence Generator/Sequence Generator.html",
       "dependencies": []
     },
     "Electronics/Seven Segment Display/BCD.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 17215,
       "exportedPath": "Electronics/Seven Segment Display/BCD.png",
       "dependencies": []
     },
     "Electronics/Seven Segment Display/Binary Coded Decimal.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 251,
       "exportedPath": "Electronics/Seven Segment Display/Binary Coded Decimal.html",
       "dependencies": []
     },
     "Electronics/Seven Segment Display/Cathode-example-code.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 14302,
       "exportedPath": "Electronics/Seven Segment Display/Cathode-example-code.png",
       "dependencies": []
     },
     "Electronics/Seven Segment Display/Cathode-Example-Display.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 2791,
       "exportedPath": "Electronics/Seven Segment Display/Cathode-Example-Display.png",
       "dependencies": []
     },
     "Electronics/Seven Segment Display/Common Anode.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 291,
       "exportedPath": "Electronics/Seven Segment Display/Common Anode.html",
       "dependencies": []
     },
     "Electronics/Seven Segment Display/Common Cathode.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 418,
       "exportedPath": "Electronics/Seven Segment Display/Common Cathode.html",
       "dependencies": []
     },
     "Electronics/Seven Segment Display/IC-Seven-Segment-Display.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 20591,
       "exportedPath": "Electronics/Seven Segment Display/IC-Seven-Segment-Display.png",
       "dependencies": []
     },
     "Electronics/Seven Segment Display/Seven Segment Display.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 587,
       "exportedPath": "Electronics/Seven Segment Display/Seven Segment Display.html",
       "dependencies": []
     },
     "Electronics/Seven Segment Display/Seven-Segment-Display.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 8951,
       "exportedPath": "Electronics/Seven Segment Display/Seven-Segment-Display.png",
       "dependencies": []
     },
     "Electronics/Timing/Clock/Clock.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 398,
       "exportedPath": "Electronics/Timing/Clock/Clock.html",
       "dependencies": []
     },
     "Electronics/Timing/Clock/Clock-Mark.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 3823,
       "exportedPath": "Electronics/Timing/Clock/Clock-Mark.png",
       "dependencies": []
     },
     "Electronics/Timing/Clock/Falling-Edge.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 6395,
       "exportedPath": "Electronics/Timing/Clock/Falling-Edge.png",
       "dependencies": []
     },
     "Electronics/Timing/Clock/Rising-Edge.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 8484,
       "exportedPath": "Electronics/Timing/Clock/Rising-Edge.png",
       "dependencies": []
     },
     "Electronics/Timing/Flip Flop/Flip Flop.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 606,
       "exportedPath": "Electronics/Timing/Flip Flop/Flip Flop.html",
       "dependencies": []
     },
     "Electronics/Timing/Flip Flop/Flip Fop Image.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 13605,
       "exportedPath": "Electronics/Timing/Flip Flop/Flip Fop Image.png",
       "dependencies": []
     },
     "Electronics/Timing/Flip Flop/Flip-Flop-Sequence.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 74818,
       "exportedPath": "Electronics/Timing/Flip Flop/Flip-Flop-Sequence.png",
       "dependencies": []
     },
     "Electronics/Timing/Flip Flop/Flip-Flop-Sequence-2.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 50185,
       "exportedPath": "Electronics/Timing/Flip Flop/Flip-Flop-Sequence-2.png",
       "dependencies": []
     },
     "Electronics/Timing/Latches/Low-Signal-Words.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 14211,
       "exportedPath": "Electronics/Timing/Latches/Low-Signal-Words.png",
       "dependencies": []
     },
     "Electronics/Timing/Latches/Simple-SR-Bistable.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 6804,
       "exportedPath": "Electronics/Timing/Latches/Simple-SR-Bistable.png",
       "dependencies": []
     },
     "Electronics/Timing/Latches/SR Bistable.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 1367,
       "exportedPath": "Electronics/Timing/Latches/SR Bistable.html",
       "dependencies": []
     },
     "Electronics/Timing/Latches/SR-Layout.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 8634,
       "exportedPath": "Electronics/Timing/Latches/SR-Layout.png",
       "dependencies": []
     },
     "Electronics/Timing/Latches/SR-Sequence-Diagram.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 49767,
       "exportedPath": "Electronics/Timing/Latches/SR-Sequence-Diagram.png",
       "dependencies": []
     },
     "Electronics/Timing/Latches/SR-Sequence-Table.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 13512,
       "exportedPath": "Electronics/Timing/Latches/SR-Sequence-Table.png",
       "dependencies": []
     },
     "Electronics/Timing/Latches/SR-Truth-Table.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 21234,
       "exportedPath": "Electronics/Timing/Latches/SR-Truth-Table.png",
       "dependencies": []
     },
     "Electronics/Timing/Propagation Delay/Propagation Delay.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 568,
       "exportedPath": "Electronics/Timing/Propagation Delay/Propagation Delay.html",
       "dependencies": []
     },
     "Electronics/Timing/Propagation Delay/Propagation Delay Example.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 36197,
       "exportedPath": "Electronics/Timing/Propagation Delay/Propagation Delay Example.png",
       "dependencies": []
     },
     "Electronics/Counter.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 82,
       "exportedPath": "Electronics/Counter.html",
       "dependencies": []
     },
     "Electronics/De Bounce.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 214,
       "exportedPath": "Electronics/De Bounce.html",
       "dependencies": []
     },
     "Electronics/Falling Edge.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 15,
       "exportedPath": "Electronics/Falling Edge.html",
       "dependencies": []
     },
     "Electronics/Power.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 101,
       "exportedPath": "Electronics/Power.html",
       "dependencies": []
     },
     "Electronics/Rising Edge.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 14,
       "exportedPath": "Electronics/Rising Edge.html",
       "dependencies": []
     },
-    "Homework/Electronics/A11Bi.png": {
-      "modifiedTime": 1715257052764,
-      "sourceSize": 20084,
-      "exportedPath": "Homework/Electronics/A11Bi.png",
-      "dependencies": []
-    },
-    "Homework/Electronics/Mock Revision - Core.md": {
-      "modifiedTime": 1715257052764,
-      "sourceSize": 2670,
-      "exportedPath": "Homework/Electronics/Mock Revision - Core.html",
-      "dependencies": []
-    },
-    "Homework/Electronics/Q4A.png": {
-      "modifiedTime": 1715257052764,
-      "sourceSize": 1662,
-      "exportedPath": "Homework/Electronics/Q4A.png",
-      "dependencies": []
-    },
-    "Homework/Electronics/Q4B.png": {
-      "modifiedTime": 1715257052764,
-      "sourceSize": 4838,
-      "exportedPath": "Homework/Electronics/Q4B.png",
-      "dependencies": []
-    },
-    "Homework/Electronics/Q4C.png": {
-      "modifiedTime": 1715257052764,
-      "sourceSize": 2623,
-      "exportedPath": "Homework/Electronics/Q4C.png",
-      "dependencies": []
-    },
-    "Homework/Electronics/Q5.png": {
-      "modifiedTime": 1715257052764,
-      "sourceSize": 10947,
-      "exportedPath": "Homework/Electronics/Q5.png",
-      "dependencies": []
-    },
-    "Homework/Electronics/Q6.png": {
-      "modifiedTime": 1715257052764,
-      "sourceSize": 10801,
-      "exportedPath": "Homework/Electronics/Q6.png",
-      "dependencies": []
-    },
-    "Homework/Electronics/Q7.png": {
-      "modifiedTime": 1715257052764,
-      "sourceSize": 8826,
-      "exportedPath": "Homework/Electronics/Q7.png",
-      "dependencies": []
-    },
-    "Homework/Electronics/Q10.png": {
-      "modifiedTime": 1715257052764,
-      "sourceSize": 8079,
-      "exportedPath": "Homework/Electronics/Q10.png",
-      "dependencies": []
-    },
-    "Homework/Electronics/Q11.png": {
-      "modifiedTime": 1715257052764,
-      "sourceSize": 4652,
-      "exportedPath": "Homework/Electronics/Q11.png",
-      "dependencies": []
-    },
-    "Homework/Physics/Homework/Materials Catchup/188-1.png": {
-      "modifiedTime": 1715257052764,
-      "sourceSize": 52539,
-      "exportedPath": "Homework/Physics/Homework/Materials Catchup/188-1.png",
-      "dependencies": []
-    },
-    "Homework/Physics/Homework/Materials Catchup/188-2.png": {
-      "modifiedTime": 1715257052764,
-      "sourceSize": 64349,
-      "exportedPath": "Homework/Physics/Homework/Materials Catchup/188-2.png",
-      "dependencies": []
-    },
-    "Homework/Physics/Homework/Materials Catchup/188-3.png": {
-      "modifiedTime": 1715257052764,
-      "sourceSize": 14134,
-      "exportedPath": "Homework/Physics/Homework/Materials Catchup/188-3.png",
-      "dependencies": []
-    },
-    "Homework/Physics/Homework/Materials Catchup/188-4.png": {
-      "modifiedTime": 1715257052764,
-      "sourceSize": 101776,
-      "exportedPath": "Homework/Physics/Homework/Materials Catchup/188-4.png",
-      "dependencies": []
-    },
-    "Homework/Physics/Homework/Materials Catchup/191-1.png": {
-      "modifiedTime": 1715257052764,
-      "sourceSize": 23942,
-      "exportedPath": "Homework/Physics/Homework/Materials Catchup/191-1.png",
-      "dependencies": []
-    },
-    "Homework/Physics/Homework/Materials Catchup/191-2.png": {
-      "modifiedTime": 1715257052764,
-      "sourceSize": 58284,
-      "exportedPath": "Homework/Physics/Homework/Materials Catchup/191-2.png",
-      "dependencies": []
-    },
-    "Homework/Physics/Homework/Materials Catchup/191-3.png": {
-      "modifiedTime": 1715257052764,
-      "sourceSize": 61203,
-      "exportedPath": "Homework/Physics/Homework/Materials Catchup/191-3.png",
-      "dependencies": []
-    },
-    "Homework/Physics/Homework/Materials Catchup/191-4.png": {
-      "modifiedTime": 1715257052764,
-      "sourceSize": 85865,
-      "exportedPath": "Homework/Physics/Homework/Materials Catchup/191-4.png",
-      "dependencies": []
-    },
-    "Homework/Physics/Homework/Materials Catchup/193-1.png": {
-      "modifiedTime": 1715257052764,
-      "sourceSize": 81642,
-      "exportedPath": "Homework/Physics/Homework/Materials Catchup/193-1.png",
-      "dependencies": []
-    },
-    "Homework/Physics/Homework/Materials Catchup/Materials Catchup.md": {
-      "modifiedTime": 1715257052764,
-      "sourceSize": 1987,
-      "exportedPath": "Homework/Physics/Homework/Materials Catchup/Materials Catchup.html",
-      "dependencies": []
-    },
-    "Homework/Physics/Homework/Photoelectric Effect/Photoelectric Effect.md": {
-      "modifiedTime": 1715257052764,
-      "sourceSize": 4020,
-      "exportedPath": "Homework/Physics/Homework/Photoelectric Effect/Photoelectric Effect.html",
-      "dependencies": []
-    },
-    "Homework/Physics/Homework/Photoelectric Effect/Q1.png": {
-      "modifiedTime": 1715257052764,
-      "sourceSize": 4909,
-      "exportedPath": "Homework/Physics/Homework/Photoelectric Effect/Q1.png",
-      "dependencies": []
-    },
-    "Homework/Physics/Homework/Photoelectric Effect/Q1A.png": {
-      "modifiedTime": 1715257052764,
-      "sourceSize": 12873,
-      "exportedPath": "Homework/Physics/Homework/Photoelectric Effect/Q1A.png",
-      "dependencies": []
-    },
-    "Homework/Physics/Homework/Photoelectric Effect/Q1B.png": {
-      "modifiedTime": 1715257052764,
-      "sourceSize": 7507,
-      "exportedPath": "Homework/Physics/Homework/Photoelectric Effect/Q1B.png",
-      "dependencies": []
-    },
-    "Homework/Physics/Homework/Photoelectric Effect/Q2.png": {
-      "modifiedTime": 1715257052764,
-      "sourceSize": 27212,
-      "exportedPath": "Homework/Physics/Homework/Photoelectric Effect/Q2.png",
-      "dependencies": []
-    },
-    "Homework/Physics/Homework/Photoelectric Effect/Q2B.png": {
-      "modifiedTime": 1715257052764,
-      "sourceSize": 9457,
-      "exportedPath": "Homework/Physics/Homework/Photoelectric Effect/Q2B.png",
-      "dependencies": []
-    },
     "Physics/Electricity/Equation.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 31,
       "exportedPath": "Physics/Electricity/Equation.html",
       "dependencies": []
     },
     "Physics/Equipment/ClampStand.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 13,
       "exportedPath": "Physics/Equipment/ClampStand.html",
       "dependencies": []
     },
     "Physics/Equipment/Setsquare.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 12,
       "exportedPath": "Physics/Equipment/Setsquare.html",
       "dependencies": []
     },
     "Physics/Light/Ultra Violet.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 15,
       "exportedPath": "Physics/Light/Ultra Violet.html",
       "dependencies": []
     },
     "Physics/Materials/Brittle.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 155,
       "exportedPath": "Physics/Materials/Brittle.html",
       "dependencies": []
     },
     "Physics/Materials/Ductile.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 105,
       "exportedPath": "Physics/Materials/Ductile.html",
       "dependencies": []
     },
     "Physics/Materials/Elastic Deformation.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 377,
       "exportedPath": "Physics/Materials/Elastic Deformation.html",
       "dependencies": []
     },
     "Physics/Materials/Energy.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 297,
       "exportedPath": "Physics/Materials/Energy.html",
       "dependencies": []
     },
     "Physics/Materials/Hookes law.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 1470,
       "exportedPath": "Physics/Materials/Hookes law.html",
       "dependencies": []
     },
     "Physics/Materials/Hooks-Law-Graph.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 26225,
       "exportedPath": "Physics/Materials/Hooks-Law-Graph.png",
       "dependencies": []
     },
     "Physics/Materials/Plastic.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 32,
       "exportedPath": "Physics/Materials/Plastic.html",
       "dependencies": []
     },
     "Physics/Materials/Plastic Deformation.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 366,
       "exportedPath": "Physics/Materials/Plastic Deformation.html",
       "dependencies": []
     },
     "Physics/Materials/Proportional Limit.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 196,
       "exportedPath": "Physics/Materials/Proportional Limit.html",
       "dependencies": []
     },
     "Physics/Materials/Rubber Band.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 50,
       "exportedPath": "Physics/Materials/Rubber Band.html",
       "dependencies": []
     },
     "Physics/Materials/Spring Constant.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 68,
       "exportedPath": "Physics/Materials/Spring Constant.html",
       "dependencies": []
     },
     "Physics/Materials/Stiffness.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 131,
       "exportedPath": "Physics/Materials/Stiffness.html",
       "dependencies": []
     },
     "Physics/Materials/Strain Energy.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 426,
       "exportedPath": "Physics/Materials/Strain Energy.html",
       "dependencies": []
     },
     "Physics/Materials/Strain-Graph.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 23082,
       "exportedPath": "Physics/Materials/Strain-Graph.png",
       "dependencies": []
     },
     "Physics/Materials/Strain-Graph-Annotated.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 40620,
       "exportedPath": "Physics/Materials/Strain-Graph-Annotated.png",
       "dependencies": []
     },
     "Physics/Materials/Strength.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 104,
       "exportedPath": "Physics/Materials/Strength.html",
       "dependencies": []
     },
     "Physics/Materials/Stress Strain Graph.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 144,
       "exportedPath": "Physics/Materials/Stress Strain Graph.html",
       "dependencies": []
     },
     "Physics/Materials/Stress-Strain-Graph.png": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 48406,
       "exportedPath": "Physics/Materials/Stress-Strain-Graph.png",
       "dependencies": []
     },
     "Physics/Materials/Tensile Stress.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 62,
       "exportedPath": "Physics/Materials/Tensile Stress.html",
       "dependencies": []
     },
     "Physics/Materials/Ultimate Tensile Strength.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 169,
       "exportedPath": "Physics/Materials/Ultimate Tensile Strength.html",
       "dependencies": []
     },
     "Physics/Materials/Young Modulus.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 315,
       "exportedPath": "Physics/Materials/Young Modulus.html",
       "dependencies": []
     },
     "Physics/Particles/Photon.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 189,
       "exportedPath": "Physics/Particles/Photon.html",
       "dependencies": []
     },
     "Physics/Particles/Planck Constant.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 129,
       "exportedPath": "Physics/Particles/Planck Constant.html",
       "dependencies": []
     },
     "Physics/Practice/Practice one.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 1446,
       "exportedPath": "Physics/Practice/Practice one.html",
       "dependencies": []
     },
     "Physics/Practice/Practice Two.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 67,
       "exportedPath": "Physics/Practice/Practice Two.html",
       "dependencies": []
     },
     "Physics/Quantum/Gold Leaf Experiment.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 2469,
       "exportedPath": "Physics/Quantum/Gold Leaf Experiment.html",
       "dependencies": []
     },
     "Physics/Quantum/Photoelectric Effect.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 524,
       "exportedPath": "Physics/Quantum/Photoelectric Effect.html",
       "dependencies": []
     },
     "Physics/Quantum/Photoelectron.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 170,
       "exportedPath": "Physics/Quantum/Photoelectron.html",
       "dependencies": []
     },
     "Physics/Quantum/Photoemissive Surface.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 128,
       "exportedPath": "Physics/Quantum/Photoemissive Surface.html",
       "dependencies": []
     },
     "Physics/Quantum/Quantum.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 10,
       "exportedPath": "Physics/Quantum/Quantum.html",
       "dependencies": []
     },
     "Physics/Quantum/Threshold Frequency.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 187,
       "exportedPath": "Physics/Quantum/Threshold Frequency.html",
       "dependencies": []
     },
     "Physics/Quantum/Work Function.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 997,
       "exportedPath": "Physics/Quantum/Work Function.html",
       "dependencies": []
     },
     "Physics/Waves/Constructive Interference.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 207,
       "exportedPath": "Physics/Waves/Constructive Interference.html",
       "dependencies": []
     },
     "Physics/Waves/Destructive Interference.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 207,
       "exportedPath": "Physics/Waves/Destructive Interference.html",
       "dependencies": []
     },
     "Physics/Waves/Phase Difference.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 501,
       "exportedPath": "Physics/Waves/Phase Difference.html",
       "dependencies": []
     },
     "Physics/Waves/Phase-Difference-Diagram.jpg": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 23712,
       "exportedPath": "Physics/Waves/Phase-Difference-Diagram.jpg",
       "dependencies": []
     },
     "Physics/Waves/Similar Waves.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 103,
       "exportedPath": "Physics/Waves/Similar Waves.html",
       "dependencies": []
     },
     "Physics/Waves/Superposition.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 91,
       "exportedPath": "Physics/Waves/Superposition.html",
       "dependencies": []
     },
     "Physics/Electromagnetic.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 18,
       "exportedPath": "Physics/Electromagnetic.html",
       "dependencies": []
     },
     "Physics/Electron Volts.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 202,
       "exportedPath": "Physics/Electron Volts.html",
       "dependencies": []
     },
     "Physics/Electrostatic.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 16,
       "exportedPath": "Physics/Electrostatic.html",
       "dependencies": []
     },
     "Physics/Frequency.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 12,
       "exportedPath": "Physics/Frequency.html",
       "dependencies": []
     },
     "Physics/Hertz.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 8,
       "exportedPath": "Physics/Hertz.html",
       "dependencies": []
     },
     "Physics/Intensity.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 93,
       "exportedPath": "Physics/Intensity.html",
       "dependencies": []
     },
     "Physics/Joules.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 9,
       "exportedPath": "Physics/Joules.html",
       "dependencies": []
     },
     "Physics/Momentum.md": {
-      "modifiedTime": 1715257052764,
-      "sourceSize": 54,
+      "modifiedTime": 1715259763309,
+      "sourceSize": 53,
       "exportedPath": "Physics/Momentum.html",
       "dependencies": []
     },
     "Physics/Power.md": {
-      "modifiedTime": 1715257052764,
+      "modifiedTime": 1715259763309,
       "sourceSize": 8,
       "exportedPath": "Physics/Power.html",
+      "dependencies": []
+    },
+    "Electronics/Gray Code.md": {
+      "modifiedTime": 1715259763309,
+      "sourceSize": 178,
+      "exportedPath": "Electronics/Gray Code.html",
       "dependencies": []
     }
   }
