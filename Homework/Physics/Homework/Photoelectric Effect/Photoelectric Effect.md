@@ -17,3 +17,10 @@ B)
 $E_{photon} = hf = 6.63\times10^{-34}\times1.2\times10^{15} = 8.0\times10^{-19}$
 $E_{Kmax} = hf - \phi$
 $\phi = E_{photon} - E_{Kmax} = 8.0\times10^{-19} - $
+
+# 2
+![[Q2.png]]
+A current is measured on the microammeter only when electromagnetic radiation with a frequency greater than a certain value is incident on the photoemissive surface.
+
+### A
+Explain why the frequency of the electromagnetic radiation must be greater than a certain value.
