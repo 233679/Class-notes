@@ -1,6 +1,5 @@
 # Momentum
 
-
 $p = mu$
 
 p - momentum
