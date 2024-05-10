@@ -13,5 +13,5 @@ $\phi$ - [[Work Function]].
 
 $\phi  = hf_{threshold}$
 $\phi$ - [[Work Function]].
-$h$ - [[../Particles/Planck Constant|Planck Constant]].
+$h$ - [[../Planck Constant|Planck Constant]].
 $f_{threshold}$ - [[Threshold Frequency]].
