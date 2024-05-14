@@ -1,3 +1,10 @@
+---
+tags:
+  - Physics
+  - Physics/Uncertainties
+aliases:
+  - Uncertanities
+---
 # Uncertainties
 [Uncertainty](Uncertainty.md) is used to measure if data is [Accurate](Accurate.md), [Reliable](Reliable.md) & [Precise](Precise.md).
 

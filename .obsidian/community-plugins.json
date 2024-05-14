@@ -1,4 +1,7 @@
 [
   "obsidian-linter",
-  "webpage-html-export"
+  "webpage-html-export",
+  "tag-wrangler",
+  "obsidian-tagfolder",
+  "obsidian-paste-image-rename"
 ]

@@ -1,3 +1,7 @@
+---
+tags:
+  - Physics/Materials
+---
 # Energy
 
 ### From Stress & Strain
@@ -7,4 +11,4 @@ stress = $\frac{F}{A}$
 strain = $\frac{\Delta L}{L}$
 
 $\frac{stress}{strain}$ = gradient = $\frac{F}{A \Delta L}$
-$stress * strain = \frac{F}{A} * \frac{\Delta L}{L} = \frac{F \Delta }{}$ [[../../../TODO|TODO]] copy from sheet.
+$stress * strain = \frac{F}{A} * \frac{\Delta L}{L} = \frac{F \Delta }{}$ #Todo copy from sheet.

@@ -1,2 +1,7 @@
+---
+tags:
+  - Physics/Materials
+  - Todo
+---
 # Tensile Stress
-[[Tensile Stress]] is measure in pascals (Pa)
+[[Tensile Stress]] is measured in pascals (Pa)

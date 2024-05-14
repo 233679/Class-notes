@@ -1,3 +1,7 @@
+---
+tags:
+  - Physics/Materials
+---
 # Plastic Deformation
 [[Plastic Deformation]] is when a material is pushed past [[Elastic Deformation]]. [[Plastic Deformation]] permanently changes the resting shape of the material.
 

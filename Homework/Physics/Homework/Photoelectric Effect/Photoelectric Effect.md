@@ -1,7 +1,7 @@
 # Photoelectric Effect
 
 ### 1
-![[Q1.png]]
+![[Homework/Physics/Homework/Photoelectric Effect/Q1.png]]
 
 A)
 ![[Q1A.png]]

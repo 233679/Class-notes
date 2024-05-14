@@ -1,3 +1,8 @@
+---
+tags:
+  - Physics
+  - Physics/Uncertainties
+---
 # Percentage Uncertainty
 [[Percentage Uncertainty]] is a measurement of [[Uncertainty]] by %. For example,
 - $850N ± 20\%$ (very imprecise)

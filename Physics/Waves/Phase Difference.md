@@ -1,3 +1,8 @@
+---
+tags:
+  - Physics
+  - Physics/Waves
+---
 # Phase Difference
 The [[Phase Difference]] is a measurement of how much one wave is shifted compared to another. [[Phase Difference]] is measured in phi ($\phi$).
 

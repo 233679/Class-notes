@@ -2,9 +2,10 @@
   "spellcheck": true,
   "spellcheckLanguages": null,
   "alwaysUpdateLinks": true,
-  "newLinkFormat": "relative",
+  "newLinkFormat": "absolute",
   "showUnsupportedFiles": true,
   "useMarkdownLinks": false,
   "attachmentFolderPath": "./",
-  "newFileLocation": "current"
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Unsorted"
 }

@@ -1,7 +1,11 @@
+---
+tags:
+  - Physics/Materials
+---
 # Hookes Law
 [[Hookes law]] is a law that describes how much a material will [[Elastic Deformation|Elastically Deform]] under a given force.
 
-[[../../../TODO|TODO]] add image from ray paper.
+#Todo add image from ray paper.
 
 Formula:
 $F = k \Delta L$

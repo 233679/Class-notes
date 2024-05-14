@@ -1,3 +1,7 @@
+---
+tags:
+  - Physics/Materials
+---
 # Young Modulus
 
 Young's Modulus = [[Tensile Stress]] / Tensile strain = $\frac{T}{A} \div \frac{\Delta L}{L}$ = $\frac{FL}{A \Delta L}$

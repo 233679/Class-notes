@@ -1,3 +1,7 @@
+---
+tags:
+  - Physics/Electricity
+---
 # Super Conductor
 [Super Conductors](Super%20Conductor.md) are materials that have **0** [Resistance](../../Electronics/Ohms%20law/Resistance.md) at or bellow the [Critical Temperature](Critical%20Temperature.md) of the [Super Conductors](Super%20Conductor.md). The [Critical Temperature](Critical%20Temperature.md) of known [Super Conductor](Super%20Conductor.md) is extremely low, (an example temperature is $-270^oC$).
 

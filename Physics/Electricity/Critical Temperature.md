@@ -1,3 +1,8 @@
+---
+tags:
+  - Physics/Electricity
+  - Todo
+---
 # Critical Temperature
 The [Critical Temperature](Critical%20Temperature.md) is the temperature at which certain materials being to exhibit [Super Conductor](Super%20Conductor.md) behaviours.
 

@@ -1,3 +1,8 @@
+---
+tags:
+  - Physics
+  - Physics/Practise-Questions
+---
 # Practice One
 [Link](https://m.exampro.net/?=vujyuui)
 

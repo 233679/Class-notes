@@ -1,3 +1,7 @@
+---
+tags:
+  - Physics/Particles
+---
 # Photon
 A [[Photon]] can be described as a small "packet" of energy.
 

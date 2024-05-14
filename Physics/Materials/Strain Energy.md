@@ -1,3 +1,7 @@
+---
+tags:
+  - Physics/Materials
+---
 # Strain Energy
 [[Strain Energy]] is the work done to deform a material.
 
