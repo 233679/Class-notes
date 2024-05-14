@@ -1,3 +1,7 @@
+---
+tags:
+  - Electronics/Seven-Segment-Display
+---
 # Binary Coded Decimal
 [[Binary Coded Decimal]] is a different way to represent decimal numbers in binary. With each nibble representing one unit in a column of decimal.
 

@@ -6,6 +6,6 @@ Bellow is shown a labelled N channel enhancement MOSFET.
 When working with MOSFETs we can use this formula to calculate values:
 $I_D = g_m(V_{gs} - V_{th})$
 - $I_D$ - Drain [Current](../Ohms%20law/Current.md)
-- $g_m$ - [Transconductance](../Resistance/Transconductance.md).
+- $g_m$ - [Transconductance](Electronics/Transconductance.md).
 - $V_{gs}$ - [Voltage](../Voltage/Voltage.md) in the gate, compared to the source [Voltage](../Voltage/Voltage.md)
 - $V_{th}$ - Threshold [Voltage](../Voltage/Voltage.md)

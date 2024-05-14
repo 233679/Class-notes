@@ -1,2 +1,6 @@
+---
+tags:
+  - Electronics
+  - Todo
+---
 # Integrated Circuit
-[TODO](../TODO.md)

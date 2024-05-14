@@ -1,3 +1,7 @@
+---
+tags:
+  - Electronics
+---
 # Power
 $P = VI$
 $P$ - [[Power]]

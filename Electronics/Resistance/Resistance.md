@@ -1,3 +1,7 @@
+---
+tags:
+  - Electronics/Resistance
+---
 # Resistance
 Resistance is a measurement of the opposition to the flow of [Current](../Ohms%20law/Current.md). A common way to create [Resistance](Resistance.md) is to use a [Resistor](Resistor.md). However, everything in a [Circuit](../Circuits/Circuit.md) has some [Resistance](Resistance.md).
 The relationship between [Voltage](../Voltage/Voltage.md), [Current](../Ohms%20law/Current.md), & [Resistance](../../..//Electronics/Ohms%20law/Resistance.md) is defined by [Ohms Law](../Ohms%20law/Ohms%20Law.md).

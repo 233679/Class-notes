@@ -1,3 +1,7 @@
+---
+tags:
+  - Electronics/Seven-Segment-Display
+---
 # Common Anode
 A [[Common Anode]] is type of [[Seven Segment Display]].
 

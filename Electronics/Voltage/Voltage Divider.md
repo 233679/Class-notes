@@ -1,3 +1,7 @@
+---
+tags:
+  - Electronics/Voltage
+---
 # Voltage Divider
 The [Voltage Divider](Voltage%20Divider.md) equation / [Circuit](../Circuits/Circuit.md) can be used to find the [Voltage Drop](Voltage%20Drop.md) of a component.
 

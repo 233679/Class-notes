@@ -1,3 +1,9 @@
+---
+tags:
+  - Electronics/Timing
+aliases:
+  - Clocks
+---
 # Clock
 
 A clock input is marked with the bellow symbol.

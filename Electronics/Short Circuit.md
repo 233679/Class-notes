@@ -1,2 +1,6 @@
+---
+tags:
+  - Electronics
+  - Todo
+---
 # Short Circuit
-[TODO](../TODO.md)

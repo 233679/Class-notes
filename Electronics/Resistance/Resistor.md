@@ -1,3 +1,7 @@
+---
+tags:
+  - Electronics/Resistance
+---
 # Resistor
 The [Resistor](Resistor.md) is a basic component used to create resistance in a [Circuit](../Circuits/Circuit.md).
 

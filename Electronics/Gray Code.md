@@ -1,3 +1,7 @@
+---
+tags:
+  - Electronics
+---
 # Gray Code
 A [[Gray Code]] is when only one bit in a binary sequence is changed at a time.
 

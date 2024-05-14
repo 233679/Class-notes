@@ -1,5 +1,9 @@
+---
+tags:
+  - Electronics/Sequence-Generator
+---
 # Sequence Generator
-A [[Sequence Generator]] can be created by connecting a [[../Counter|Counter]] to some [[../Logic Gates/Logic Gates|Logic Gates]] to create an output sequence.
+A [[Sequence Generator]] can be created by connecting a [[Electronics/Counters/Counter|Counter]] to some [[../Logic Gates/Logic Gates|Logic Gates]] to create an output sequence.
 
 ### Example:
 
@@ -10,7 +14,7 @@ Take a given sequence:
 - Red, yellow, & green LEDs on
 
 ![[Example-State-Table.png]]
-This has 4 states so it can be represented by a 2 bit [[../Counter|Counter]].
+This has 4 states so it can be represented by a 2 bit [[Electronics/Counters/Counter|Counter]].
 
 Using the [[../Output Representations/State Table|State Table]], the [[../Boolean Algebra/Boolean Representation|Boolean Representation]] of R, Y, & G. can be calculated.
 ![[Boolean-Representation.png]]

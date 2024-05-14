@@ -1,3 +1,7 @@
+---
+tags:
+  - Electronics/Seven-Segment-Display
+---
 # Seven Segment Display
 A [[Seven Segment Display]] is a way to display numbers (and some letters) that are represented by a binary signal.
 

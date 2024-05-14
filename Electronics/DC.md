@@ -1,3 +1,7 @@
+---
+tags:
+  - Electronics
+---
 # Direct Current
 Direct current has a waveform with a constant[^1] [[Ohms%20law/Voltage.md]].
 

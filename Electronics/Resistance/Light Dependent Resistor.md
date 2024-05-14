@@ -1,3 +1,7 @@
+---
+tags:
+  - Electronics/Resistance
+---
 # Light Dependent Resistor
 A [[Light Dependent Resistor]] (LDR) is a type of [[Variable Resistor]], whose voltage depends on the amount of light that is incident to the [[Light Dependent Resistor]].
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Electronics/Seven-Segment-Display
+---
 # Common Cathode
 A [[Common Cathode]] is type of [[Seven Segment Display]].
 

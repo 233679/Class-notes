@@ -1,3 +1,10 @@
+---
+tags:
+  - Electronics/Voltage
+aliases:
+  - Volt
+  - Volts
+---
 # Voltage
 [Voltage](Voltage.md) (also known as potential difference) is a measure of the difference in electrical potential between two points. [Voltage](Voltage.md) is commonly measured between wires & components within a [Circuit](../Circuits/Circuit.md).
 
