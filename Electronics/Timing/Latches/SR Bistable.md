@@ -1,6 +1,8 @@
 ---
 tags:
   - Electronics/Timing
+aliases:
+  - Set-Reset Latch
 ---
 # SR Bistable
 An [[SR Bistable]] latch has two stable states (bi - two). As they are stable states the latch will stay in one of it's stable states until it is forced into it's other stable state.
