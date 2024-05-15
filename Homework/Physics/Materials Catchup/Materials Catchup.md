@@ -1,7 +1,7 @@
 # Materials Catch-up
 
 ## Page 188
-![[188-1.png]]
+![[Homework/Physics/Materials Catchup/188-1.png]]
 
 A:
 $F = k \Delta L$
@@ -12,7 +12,7 @@ B:
 $F = k \Delta L$
 $25 \times 0.50 = 12.5F$
 
-![[188-2.png]]
+![[Homework/Physics/Materials Catchup/188-2.png]]
 
 A:
 $40 \div 2 = 20N$
@@ -26,7 +26,7 @@ $F \div \Delta L = k$
 $20 \div 0.1m = 200Nm^{-1}$
 $200 \times 2 = 400Nm^{-1}$
 
-![[188-3.png]]
+![[Homework/Physics/Materials Catchup/188-3.png]]
 
 A:
 $40N$
@@ -35,7 +35,7 @@ B:
 $350 - 250 = 100$
 $100 \div 2 = 50mm$
 
-![[188-4.png]]
+![[Homework/Physics/Materials Catchup/188-4.png]]
 
 A:
 $F = ma = 0.150 \times 9.8 = 1.47N$
@@ -50,19 +50,19 @@ $F = k \Delta L = 12.3 \times (0.6m - 0.3m) = 3.7N$
 $m = F \div a = 3.7N \div 9.8 = 0.38kg$
 
 ## Page 191
-![[191-1.png]]
+![[Homework/Physics/Materials Catchup/191-1.png]]
 
 $\pi r^2 = area$
 $\pi \times \frac{0.25}{2}^2 = 0.049mm^2$
 tensile stress = $\frac{T}{A} = \frac{50}{4.9 \times 10^{-5}m} = 1 \times 10^6Pa$
 
-![[191-2.png]]
+![[Homework/Physics/Materials Catchup/191-2.png]]
 
 $\pi r^2 = area$
 $\pi \times \frac{0.23}{2}^2 = 0.042mm^2$
 Young's Modulus = $\frac{FL}{A \Delta L}$ = $\frac{40 \times 1.405}{4.2\times 10^{-5} \times 1.05 \times 10^{-2}} = 1.3\times10^{8}Pa$
 
-![[191-3.png]]
+![[Homework/Physics/Materials Catchup/191-3.png]]
 
 A:
 $A = \pi r^2 = \pi \frac{0.35}{2}^2 = 9.6\times10^{-5}m^2$
@@ -72,7 +72,7 @@ B:
 Young's Modulus = $\frac{FL}{A\Delta L}$
 $\Delta L = \frac{FL}{AE_y} = \frac{90\times2.5}{9.6\times10^{-5}\times2.1\times10^{11}} =1.1\times10^{-5}m$
 
-![[191-4.png]]
+![[Homework/Physics/Materials Catchup/191-4.png]]
 
 A:
 i: X is stiffer than Y
@@ -87,7 +87,7 @@ Young's Modulus':
 Steel = $2.1\times10^{11}Pa$
 Copper = $1.3\times10^{11}Pa$
 
-![[193-1.png]]
+![[Homework/Physics/Materials Catchup/193-1.png]]
 
 A:
 Young's modulus = tensile stress / tensile strain = $\frac{F}{A}\div\frac{\Delta L}{L}$
