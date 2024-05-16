@@ -2,6 +2,8 @@
 tags:
   - Physics/Electricity
   - Physics/Units
+aliases:
+  - Coulombs
 ---
 # Coulomb
 - [[Coulomb]] is a unit of charge.

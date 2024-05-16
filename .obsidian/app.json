@@ -7,5 +7,12 @@
   "useMarkdownLinks": false,
   "attachmentFolderPath": "./",
   "newFileLocation": "folder",
-  "newFileFolderPath": "Unsorted"
+  "newFileFolderPath": "Unsorted",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

@@ -10,3 +10,11 @@ aliases:
 ---
 # Potential Difference
 [[Physics/Electricity/Potential Difference|Potential Difference]] is the work done per unit charge. [[Physics/Electricity/Potential Difference|P.D]] is measured in [[Physics/Electricity/Potential Difference|Volts]]. One [[Physics/Electricity/Potential Difference|Volt]] is equal to one [[Physics/Joules|Joule]] per [[Physics/Electricity/Coulomb|Coulomb]]
+
+Formula:
+
+$V = \frac{E}{Q}$
+
+$V$ - [[Physics/Electricity/Potential Difference|Volts]]
+$E$ - Energy
+$Q$ - [[Physics/Electricity/Coulomb|Coulombs]]
