@@ -1,3 +1,7 @@
+---
+tags:
+  - Electronics
+---
 # Transconductance
 Is the ability of a material to conduct [Current](../Ohms%20law/Current.md).
 

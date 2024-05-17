@@ -1,6 +1,8 @@
 ---
 tags:
   - Physics/Particles
+aliases:
+  - Photons
 ---
 # Photon
 A [[Photon]] can be described as a small "packet" of energy.
