@@ -1,6 +1,6 @@
 ---
 tags:
-  - Physics
+  - Physics/Quantum
   - Todo
 ---
 # Quantum
