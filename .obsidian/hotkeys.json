@@ -32,5 +32,15 @@
       ],
       "key": "K"
     }
+  ],
+  "obsidian-excalidraw-plugin:insert-link-to-element": [],
+  "obsidian-excalidraw-plugin:insert-link": [],
+  "obsidian-excalidraw-plugin:export-image": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "."
+    }
   ]
 }
