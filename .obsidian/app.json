@@ -5,7 +5,7 @@
   "newLinkFormat": "absolute",
   "showUnsupportedFiles": true,
   "useMarkdownLinks": false,
-  "attachmentFolderPath": "./",
+  "attachmentFolderPath": "Attachments",
   "newFileLocation": "folder",
   "newFileFolderPath": "Unsorted",
   "pdfExportSettings": {
@@ -14,5 +14,6 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "useTab": false
 }

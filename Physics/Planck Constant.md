@@ -1,6 +1,5 @@
 ---
 tags:
-  - Physics
   - Physics/Units
 ---
 # Planck Constant

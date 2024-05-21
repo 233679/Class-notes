@@ -1,8 +1,7 @@
 ---
 tags:
-  - Physics
   - Todo
-  - "Physics/Waves"
+  - Physics/Waves
   - Physics/Units
 ---
 # Hertz

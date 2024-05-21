@@ -1,6 +1,5 @@
 ---
 tags:
-  - Physics
   - Physics/Photoelectric-Effect
 ---
 # Gold Leaf Experiment

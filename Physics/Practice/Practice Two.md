@@ -1,6 +1,5 @@
 ---
 tags:
-  - Physics
   - Physics/Practise-Questions
 ---
 # Practice Two

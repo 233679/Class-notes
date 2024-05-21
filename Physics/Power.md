@@ -1,6 +1,5 @@
 ---
 tags:
-  - Physics
   - Todo
   - Physics/Units
 ---
