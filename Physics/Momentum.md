@@ -4,8 +4,8 @@ tags:
 ---
 # Momentum
 
-$p = mu$
+$p = mv$
 
 p - momentum
 m - mass
-u - speed
+v - velocity
