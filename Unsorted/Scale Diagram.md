@@ -4,4 +4,6 @@ tags:
 ---
 # Scale Diagram
 A [[Unsorted/Scale Diagram|Scale Diagram]] is a diagram of certain objects & the [[Unsorted/Vector|Vector]] quantities acting upon them.
-![[Attachments/Drawing.excalidraw.svg]]
+
+Example:
+![[Attachments/Scale-Diagram-Example.svg]]

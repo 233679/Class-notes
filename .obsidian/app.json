@@ -5,8 +5,8 @@
   "newLinkFormat": "absolute",
   "showUnsupportedFiles": true,
   "useMarkdownLinks": false,
-  "attachmentFolderPath": "Attachments",
-  "newFileLocation": "folder",
+  "attachmentFolderPath": "./",
+  "newFileLocation": "current",
   "newFileFolderPath": "Unsorted",
   "pdfExportSettings": {
     "includeName": true,
