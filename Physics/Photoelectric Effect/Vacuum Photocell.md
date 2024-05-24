@@ -15,5 +15,11 @@ Or: photoelectrons per second = $\frac{I}{e}$
 
 The photoelectric [[Physics/Electricity/Current|Current]] created by this [[Physics/Electricity/Circuit|Circuit]] is proportional to the [[Physics/Intensity|Intensity]] of the [[Physics/Incident|Incident]] light.
 
-## Stopping Potential
-The [[Physics/Photoelectric Effect/Vacuum Photocell|Vacuum Photocell]] can also be used to measure the [[Physics/Photoelectric Effect/Stopping Potential|Stopping Potential]] of a material. By attaching a variable cell to the [[Physics/Electricity/Circuit|Circuit]], in parallel to the microammeter. The voltage can then be changed, until there is 0 current. This is the [[Physics/Photoelectric Effect/Stopping Potential|Stopping Potential]] of the photocathode for the used electromagnetic radiation.
+The [[Physics/Photoelectric Effect/Vacuum Photocell|Vacuum Photocell]] provides a [[Physics/Electricity/Potential Difference|P.D]] equal to:
+$V_s = \frac{hf-\phi}{e}$
+
+$V_s$ = [[Physics/Photoelectric Effect/Stopping Potential|Stopping Potential]]
+$h$ = [[Physics/Planck Constant|Planck Constant]]
+f = [[Physics/Frequency|Frequency]]
+$\phi$ = [[Physics/Photoelectric Effect/Work Function|Work Function]]
+$e$ - Charge of an [[Physics/Particles/Electron|Electron]]

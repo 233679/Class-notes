@@ -11,3 +11,7 @@ $\lambda = \frac{v}{f}$
 $\lambda$ = [[Physics/Waves/Wavelength|Wavelength]]
 $v$ = velocity
 $f$ = [[Physics/Frequency|Frequency]]
+
+$\lambda = \frac{h}{p}$
+$\lambda$ = [[Physics/Waves/Wavelength|Wavelength]]
+$p$ = [[Physics/Momentum|Momentum]]
