@@ -6,7 +6,7 @@
   "showUnsupportedFiles": true,
   "useMarkdownLinks": false,
   "attachmentFolderPath": "./",
-  "newFileLocation": "current",
+  "newFileLocation": "folder",
   "newFileFolderPath": "Unsorted",
   "pdfExportSettings": {
     "includeName": true,

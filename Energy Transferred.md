@@ -6,4 +6,4 @@ tags:
 [[Energy Transferred]] is measured in [[Physics/Joules|Joules]].
 
 There are multiple formulas for calculating [[Energy Transferred]]
-See [[Specific Heat Capacity]].
+See [[Unsorted/Specific Heat Capacity]].
