@@ -25,14 +25,14 @@ The above two assumptions allow $F = \frac{m\Delta v}{\Delta t}$ to be used.
 ### Derivation (pt1)
 Derivation of: $pV = \frac{1}{3}Nm(c_{rms})^2$
 
-p = [[Unsorted/Pascals|Pascals]]
+p = [[Unsorted/Pressure|Pressure]]
 V = Volume (m$^3$)
 N = number of molecules
 m = Mass of an individual particle
 $C_{rms}$ = root mean square speed.
 (rms = root mean square)
 Aka:
-(v & C are use interchangeably)
-$\overline{E_k} = \overline{\frac{1}{2}mv^2}$
-Since m & 1/2 are constant:
-$\overline{E_k} = \frac{1}{2}m\overline{v^2}$
+You have to square all the values,
+then you have to get the mean of the squared values,
+then you take the root of the mean,
+this gives you C
