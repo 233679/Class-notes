@@ -9,7 +9,7 @@ The **specific** in [[Unsorted/Specific Heat Capacity|Specific Heat Capacity]] m
 The formula for [[Unsorted/Specific Heat Capacity|Specific Heat Capacity]] is:
 $Q = mc\Delta \theta$
 
-$Q$ = [[Energy Transferred]] (in [[Physics/Joules|Joule]])
+$Q$ = [[Unsorted/Energy Transferred]] (in [[Physics/Joules|Joule]])
 $m$ = Mass
 $c$ = [[Unsorted/Specific Heat Capacity|Specific Heat Capacity]]
 $\Delta\theta$ = Change in temperature
