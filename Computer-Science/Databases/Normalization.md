@@ -1,3 +1,4 @@
+# Normalization
 Normalization is a design process for creating reasonable databases.
 
 ### First Normal Form:
