@@ -7,15 +7,15 @@ Expressed as a graph:
 The full formula for "$a \propto - x$" is "$a = -\omega^2 x$". This can be found on the data sheet.
 
 ---
-### Displacement per unit time
+### Displacement per Unit time
 When the displacement from the equilibrium is mapped against time, a sinusoidal (looks like a sine wave) graph is produced.
 ![[Physics/Further Mechanics/Simple Harmonic Motion/Simple Harmonic Motion - Displacement against time.png]]
-This graph follows the formula "$x = A cos(\omega t)$" (on data sheet) where "$x$" is displacement & "$A$" is amplitude. "$\omega$" is a measurement of how much of an oscillation is completed per unit time. 
+This graph follows the formula "$x = A cos(\omega t)$" (on data sheet) where "$x$" is displacement & "$A$" is amplitude. "$\omega$" is a measurement of how much of an oscillation is completed per unit time.
 
 If the mass that produces this graph in increased, the time period of the graph also increases.
 
 ---
-### Velocity per unit time
+### Velocity per Unit time
 When the velocity is mapped against time, a sinusoidal (again) graph is produced.![[Physics/Further Mechanics/Simple Harmonic Motion/Simple Harmonic Motion - Velocity per unit time.png]]
 This graph follows the formula "$v = -\omega A sin(\omega t)$", with the variables being the same to the displacement per unit time graph.
 The maximum velocity can be found by "$v_{max} = \omega A$".
