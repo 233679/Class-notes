@@ -423,48 +423,85 @@
       <Col>19</Col>
       <Value>Wait 1</Value>
     </FlowsheetItem>
-    <FlowsheetItem>
-      <Row>6</Row>
-      <Col>0</Col>
-      <Value>9</Value>
-    </FlowsheetItem>
-    <FlowsheetItem>
-      <Row>6</Row>
-      <Col>1</Col>
-      <Value>999</Value>
-    </FlowsheetItem>
-    <FlowsheetItem>
-      <Row>6</Row>
-      <Col>2</Col>
-      <Value>7</Value>
-    </FlowsheetItem>
-    <FlowsheetItem>
-      <Row>6</Row>
-      <Col>3</Col>
-      <Value>8</Value>
-    </FlowsheetItem>
-    <FlowsheetItem>
-      <Row>6</Row>
-      <Col>5</Col>
-      <Value>Stop</Value>
-    </FlowsheetItem>
-    <FlowsheetItem>
-      <Row>6</Row>
-      <Col>16</Col>
-      <Value>	stop</Value>
-    </FlowsheetItem>
-    <FlowsheetItem>
-      <Row>6</Row>
-      <Col>19</Col>
-      <Value>Stop</Value>
-    </FlowsheetItem>
   </FlowsheetData>
   <FlowsheetGridData>
+    <FlowsheetGridItem>
+      <X>5</X>
+      <Y>8</Y>
+      <Z>1</Z>
+      <Value>2</Value>
+    </FlowsheetGridItem>
+    <FlowsheetGridItem>
+      <X>6</X>
+      <Y>3</Y>
+      <Z>1</Z>
+      <Value>4</Value>
+    </FlowsheetGridItem>
+    <FlowsheetGridItem>
+      <X>6</X>
+      <Y>3</Y>
+      <Z>2</Z>
+      <Value>2</Value>
+    </FlowsheetGridItem>
+    <FlowsheetGridItem>
+      <X>6</X>
+      <Y>4</Y>
+      <Z>1</Z>
+      <Value>4</Value>
+    </FlowsheetGridItem>
+    <FlowsheetGridItem>
+      <X>6</X>
+      <Y>4</Y>
+      <Z>2</Z>
+      <Value>1</Value>
+    </FlowsheetGridItem>
     <FlowsheetGridItem>
       <X>6</X>
       <Y>5</Y>
       <Z>1</Z>
+      <Value>6</Value>
+    </FlowsheetGridItem>
+    <FlowsheetGridItem>
+      <X>6</X>
+      <Y>5</Y>
+      <Z>2</Z>
+      <Value>1</Value>
+    </FlowsheetGridItem>
+    <FlowsheetGridItem>
+      <X>6</X>
+      <Y>6</Y>
+      <Z>1</Z>
+      <Value>4</Value>
+    </FlowsheetGridItem>
+    <FlowsheetGridItem>
+      <X>6</X>
+      <Y>6</Y>
+      <Z>2</Z>
+      <Value>1</Value>
+    </FlowsheetGridItem>
+    <FlowsheetGridItem>
+      <X>6</X>
+      <Y>7</Y>
+      <Z>1</Z>
+      <Value>4</Value>
+    </FlowsheetGridItem>
+    <FlowsheetGridItem>
+      <X>6</X>
+      <Y>7</Y>
+      <Z>2</Z>
+      <Value>1</Value>
+    </FlowsheetGridItem>
+    <FlowsheetGridItem>
+      <X>6</X>
+      <Y>8</Y>
+      <Z>1</Z>
       <Value>2</Value>
+    </FlowsheetGridItem>
+    <FlowsheetGridItem>
+      <X>6</X>
+      <Y>8</Y>
+      <Z>2</Z>
+      <Value>1</Value>
     </FlowsheetGridItem>
     <FlowsheetGridItem>
       <X>7</X>
@@ -488,7 +525,7 @@
       <X>7</X>
       <Y>3</Y>
       <Z>1</Z>
-      <Value>1</Value>
+      <Value>9</Value>
     </FlowsheetGridItem>
     <FlowsheetGridItem>
       <X>7</X>
@@ -577,14 +614,14 @@
     <FlowsheetGridItem>
       <X>7</X>
       <Y>8</Y>
-      <Z>0</Z>
-      <Value>9</Value>
+      <Z>1</Z>
+      <Value>1</Value>
     </FlowsheetGridItem>
     <FlowsheetGridItem>
       <X>7</X>
       <Y>8</Y>
-      <Z>1</Z>
-      <Value>1</Value>
+      <Z>2</Z>
+      <Value>4</Value>
     </FlowsheetGridItem>
     <FlowsheetGridItem>
       <X>8</X>
