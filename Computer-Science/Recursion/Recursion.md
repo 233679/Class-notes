@@ -1,4 +1,5 @@
-A common example of a recursive algorithm is the mathematical factorial operation (e.g 5!). This is because the formula for it can be defined in terms of itself: $n = n\times(n - 1)!$ 
+# Recursion
+A common example of a recursive algorithm is the mathematical factorial operation (e.g 5!). This is because the formula for it can be defined in terms of itself: $n = n\times(n - 1)!$
 
 A recursive method must call itself at some point within itself. E.g:
 ```rust
