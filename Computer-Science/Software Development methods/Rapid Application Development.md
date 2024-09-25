@@ -1,0 +1,2 @@
+# Rapid Application Development
+It's similar to agile. However, workshops & focus groups are used to gather requirements rather than formal documents. In addition, a strict time limit is enforced, this pushes projects forward quickly.

@@ -18,7 +18,6 @@ in that order exact order, without going back to previous stages. This can be pr
 - No software is produced until late into the cycle.
 - Too late to make changes once the cycle has finished.
 
-
 ### Use case
 - Requirements are very clear & fixed.
 - No ambiguous requirements.
