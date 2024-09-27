@@ -22,7 +22,7 @@ Energy can also be mapped against time.
 ![[Physics/Further Mechanics/Simple Harmonic Motion/Graphs - e over t.png]]
 
 ---
-### Unit over displacement
+### Unit over Displacement
 
 ##### Velocity
 ![[Physics/Further Mechanics/Simple Harmonic Motion/Graphs - v over x.png]]
