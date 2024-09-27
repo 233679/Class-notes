@@ -1,6 +1,6 @@
 # Waterfall Lifecycle
 The waterfall method is where you:
-- Analysis
+- Analyse
 - Design
 - Implement
 - Evaluate
