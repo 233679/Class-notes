@@ -1,3 +1,7 @@
+---
+tags:
+  - Physics/Further_Mechanics/Simple_Harmonic_Motion
+---
 # Graphs
 
 ---

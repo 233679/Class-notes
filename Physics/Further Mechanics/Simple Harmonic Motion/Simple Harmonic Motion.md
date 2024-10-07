@@ -1,3 +1,7 @@
+---
+tags:
+  - Physics/Further_Mechanics/Simple_Harmonic_Motion
+---
 # Simple Harmonic Motion
 An object can be described as having [[Physics/Further Mechanics/Simple Harmonic Motion/Simple Harmonic Motion|Simple Harmonic Motion]] if it follows the formula "$a \propto -x$" where "$a$" is acceleration & "$x$" is the displacement from the equilibrium. Expressed in words, the more an object is displaced from the equilibrium, the faster it accelerates towards the equilibrium. This relationship is ***directly proportional***.
 

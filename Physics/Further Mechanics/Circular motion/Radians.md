@@ -2,6 +2,8 @@
 aliases:
   - rad
   - Rad
+tags:
+  - Physics/Further_Mechanics/Circular_Motion
 ---
 # Radians
 [[Physics/Further Mechanics/Circular motion/Radians|Radians]] are the angle subtended by an arc who's length is that of the circles radius. Radians (rad for short) are a measurement of angles.

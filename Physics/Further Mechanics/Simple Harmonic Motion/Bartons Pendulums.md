@@ -1,3 +1,7 @@
+---
+tags:
+  - Physics/Further_Mechanics/Simple_Harmonic_Motion
+---
 # Bartons Pendulums
 Barton's pendulums is an experiment that demonstrates resonance.
 
@@ -10,7 +14,7 @@ However, pendulum C, will oscillation with a much larger amplitude as the forced
 ##### Damped
 If the light pendulums are damped, then a pendulum with a shorter string can resonate with the forced oscillation, rather than the pendulum with the same length.
 
-### Phase difference
+### Phase Difference
 Systems do not necessarily oscillate in phase with the driving force.
 ![[Physics/Further Mechanics/Simple Harmonic Motion/Bartons Pendulums - phase difference.png]]
 (The line in the middle is the natural frequency)

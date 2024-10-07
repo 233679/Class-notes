@@ -1,3 +1,7 @@
+---
+tags:
+  - Physics/Further_Mechanics/Simple_Harmonic_Motion
+---
 # Types Of Oscillation
 ### Free Oscillation
 Free oscillations are how simple harmonic motion occurs in theory. Where the oscillations continue forever, as no energy is dissipated.

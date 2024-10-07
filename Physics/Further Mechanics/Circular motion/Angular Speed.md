@@ -1,3 +1,7 @@
+---
+tags:
+  - Physics/Further_Mechanics/Circular_Motion
+---
 # Angular Speed
 [[Physics/Further Mechanics/Circular motion/Angular Speed|Angular Speed]] is the speed experienced by an object traveling along a circular path & is measured in [[Physics/Further Mechanics/Circular motion/Radians|Radians]] per second (rad$s^{-1}$). Angular speed is given by the formula:
 $\omega = \frac{v}{r}$
