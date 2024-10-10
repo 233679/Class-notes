@@ -29,11 +29,27 @@ $r$/m = The distance between the centre of mass of object 1 & object 2.
 ### Gravitational Field Strength
 Gravitational Field Strength is "the gravitational force per kg on a [[Physics/Fields/Test Mass|Test Mass]] at a point in a field".
 
-Since only one gravitational field is present, the formula can be simplified to "$g = \frac{GM}{r^2}$" (on data sheet) where:
+As the test mass has a negligible gravitation field, the formula can be simplified from "$g = \frac{GMm}{r^2}$" ("$m$" being the test mass) to "$g = \frac{GM}{r^2}$" (on data sheet) where:
 $g$ = Force per unit on the test mass
 $G$/$Nm^2{kg}^{-2}$ = The gravitational **constant** (in the data sheet)
 $M$/kg = The mass of the object with a gravitational field
 $r$/m = The distance between the centre of mass of $M$ & the test mass
 
+**This equation is only true if "$r$" is >= than the radius of "$M$".**
+
 This diagram shows the scenario:
 ![[Physics/Fields/Gravitational Fields - Simplified Formula Diagram.png]]
+
+##### When Working with Planets
+Rearranging the formula "$g_s = \frac{GM}{R^2}$" (with "$R$" as the radius of the planet)
+$=> GM = g_sR^2$
+$=> g = \frac{g_sR^2}{r^2}$
+Where:
+$g$ = gravitational field strength
+$g_s$ = gravitational field strength **at the surface of the planet**
+$R$ = radius of the planet
+$r$ = the distance from the centre of the planet
+
+This formula can be used to plot of how "$g$" changes with distances from the centre of a planet.
+![[Physics/Fields/Gravitational Fields - Field Strength over Distance From Centre.png]]
+Two notable points is that "$g$" is 0 at the centre of the planet, as the mass of the planet is equal in all direction so the resultant force totals to 0. And is the highest at the surface of the planet.

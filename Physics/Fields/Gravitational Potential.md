@@ -1,3 +1,7 @@
+---
+tags:
+  - Physics/Fields
+---
 # Gravitational Potential
 
 ### Gravitational Potential Energy
@@ -25,3 +29,5 @@ Furthermore, [[Physics/Fields/Gravitational Fields#Gravitational Field Strength|
 $g$ = Gravitational Field Strength
 $V$ = the change of potential
 $r$ = the distance
+
+It can be said that the relationship between "$V$" is inversely proportional to the distance "$r$" from the centre of the planet.
