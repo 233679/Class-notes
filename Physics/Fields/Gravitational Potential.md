@@ -13,11 +13,15 @@ $g$/ms$^{-2}$ = [[Physics/Fields/Gravitational Fields#Gravitational Field Streng
 $h$/m = height
 
 ### Gravitational Potential
-Gravitational potential is the work done per unit mass to move a [[Physics/Fields/Test Mass|Test Mass]] from infinity to a point. This is because the work done to move an object to that point is equal to the GPE per unit mass of a [[Physics/Fields/Test Mass|Test Mass]] at the point in a [[Physics/Fields/Gravitational Fields|Gravitational Field]].
+Gravitational potential is the work done per unit mass that is **required** to move a [[Physics/Fields/Test Mass|Test Mass]] from infinity to a point. This is because the work done to move an object to that point is equal to the GPE per unit mass of a [[Physics/Fields/Test Mass|Test Mass]] at the point in a [[Physics/Fields/Gravitational Fields|Gravitational Field]].
 This can be written as the formula "$V = \frac{W}{m}$", where:
 $V$/J${kg}^{-1}$ = Gravitational Potential
 $W$ = Work done
 $m$ = The mass of the object
+All gravitational potentials are negative ("$V < 0$"), as gravity is **only** attractive. Therefore energy is released as the [[Physics/Fields/Test Mass|Test Mass]] gets closer to the mass.
+
+### Gravitational Potential Difference
+[[#Gravitational Potential Difference]] is the energy per unit mass required to move a small test mass from one point to another point.
 
 ### Potential Gradients
 The potential gradient is the change of potential per metre at a point in a [[Physics/Fields/Gravitational Fields|Gravitational Field]]. As an object moves away from the centre of a [[Physics/Fields/Gravitational Fields|Gravitational Field]] the ratio between the distance moved & the change in GPE decreases.
@@ -25,7 +29,7 @@ The potential gradient can be derived from "$\frac{\Delta V}{\Delta r}$", where
 $V$ = the change of potential
 $r$ = the distance
 
-Furthermore, [[Physics/Fields/Gravitational Fields#Gravitational Field Strength|Gravitational Field Strength]] can be derived from almost the same equation "$g = -\frac{\Delta V}{\Delta r}$", where
+Furthermore, [[Physics/Fields/Gravitational Fields#Gravitational Field Strength|Gravitational Field Strength]] can be derived from almost the same equation (**only when the force on the object is constant**) "$g = -\frac{\Delta V}{\Delta r}$", where
 $g$ = Gravitational Field Strength
 $V$ = the change of potential
 $r$ = the distance
