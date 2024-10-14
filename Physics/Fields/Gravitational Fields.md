@@ -5,7 +5,7 @@ tags:
   - Physics/Fields
 ---
 # Gravitational Fields
-A Gravitational Field is the area around an object with mass, in which other masses will experience a force towards the objects centre of mass. This is because gravitational fields are [[Unsorted/Vector|Vector]] fields, whose direction is towards the objects centre of mass.
+A Gravitational Field is the area around an object with mass, in which other masses will experience a force towards the objects centre of mass. This is because gravitational fields are [[Physics/Mechanics/Vector|Vector]] fields, whose direction is towards the objects centre of mass.
 
 ### Field Diagrams
 The green lines in the diagrams are field lines. They determine both the strength & direction of a field, with the direction of the lines determining the direction of the field & the number of lines in an area determining the strength of the field.
