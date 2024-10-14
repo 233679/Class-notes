@@ -1,0 +1,57 @@
+%%{init: {'theme':'neutral'}}%%
+flowchart TD
+  Start(["Start (1)"])
+
+  Overide{"`Override switch
+  triggered (2)`"}
+  Sensor_One{"`Sensor one triggered
+  for more than 500ms
+  (3)`"}
+  Sensor_Two{"`Sensor two triggered 
+  for more than 500ms
+  (4)`"}
+  Sensor_Three{"`Sensor three triggered 
+  for more than 500ms
+  (5)`"}
+
+  Start-->Overide
+  Overide -- N --> Sensor_One
+  Sensor_One -- N --> Sensor_Two
+  Sensor_Two -- N --> Sensor_Three
+  Sensor_Three -- N --> Start
+
+  %% overide switch triggered
+
+  Stop_Alarm[/"Stop Alarm (6)"/]
+  Stop_Sprinklers[/"Stop Sprinklers (7)"/]
+  Stop_LEDS[/"Turn off indicator LEDs (8)"/]
+
+  Overide--Y-->Stop_Alarm
+  Stop_Alarm-->Stop_Sprinklers-->Stop_LEDS-->Start
+
+  %% sensor one triggered
+
+  One_Spinkler[/"Trigger sensor one sprinkler (9)"/]
+  One_Alarm[/"Trigger alarm (10)"/]
+  One_Indicator[/"Trigger sensor one indicator (13)"/]
+
+  Sensor_One--Y-->One_Spinkler
+  One_Spinkler-->One_Alarm-->One_Indicator-->Sensor_Two
+
+  %% sensor two triggered
+
+  Two_Sprinkler[/"Trigger sensor two sprinkler (11)"/]
+  Two_Alarm[/"Trigger alarm (10)"/]
+  Two_Indicator[/"Trigger sensor two indicator (14)"/]
+
+  Sensor_Two--Y-->Two_Sprinkler
+  Two_Sprinkler-->Two_Alarm-->Two_Indicator-->Sensor_Three
+
+  %% sensor three triggered
+
+  Three_Sprinkler[/"Trigger sensor three sprinkler (12)"/]
+  Three_Alarm[/"Trigger Alarm (10)"/]
+  Three_Indicator[/"Trigger sensor three indicator (15)"/]
+
+  Sensor_Three--Y-->Three_Sprinkler
+  Three_Sprinkler-->Three_Alarm-->Three_Indicator-->Start
