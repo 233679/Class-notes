@@ -38,10 +38,10 @@ However, if the two [[Physics/Mechanics/Vector|Vectors]] are at 0 or 180 from ea
 ![[Attachments/Vectors-Summed-Up.png]]
 $10 + - 5 = 5$
 
-### Un resolving vectors
+### Un Resolving Vectors
 It is also possible to have a "unresolved" vector (one that is not at 0, 90, 180, or 270). This can be resolved back into cardinal components by using trigonometry.
 
-#### Worked example
+#### Worked Example
 ![[Physics/Mechanics/Vector - Unresolving-Force-Diagram.png]]
 To find the components of force F it will be draw as a right angle triangle like so.
 
