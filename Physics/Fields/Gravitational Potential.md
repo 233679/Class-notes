@@ -7,7 +7,7 @@ tags:
 ### Gravitational Potential Energy
 Gravitational potential energy (GPE) is the energy of an object due to its position within a [[Physics/Fields/Gravitational Fields|Gravitational Field]]. If an object was infinitely far away (so that its gravitational field is negligible), its GPE would be zero. The closer to the centre of mass an object is, the lower the GPE is, with it being negative on the surface of the Earth (for example).
 The formula for GPE is "$U = mgh$", where
-$U$ = GPE
+$U$ = Gravitational Potential Energy
 $m$/kg = mass of the object
 $g$/ms$^{-2}$ = [[Physics/Fields/Gravitational Fields#Gravitational Field Strength|Gravitational Field Strength]]
 $h$/m = height
