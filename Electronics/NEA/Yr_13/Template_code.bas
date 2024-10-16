@@ -9,7 +9,7 @@
 ;******************************************************************
 ; PROGRAM DESCRIPTION:
 ;
-; #### Checks if a fire has started & triggeres alarms & sprinklers in response #######
+; #### Checks if a fire has started & triggers alarms & sprinklers in response #######
 ;
 ;******************************************************************
 
@@ -38,27 +38,6 @@
  
 ;*********************************************************************
 ;                       MAIN PROGRAM
-;*********************************************************************
-
-;****** INITIALISATION ******
-	clrf    PORTA    
-   	clrf    PORTB      		; make sure PORTB output latches are low
-	bsf     STATUS,RP0		; select register page 1
-;Modify the next line to correspond with your input/output requirements	
-	movlw	b'11111111'	; set port A data direction (0 = output bit, 1 = input bit)
-	movwf	TRISA		; 
-;Modify the next line to correspond with your input output reqirements	
-	movlw	b'00000000'	; set port B data direction (0 = output bit, 1 = input bit)  
-	movwf	TRISB		; 
-	bcf     STATUS,RP0		; select register page 0
-
-;****** MAIN PROGRAM ******
-;*************uncomment by removing semicolons from next two lines to use interrupt routine****************
-
-  	bsf    INTCON,INT0IE  	; set external interrupt enable
-    	bsf    INTCON,GIE     	; enable all interrupts 
-
-main: 
 ;*********************************************************************
 
 ; ---------- Initialisation ----------
