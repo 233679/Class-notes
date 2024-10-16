@@ -77,23 +77,23 @@ vars:
 ; ---------- Main Cycle ----------	
 main:
 	; Test for override.
-	btfsc PORTA, 0
+	btfsc PORTA, 1
 	goto override_switch
 	
 	; Run spinklers
-	btfsc PORTA, 1
+	btfsc PORTA, 0
 	call spk_one_guard
-	btfsc PORTA, 2
+	btfsc PORTA, 7
 	call spk_two_guard
-	btfsc PORTA, 3
+	btfsc PORTA, 6
 	call spk_three_guard
 	
 	; Reset spk counts (if appropriate)
-	btfss PORTA, 1
+	btfss PORTA, 0
 	call zero_spk_one_count
-	btfss PORTA, 2
+	btfss PORTA, 7
 	call zero_spk_two_count
-	btfss PORTA, 3
+	btfss PORTA, 6
 	call zero_spk_three_count
 	
 	; Wait for awhile
