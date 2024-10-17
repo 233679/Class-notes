@@ -1,1 +1,0 @@
-Edit diagram to have 100k resistors from pins 2, 3, 4 from PICAXE to 0V
