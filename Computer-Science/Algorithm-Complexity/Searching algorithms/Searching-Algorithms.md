@@ -1,3 +1,7 @@
+---
+tags:
+  - Computer_Science/Algorithm-Complexity/Searching-algorithms
+---
 # Searching Algorithms
 Searching algorithms are a set of algorithms that are used to find an element within an array.
 

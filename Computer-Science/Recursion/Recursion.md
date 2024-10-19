@@ -1,3 +1,7 @@
+---
+tags:
+  - Computer_Science/Recursion
+---
 # Recursion
 A common example of a recursive algorithm is the mathematical factorial operation (e.g 5!). This is because the formula for it can be defined in terms of itself: $n = n\times(n - 1)!$
 

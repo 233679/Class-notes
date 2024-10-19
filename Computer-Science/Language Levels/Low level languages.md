@@ -1,3 +1,7 @@
+---
+tags:
+  - Computer_Science/Languague-Levels
+---
 # Low Level Languages
 ### Advantages
 - They have similar if not the same efficiency as machine code

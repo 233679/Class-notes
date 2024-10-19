@@ -1,3 +1,7 @@
+---
+tags:
+  - Computer_Science/Algorithm-Complexity/Examples
+---
 # Bubble Code Example
 
 ```java

@@ -1,3 +1,7 @@
+---
+tags:
+  - Computer_Science/Algorithm-Complexity/Searching-algorithms
+---
 # Linear Search
 A linear search is an algorithm that iterates over **every** element in an array. Once it has iterated over every element it can return true if the array contains the desired element, otherwise false.
 

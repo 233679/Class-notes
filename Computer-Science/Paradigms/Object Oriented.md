@@ -1,3 +1,7 @@
+---
+tags:
+  - Computer_Science/Paradigms
+---
 # Object Oriented
 There are four core pillars of Object Oriented programming are:
 - Abstraction

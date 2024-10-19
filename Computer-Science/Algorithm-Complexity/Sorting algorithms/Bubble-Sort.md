@@ -1,3 +1,7 @@
+---
+tags:
+  - Computer_Science/Algorithm-Complexity/Sorting-Algorithms
+---
 # Bubble Sort
 This algorithm iterates over an array, comparing adjacent elements. If the elements are out of order they are swapped. This produces an effect where the highest element is "bubbled" to the end of the array on each iteration.
 

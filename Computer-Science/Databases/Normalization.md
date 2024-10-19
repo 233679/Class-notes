@@ -1,3 +1,7 @@
+---
+tags:
+  - Computer_Science/Database
+---
 # Normalization
 Normalization is a design process for creating reasonable databases.
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Computer_Science/Algorithm-Complexity
+---
 # Big-O-Exam-Question
 A 1-dimensional array stores a set of numbered cards from 0 to 7. An example of this data is shown in Fig in 4.1:
 

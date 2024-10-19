@@ -27,6 +27,6 @@ Different implementations of open addressing can use different **skip factors**.
 
 When deleting a value some open addressing implementations leave a "dummy" item behind. This allows for an optimisation where if an empty index is found the linear search for the delete value can exist early. This is because if there is an empty index then there was never anymore values inserted that matched the hash.
 ### Closed Addressing
-Closed Addressing, also know as chaining, is another method of dealing with [[#Hash collisions]] is to use a [[Computer-Science/Data Structures/Linked List|Linked List]] at each index. 
+Closed Addressing, also know as chaining, is another method of dealing with [[#Hash collisions]] is to use a [[Computer-Science/Data Structures/Linked List|Linked List]] at each index.
 When an value in inserted into the [[#Hash Table]] an element is appended to the [[Computer-Science/Data Structures/Linked List|Linked List]] at the given index.
 When a value if being found in the [[#Hash Table]], it involves iterating though the [[Computer-Science/Data Structures/Linked List|Linked List]] at the index of the value until the value is found.

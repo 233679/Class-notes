@@ -1,3 +1,7 @@
+---
+tags:
+  - Computer_Science/Translation
+---
 # Compiler
 A [[Compiler]] [[../Programs/Compile|Compiles]] programs.
 ![[../Programs/Compile]]

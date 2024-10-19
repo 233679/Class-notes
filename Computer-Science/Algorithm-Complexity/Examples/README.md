@@ -1,3 +1,7 @@
+---
+tags:
+  - Computer_Science/Algorithm-Complexity/Examples
+---
 # README
 These directory contain examples of the insertion sort & the bubble sort respectively.
 

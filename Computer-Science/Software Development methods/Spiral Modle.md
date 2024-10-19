@@ -1,3 +1,7 @@
+---
+tags:
+  - Computer_Science/Development-Methods
+---
 # Spiral Model
 
 The Spiral Model (A subset of agile) is made up of four basic steps:

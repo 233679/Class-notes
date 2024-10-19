@@ -1,3 +1,7 @@
+---
+tags:
+  - Computer_Science/Development-Methods
+---
 # Rapid Application Development
 RAD (Rapid Application Development) is focused on prototyping & rapid feedback, this allows for software to be produced quickly under strict deadlines.
 It defines a core cycle of:

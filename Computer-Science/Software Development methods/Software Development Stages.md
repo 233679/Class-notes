@@ -1,3 +1,7 @@
+---
+tags:
+  - Computer_Science/Development-Methods
+---
 # Software Development Stages
 - Analysis
 - Design

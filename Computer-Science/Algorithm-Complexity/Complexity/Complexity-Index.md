@@ -1,3 +1,7 @@
+---
+tags:
+  - Computer_Science/Algorithm-Complexity/Complexity
+---
 # Complexity Index
 There are many types of complexity that show up, however they can be grouped into a few distinct categories.
 - [Polynomial](Polynomial-Complexity.md)

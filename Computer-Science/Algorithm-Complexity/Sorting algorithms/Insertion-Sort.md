@@ -1,3 +1,7 @@
+---
+tags:
+  - Computer_Science/Algorithm-Complexity/Sorting-Algorithms
+---
 # Insertion Sort
 Insertion sort is a bit similar to [bubble sort](Bubble-Sort.md). In fact it has the same [best, worst & average](../Big-O.md#best-worst-average-case) complexity as [bubble sort](Bubble-Sort.md), even though the uses a different algorithm!
 - Best case: O($n$)

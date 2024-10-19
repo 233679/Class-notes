@@ -1,3 +1,7 @@
+---
+tags:
+  - Computer_Science/Laws
+---
 # GDPR
 The general data protection regulation (GDPR) is a law passed by the EU focusing on the rights of people to have privacy. It's the strongest law of it's kind that has ever been passed & enforced.
 The law governs how companies can store data on residents of the EU & what rights the European citizens have in regards to their data.

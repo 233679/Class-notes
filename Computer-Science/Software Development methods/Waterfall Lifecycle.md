@@ -1,3 +1,7 @@
+---
+tags:
+  - Computer_Science/Development-Methods
+---
 # Waterfall Lifecycle
 The waterfall method is where you:
 - Analyse

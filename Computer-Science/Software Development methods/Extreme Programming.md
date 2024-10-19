@@ -1,3 +1,7 @@
+---
+tags:
+  - Computer_Science/Development-Methods
+---
 # Extreme Programming
 Extreme Programming (XP), which is a type of agile software development, places emphasis on collaboration & frequent releases. This is achieved by intensive communication between all participants. With the notable addition of pair programming (programming in pairs).
 Extreme Programming has five core values:

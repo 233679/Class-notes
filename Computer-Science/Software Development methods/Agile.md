@@ -1,3 +1,7 @@
+---
+tags:
+  - Computer_Science/Development-Methods
+---
 # Agile
 An Agile mythology allows for continuous iterative development, with each iteration being tested & building upon the last. Whilst getting constant user feedback.
 This is achieved by following the core quick loop of "Plan -> Design -> Implement -> Evaluate -> Maintain".

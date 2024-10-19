@@ -1,3 +1,7 @@
+---
+tags:
+  - Computer_Science/Algorithm-Complexity
+---
 # Big O Notation
 Big O notation is a representation of how well an algorithm scales on more elements are given to the algorithm.
 

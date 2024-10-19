@@ -1,3 +1,7 @@
+---
+tags:
+  - Computer_Science/Laws
+---
 # Computer Misuse
 The computer misuse act governs the laws around using computers. There are two sub-sections of computer misuse that are covered. Cyber-enabled crime (this is where using a computer isn't essential but helps the process of committing a crime), & Cyber-dependent crime (where a computer is an essential part of the crimal act, and the act couldn't be committed without one).
 

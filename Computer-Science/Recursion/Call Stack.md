@@ -1,3 +1,7 @@
+---
+tags:
+  - Computer_Science/Recursion
+---
 # Call Stack
 The call stack is a dynamic data structure stored in RAM.
 A call stack is maintained for each task/thread.

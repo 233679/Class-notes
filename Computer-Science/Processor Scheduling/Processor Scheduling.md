@@ -1,8 +1,12 @@
+---
+tags:
+  - Computer_Science/Proccessor-Scheduling
+---
 # Processor Scheduling
 A single [CPU Core](../Architecture/CPU%20Core.md) can only process instruction for one [Program](../Programs/Program.md) at a time, which means the [Operating System](../Operating%20Systems/Operating%20System.md) has to schedule which [Applications](../Programs/Program.md) can run at a certain time. This gives an illusion of [Multi-Tasking](../Multi-Tasking.md).
 
 ## Goals
-- Provided acceptable response times with mutiple [Programs](../Programs/Program.md)
+- Provided acceptable response times with multiple [Programs](../Programs/Program.md)
 - Maximize [CPU](../Architecture/CPU.md) processing time
 
 ## Scheduling Algorithms
