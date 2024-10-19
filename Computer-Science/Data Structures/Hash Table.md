@@ -25,6 +25,7 @@ However, the main drawback of this is that it involves performing a linear searc
 
 Different implementations of open addressing can use different **skip factors**. A skip factor is the amount the index increments/changes by when looking for an empty index to insert a value into. A potential issue with having a skip factor larger than lead to looping over empty the same set of index's indefinitely. However, using a prime number for the underlying array index can avoid the problem of the skip factor getting stuck in a loop forever. As this forces all loops to iterate should the entre array (other than skip factors larger than the array size).
 
+When deleting a value some open addressing implementations leave a "dummy" item behind. This allows for an optimisation where if an empty index is found the linear search for the delete value can exist early. This is because if there is an empty index then there was never anymore values inserted that matched the hash.
 ### Closed Addressing
 Closed Addressing, also know as chaining, is another method of dealing with [[#Hash collisions]] is to use a [[Computer-Science/Data Structures/Linked List|Linked List]] at each index. 
 When an value in inserted into the [[#Hash Table]] an element is appended to the [[Computer-Science/Data Structures/Linked List|Linked List]] at the given index.
