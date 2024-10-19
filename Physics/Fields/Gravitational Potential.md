@@ -9,7 +9,7 @@ Gravitational potential energy (GPE) is the energy of an object due to its posit
 The formula for GPE is "$U = mgh$", where
 $U$ = Gravitational Potential Energy
 $m$/kg = mass of the object
-$g$/ms$^{-2}$ = [[Physics/Fields/Gravitational Fields#Gravitational Field Strength|Gravitational Field Strength]]
+$g$/$N{kg}^{-1}$ = [[Physics/Fields/Gravitational Fields#Gravitational Field Strength|Gravitational Field Strength]]
 $h$/m = height
 
 ### Gravitational Potential

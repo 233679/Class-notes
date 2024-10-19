@@ -30,7 +30,7 @@ $r$/m = The distance between the centre of mass of object 1 & object 2.
 Gravitational Field Strength is "the gravitational force per kg on a [[Physics/Fields/Test Mass|Test Mass]] at a point in a field".
 
 As the test mass has a negligible gravitation field, the formula can be simplified from "$g = \frac{GMm}{r^2}$" ("$m$" being the test mass) to "$g = \frac{GM}{r^2}$" (on data sheet) where:
-$g$/$F{kg}^{-1}$ = Force per unit on the test mass
+$g$/$N{kg}^{-1}$ = Force per unit on the test mass
 $G$/$Nm^2{kg}^{-2}$ = The gravitational **constant** (in the data sheet)
 $M$/kg = The mass of the object with a gravitational field
 $r$/m = The distance between the centre of mass of $M$ & the test mass
