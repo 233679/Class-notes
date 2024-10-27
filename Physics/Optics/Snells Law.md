@@ -1,0 +1,2 @@
+# Snell's Law
+Snell's Law, is that the [[Physics/Optics/Refractive Index|Refractive Index]] is the same for each light ray when passing into the same transparent substance, regardless of the angle of incidence ($i$) or the angle of refraction ($r$).
