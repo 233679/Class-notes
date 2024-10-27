@@ -1,5 +1,5 @@
 # Refractive Index
-The refractive index of a substance can be found by using the formula "$n = \frac{sin(i)}{sin(r)}$" (in data sheet) where:
+The refractive index of a substance can be found by using the formula "$n = \frac{sin(i)}{sin(r)}$" (**not** in data sheet) where:
 $n$ = The refractive index
 $i$ = The angle of incidence
 $r$ = The angle of refraction
