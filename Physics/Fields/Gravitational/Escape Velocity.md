@@ -1,9 +1,9 @@
 ---
 tags:
-  - Physics/Fields
+  - Physics/Fields/Gravitational
 ---
 # Escape Velocity
-[[Physics/Fields/Escape Velocity|Escape Velocity]] is the minimum velocity an object needs to escape from the non-negligible influence of a field.
+[[Physics/Fields/Gravitational/Escape Velocity|Escape Velocity]] is the minimum velocity an object needs to escape from the non-negligible influence of a field.
 An example of this is the minimum velocity needed to escape from Earths gravitational field.
 
 ### Escaping from a Planet

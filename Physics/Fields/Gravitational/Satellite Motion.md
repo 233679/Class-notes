@@ -1,3 +1,7 @@
+---
+tags:
+  - Physics/Fields/Gravitational
+---
 # Satellite Motion
 A Satellite can refer to any object orbiting another object. From the human made satellites (which the word is more commonly associated with) to natural satellites, such as the Earth's moon & the two moons orbiting Mars (Phobos & Deimos).
 
@@ -17,7 +21,7 @@ $M$ = Mass of the orbited object
 $r$ = Mean radius of the orbit
 (This equation is not in the data sheet)
 
-Further work with this formula can be used to prove that [[Physics/Fields/Kepler's Third Law|Kepler's Third Law]] as true. The resulting formula for this proof is "$\frac{r^3}{T^2} = \frac{GM}{4\pi^2}$" where:
+Further work with this formula can be used to prove that [[Physics/Fields/Gravitational/Kepler's Third Law|Kepler's Third Law]] as true. The resulting formula for this proof is "$\frac{r^3}{T^2} = \frac{GM}{4\pi^2}$" where:
 $r$ = The mean radius of the orbit
 $T$ = The time period of the orbit
 $G$ = Gravitational constant
@@ -36,7 +40,7 @@ $v = \frac{2\pi r}{T}$
 // Keep?
 
 ## Satellite Energy
-The total energy of a satellite in orbit is always negative as gravity is an **attractive** force. The total energy of a satellite can be calculated by summing the [[Physics/Kinetic Energy|Kinetic Energy]] & [[Physics/Fields/Gravitational Potential|Gravitational Potential]] together. The combined formula for this is "$E = -\frac{GMm}{2r}$" with:
+The total energy of a satellite in orbit is always negative as gravity is an **attractive** force. The total energy of a satellite can be calculated by summing the [[Physics/Kinetic Energy|Kinetic Energy]] & [[Physics/Fields/Gravitational/Gravitational Potential|Gravitational Potential]] together. The combined formula for this is "$E = -\frac{GMm}{2r}$" with:
 $E$ = Energy of the satellite
 $G$ = Gravitational constant
 $M$ = Mass of the orbited object

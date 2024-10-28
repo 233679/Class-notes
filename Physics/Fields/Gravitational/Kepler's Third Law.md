@@ -1,3 +1,7 @@
+---
+tags:
+  - Physics/Fields/Gravitational
+---
 # Kepler's Third Law
 The time period for an orbit of a satellite is proportional to the mean radius of its orbit.
 
