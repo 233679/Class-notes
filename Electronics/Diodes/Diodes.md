@@ -1,3 +1,7 @@
+---
+aliases:
+  - Diode
+---
 # Diodes
 There are three main types of [Diodes](Diodes.md):
 - [Silicone Diodes](Silicone%20Diodes.md)
