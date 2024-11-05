@@ -63,6 +63,11 @@ vars:
 	Sprinkler_Two_Count EQU B1
 	Sprinkler_Three_Count EQU B2
 	
+	; --- Improvment Start ---
+	; Override count
+	Override_Count EQU B4
+	; --- Improvment End ---
+	
 	; Stores the result of calculations
 	Result EQU B3
 	
@@ -73,12 +78,17 @@ vars:
 	movwf Sprinkler_Three_Count
 	movwf Result
 	
+	; --- Improvment Start ---
+	movwf Override_Count
+	; --- Improvment End ---
 	
 ; ---------- Main Cycle ----------	
 main:
 	; Test for override.
 	btfsc PORTA, 1
-	goto override_switch
+	; --- Improvment Start ---
+	call override_switch
+	; --- Improvment End ---
 	
 	; Run spinklers
 	btfsc PORTA, 0
@@ -96,14 +106,38 @@ main:
 	btfss PORTA, 6
 	call zero_spk_three_count
 	
+	; --- Improvment Start ---
+	; Reset Override (if appropriate)
+	btfss PORTA, 1
+	call zero_override_count
+	; --- Improvment End ---
+	
 	; Wait for awhile
 	call wait100ms
 	
 	goto main
-	
-	
+
+; --- Improvment Start ---
 ; ---------- Override Switch ----------
 override_switch:
+	; Set Result 0 if count is not 5.
+	btfss Override_Count, 0
+	bsf Result, 0
+	btfss Override_Count, 2
+	bsf Result, 0
+	
+	; Increment in place if bellow 5.
+	btfsc Result, 0
+	incf Override_Count, 1
+	
+	; Trigger if 5.
+	btfss Result, 0
+	call override_switch_trigger
+	
+	bcf Result, 0 ; Reset Result reg.
+	return
+
+override_switch_trigger:
 	clrf PORTB
 	
 	; Reset counts for spinkler triggers
@@ -111,8 +145,13 @@ override_switch:
 	movwf Sprinkler_One_Count
 	movwf Sprinkler_Two_Count
 	movwf Sprinkler_Three_Count
-	goto main	
+	return
 
+zero_override_count:
+	movlw h'00'
+	movwf Override_Count
+	return
+; --- Improvment End ---
 
 ; ---------- Sprinkler One ----------
 spk_one_guard:
