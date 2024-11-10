@@ -1,0 +1,3 @@
+# Wordings
+
+"Moves" -> "Accelerates"
