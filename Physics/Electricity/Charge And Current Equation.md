@@ -5,7 +5,7 @@ tags:
 # Charge And Current Equation
 $\Delta Q =I\Delta t$
 
-$Q$ = [[Coulomb]]
+$Q$ = [[Physics/Electricity/Coulomb]]
 $I$ = [[Amps]]
 $t$ = Time.
 

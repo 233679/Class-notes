@@ -43,3 +43,8 @@ $Q$ = [[Physics/Fields/Electrical/Charge|Charge]] on the surface of the area
 $A$ = Surface area
 
 This formula does not need to be known.
+
+### Potential & Field Strength
+![[Physics/Fields/Electrical/Pasted image 20241110175029.png]]
+The relationship between potential energy & the [[Physics/Fields/Electrical/Electric Field Strength|Electric Field Strength]] is given by:
+$E_p = \frac{-\Delta V}{\Delta r}$
