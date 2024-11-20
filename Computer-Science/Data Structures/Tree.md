@@ -38,6 +38,8 @@ A node is only "traversed" when the "Root node" order is completed. (Think of it
 2. Right sub-tree 
 3. Root node
 
+Remember: it's always Left then Right, with the only thing changing being when the "Root node" is traversed.
+
 ##### Example
 ![[Computer-Science/Data Structures/Tree - Traversal.png]]
 
