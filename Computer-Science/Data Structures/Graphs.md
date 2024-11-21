@@ -44,8 +44,7 @@ In a weighted graph, there is a cost to traverse each edge. The cost can represe
 #### Unweighted Graph
 No cost to traverse each link
 
-
-### Traversing a graph
+### Traversing a Graph
 There are two ways of traversing a graph
 
 #### Depth-first search
