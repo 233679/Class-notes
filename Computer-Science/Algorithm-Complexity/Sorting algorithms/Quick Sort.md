@@ -27,10 +27,18 @@ If it is then the element is moved to the position of the left pointer & the lef
 The left pointer checks if the value at its index is larger than the pivot. If it is not then the left pointer increments. This process is repeated.
 If it is, then the element is moved to the position of the right pointer & the right pointer decrements its position. The execution then goes to position (1).
 
-This loop repeats until the index of the left & right pointer is the same. The pivot is then set at this index. When this happens all values smaller than the pivot are at a lower index & all values larger than the pivot are at a higher index. 
+This loop repeats until the index of the left & right pointer is the same. The pivot is then set at this index. When this happens all values smaller than the pivot are at a lower index & all values larger than the pivot are at a higher index.
 
-This process then can repeat recursively as sub-arrays made up of the values bellow the pivot, the values above the pivot, & the pivot itself. 
+This process then can repeat recursively as sub-arrays made up of the values bellow the pivot, the values above the pivot, & the pivot itself.
 
 Once a sub-array only contains a single element, then it is sorted. The sub-arrays are then recursively combined to form a sorted array.
 
 [Video Example](https://www.youtube.com/watch?v=h_9kAXFKJwY)
+
+### Big O
+
+| Variation    | Complexity |
+| ------------ | ---------- |
+| Worst Case   | O(n log n) |
+| Average Case | O(n log n) |
+| Best Case    | O(n^2)     |
