@@ -39,6 +39,6 @@ Once a sub-array only contains a single element, then it is sorted. The sub-arra
 
 | Variation    | Complexity |
 | ------------ | ---------- |
-| Worst Case   | O(n log n) |
+| Best Case    | O(n log n) |
 | Average Case | O(n log n) |
-| Best Case    | O(n^2)     |
+| Worst Case   | O(n^2)     |
