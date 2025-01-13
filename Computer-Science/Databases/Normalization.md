@@ -17,3 +17,4 @@ Contains no partial dependencies (when fields in the table only depend on part o
 ### Third Normal Form:
 The database needs to be in Second normal form.
 All fields must only depend on the primary key.
+For example if there is a table for a driving instructor with the fields (InstructorID, name, mobile, car reg, MOT), then this does not satisfy third normal form, as the "MOT" depends on the "car reg", not the "InstructorID". This can be solved by moving the "MOT" into its own table (car reg (primary key), MOT), with the "car reg" being a forign key in the instructor table.
