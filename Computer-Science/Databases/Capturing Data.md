@@ -15,4 +15,4 @@ There are lots of ways to automatically ingest data:
 - Scanners
 - OCR (Optical Character Recognition)
 - OMR (Optical Mark Recognition)
-- Magnetic ink character recognition - often used in cheques 
+- Magnetic ink character recognition - often used in cheques
