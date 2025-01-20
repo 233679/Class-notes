@@ -5,6 +5,8 @@ aliases:
   - Charged
 ---
 # Charge
+Charged is measured in [[Physics/Joules|Joules]].
+
 Two charged objects of the same material will repel each other. However, two charged objects of different materials will attract each other. In short:
 **Like charges repel; Unlike charges attract**
 
