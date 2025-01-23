@@ -28,7 +28,7 @@ This formula is derived from the area under a the graph of $V$ over $Q$:
 When discharging through a resistor the [[Physics/Electricity/Current|Current]], [[Physics/Electricity/Potential Difference|Voltage]], and [[Physics/Fields/Electrical/Charge|Charge]] all decrease exponentially at the same rate.
 ![[Physics/Capacitance/Capacitor - Discharging through resistor.png]]
 This is because the values are all proportional to each other and is show by:
-$V = IR => I = \frac{V}{R}$ applying $V = \frac{Q}{C} => I = \frac{Q}{RC} = \frac{V}{R}$ 
+$V = IR => I = \frac{V}{R}$ applying $V = \frac{Q}{C} => I = \frac{Q}{RC} = \frac{V}{R}$
 
 ![[Physics/Capacitance/Capacitor - exponential decrease graph.png]]
 This graph is a visual representation of the decrease for [[Physics/Fields/Electrical/Charge|Charge]]. The formula for this graph is "$Q = Q_0e^{-t/RC}$" where:
