@@ -34,6 +34,11 @@ $V = IR => I = \frac{V}{R}$ applying $V = \frac{Q}{C} => I = \frac{Q}{RC} = \fra
 This graph is a visual representation of the decrease for [[Physics/Fields/Electrical/Charge|Charge]]. The formula for this graph is "$Q = Q_0e^{-t/RC}$" where:
 $Q$ = The current [[Physics/Fields/Electrical/Charge|Charge]]
 $Q_0$ = Initial/peak [[Physics/Fields/Electrical/Charge|Charge]]
-...
+$e$ = The constant $e$
+$t$ = The time taken for $Q_0$ to decrease to $Q$
+$R$ = Resistance of the resistor
+$C$ = [[Physics/Capacitance/Capacitance|Capacitance]] of the [[Physics/Capacitance/Capacitor|Capacitor]]
+
+The formula for both [[Physics/Electricity/Current|Current]] and [[Physics/Electricity/Potential Difference|Voltage]] is the same, being "$I = I_0e^{-t/RC}$" and "$V = V_0e^{-t/RC}$" respectively.
 ### Circuit Symbol
 ![[Physics/Capacitance/Capacitor - circuit symbol.png]]
