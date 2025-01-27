@@ -12,4 +12,4 @@ This produces the formula:
 $\frac{p}{T} =$ constant
 
 $p$ = [[Unsorted/Pressure|Pressure]]
-$T$ = temperature (in [[Unsorted/Kelvin|Kelvin]])
+$T$ = temperature (in [[Physics/Thermal/Kelvin|Kelvin]])

@@ -8,4 +8,4 @@ $\frac{pV}{T} =$ constant
 
 $p$ = [[Unsorted/Pressure|Pressure]]
 $V$ = Volume
-T = Temperature (in [[Unsorted/Kelvin|Kelvin]])
+T = Temperature (in [[Physics/Thermal/Kelvin|Kelvin]])

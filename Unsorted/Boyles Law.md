@@ -3,15 +3,11 @@ tags:
   - Physics/Gases
 ---
 # Boyles Law
-[[Unsorted/Boyles Law|Boyles Law]] is the formula:
-$pV =$ constant
-
+Boyles law states how [[Unsorted/Pressure|Pressure]] varies with volume when the mass and temperature remain constant. This is given by the formula "$pV =$ constant" where:
 $p$ = [[Unsorted/Pressure|Pressure]]
 $V$ = Volume
 
-This applies for a fixed mass of gas at a constant temperature.
-
-[[Unsorted/Boyles Law|Boyles Law]] can be measured using the apparatus bellow.
+[[Unsorted/Boyles Law|Boyles Law]] can be investigated using a volume scale containing a gas under a pressure, attached to a pressure gauge, where the pressure can be adjusted.  
 ![[Unsorted/Testing-Boyles-Law.png]]
 
 [[Unsorted/Boyles Law|Boyles Law]] measurements plotted as a graph:
