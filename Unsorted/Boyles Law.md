@@ -7,7 +7,7 @@ Boyles law states how [[Unsorted/Pressure|Pressure]] varies with volume when the
 $p$ = [[Unsorted/Pressure|Pressure]]
 $V$ = Volume
 
-[[Unsorted/Boyles Law|Boyles Law]] can be investigated using a volume scale containing a gas under a pressure, attached to a pressure gauge, where the pressure can be adjusted.  
+[[Unsorted/Boyles Law|Boyles Law]] can be investigated using a volume scale containing a gas under a pressure, attached to a pressure gauge, where the pressure can be adjusted.
 ![[Unsorted/Testing-Boyles-Law.png]]
 
 [[Unsorted/Boyles Law|Boyles Law]] measurements plotted as a graph:
