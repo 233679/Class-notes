@@ -41,7 +41,7 @@ A node is only "traversed" when the "Root node" order is completed. (Think of it
 Remember: it's always Left then Right, with the only thing changing being when the "Root node" is traversed.
 
 ##### Example
-![[Computer-Science/Data Structures/Tree - Traversal.png]]
+![[Computer-Science/Data Structures/Tree -Traversal.png]]
 
 ### Tree as Array
 A tree can be represented as an array, with a value of -1 indicating that there is no subtree for the left/right side of the node.

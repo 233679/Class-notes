@@ -4,5 +4,4 @@ tags:
 ---
 # Linked List
 
-
 The search time for a linked list has a big o notation of $O^n$
