@@ -7,7 +7,7 @@ A [[Computer-Science/Programs/Compiler|Compiler]] [[../Programs/Compile|Compiles
 ![[../Programs/Compile]]
 In general a [[Computer-Science/Programs/Compiler|Compiler]] creates code that executes faster than code run by an [[Computer-Science/Programs/Interpreter|Interpreter]].
 
-### Aspects of good Compiler
+### Aspects of Good Compiler
 - Works correctly
 - Detects all static errors
 - Produce meaningful diagnostics
