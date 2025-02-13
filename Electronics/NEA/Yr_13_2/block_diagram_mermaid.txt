@@ -1,0 +1,15 @@
+---
+title: Entire System
+---
+flowchart LR
+  A1[Analouge One In] --> Mixer
+  A2[Analouge Two In] --> Mixer
+
+  Mixer ---> Chain
+  Encoder --> Display[Seven Segment Display]
+
+  subgraph ADC[Analogue Digital Converter]
+    Ladder[Resistor Ladder] -->
+    Chain[Comparator Chain] -->
+    Encoder[Priority Encoder]
+  end
