@@ -18,3 +18,12 @@ The trailer contains data for error checking the integrity of the payload.
 
 #### Packet Switching
 Packet switching is where each packet from a message can take different routes to the destination based upon the fasted path at any given moment, which can change multiple of times per second.
+
+## TCP Packet Structure
+![[Computer-Science/Networking/TCP Packet Structure.png]]
+
+## UDP Packet Structure
+![[Computer-Science/Networking/UDP Packet Structure.png]]
+
+## IP Packet Structure
+![[Computer-Science/Networking/IP Packet Structure.png]]
