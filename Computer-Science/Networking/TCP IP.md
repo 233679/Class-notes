@@ -1,6 +1,8 @@
 ---
 tags:
   - Computer_Science/Networking
+aliases:
+  - TCP/IP Stack
 ---
 # TCP/IP Stack
 The TCP IP stack is combination of protocols that abstract the exchange of data transfer, this simplifies network communication. Each protocol in the stack is referred to as a "layer".
