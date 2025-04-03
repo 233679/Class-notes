@@ -4,6 +4,7 @@ tags:
 ---
 # Quick Sort
 https://github.com/FlakeyCheese/QuickSort--taught-method
+[Visualisation](https://opendsa-server.cs.vt.edu/embed/quicksortAV)
 
 In [[Quick Sort]], an element in the array is chosen as the pivot.
 All elements larger than the pivot are moved into one sub-array.
