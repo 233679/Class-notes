@@ -43,3 +43,5 @@ Once a sub-array only contains a single element, then it is sorted. The sub-arra
 | Best Case    | O(n log n) |
 | Average Case | O(n log n) |
 | Worst Case   | O(n^2)     |
+
+Space complexity: $O(nlog_2(n))$
