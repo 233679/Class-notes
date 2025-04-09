@@ -1,6 +1,6 @@
 ---
 tags:
-  - Compuer_science/Cyber_Security
+  - Computer_Science/Cyber_Security
 ---
 # Defenses
 Increasing the quality of code can help guard against [[Computer-Science/Cyber Security/Malicious Software|Malware]] by making software more robust and less susceptible to attacks.

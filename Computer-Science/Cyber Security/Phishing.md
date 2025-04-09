@@ -1,6 +1,6 @@
 ---
 tags:
-  - Compuer_science/Cyber_Security
+  - Computer_Science/Cyber_Security
 ---
 # Phishing
 
