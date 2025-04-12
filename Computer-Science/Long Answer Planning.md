@@ -64,7 +64,6 @@ Hashtable better fit:
 - Constant retrieval time - Allows firewall to handle lots of web traffic
 - Is unsorted - not relevant to a firewall since allowed or not allowed domains is not a sorted data set
 
-
 ## Q2
 Discuss the positive and negative impacts computers are having on the environment \[9]
 
@@ -87,27 +86,26 @@ Negative:
 - Extracting rare metals requires heavy industry - heavy industry produces highly toxic chemicals destroying local eco systems
 
 Positive:
-- Monitoring of deforistation and climate change easier with computers - can analyse from space with satelites and continuously watch for changes 
+- Monitoring of deforistation and climate change easier with computers - can analyse from space with satellites and continuously watch for changes
 - Computers can run simulations and analyse data to determine the most effective environment protection that can take place, increasing the benefit to environment.
 
 #### Evaluation
-- Bad for environment 
+- Bad for environment
 - Are an essential component of the modern age
 
-
-### MS points:
+### MS Points:
 - Planned obselecence (short lifespan, sent to landfil)
 - Automate tasks consuming power (such as centeral heating) to reduce energy use
 - Less paper used in communication - Save tress
 - Less optical media produced
-- Internet allows communication without travel - save on polution
+- Internet allows communication without travel - save on pollution
 
 ## Q3
 The charity has several desktop computers in their office that use a CISC processor. They are considering buying mobile devices for their staff to use when they are not in the office. Discuss whether these mobile devices should use the same CISC processors that are used in their desktop computers or if they should use a RISC processor instead.
 
 You should include the following in your answer:
 • the difference between each processor type
-• the suitability of each processor type for mobile devices. 
+• the suitability of each processor type for mobile devices.
 \[12]
 
 ### Planning
@@ -136,15 +134,14 @@ RISC:
 - Simple instruction set - slower processing speed for more complicated tasks
 - Larger code size - Less applications can be stored
 - Cheaper to buy - charities not much money
-- Does not require much power to opperate - less batteries - lighter device, easier transport
+- Does not require much power to operate - less batteries - lighter device, easier transport
 
 #### Evaluation
-- RISC requires less power so smaller batteris - light devices (essential as mobile primay use case)
+- RISC requires less power so smaller batteris - light devices (essential as mobile primary use case)
 - RISC is cheaper and charity has limited money so will be better able to afford devices
 - RISC processers can be slower but charity work is not compute intensive
 - Less applications can be stored, but alot of office applications are browser based
-Recomend RISC
-
+Recommend RISC
 
 ### MS
 - Most software is CISC
