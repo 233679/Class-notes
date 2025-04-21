@@ -16,7 +16,7 @@ Work in a method similar to a typewriter
 Poor print quality & expensive
 Can work in damp and dirty conditions
 
-### 3D printers
+### 3D Printers
 Can print 3D objects using plastic filament or other similar materials
 
 ##### Applications
@@ -62,5 +62,4 @@ Wider viewing angle
 ## Projector
 ### Multimedia
 Compact, high resolution, full colour
-
 
