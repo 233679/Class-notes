@@ -28,5 +28,11 @@ This includes:
 ### Copyright 1988
 You know what this is
 
-### Regulation of Investigatory Services Act 200
-Regards surveillance of the population. 
+### Regulation of Investigatory Powers Act 2000
+Regards surveillance of the population.
+
+Requires:
+- ISPs to assist in surveillance (secretly)
+- Enables mass surveillance of internet communications
+- Certain public bodies can demand access to private information
+- Prevents information from interception warrants being revealed in court
