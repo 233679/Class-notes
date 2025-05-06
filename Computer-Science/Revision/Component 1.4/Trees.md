@@ -1,0 +1,51 @@
+---
+tags:
+  - Computer_Science/Revision/1_4
+---
+# Trees
+Is an "Abstract Data Type" (ADT).
+
+There is a root node (usually at the top of the diagram).
+There is only one path to each node. (There are no cycles).
+
+### Rooted Tree
+One node is the root node.
+Each node has one unique parent, except the root node (which has none).
+
+### Binary Tree
+Is a type of [[#Rooted Tree]], where each node has a maximum of two children.
+
+Each node in this data structure consists of:
+- The node value
+- Pointer to "left" child
+- Pointer to "right" child
+
+#### Building
+Nodes are added added to the left or right of the current node (starting at the root node) depending on if the value is smaller of larger. If the position is already occupied by a node, this occurs recursively until an empty position is found.
+
+#### Using An Array
+A binary tree can be represented using an array.
+
+| Index | Left Pointer | Value | Right Pointer |
+| ----- | ------------ | ----- | ------------- |
+| 0     | 1            | 24    | 2             |
+| 1     | -1           | 15    | -1            |
+| 2     | -1           | 38    | -1            |
+The pointers are to the array index of a node. A value of "$-1$" represents an unoccupied node.
+
+#### Traversal
+There are three different ways to traverse a binary tree. 
+Each runs recursively until there are no more nodes left to traverse.
+Each starts at the root node.
+##### Pre Order
+- Output current node
+- Go to left node
+- Go to right node
+##### In Order
+- Traverse left node
+- Output current node
+- Traverse right node
+##### Post Order
+- Traverse left node
+- Traverse right node
+- Output current node.
