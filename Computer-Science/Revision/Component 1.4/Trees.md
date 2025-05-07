@@ -49,3 +49,18 @@ Each starts at the root node.
 - Traverse left node
 - Traverse right node
 - Output current node.
+
+### Deleting Nodes
+There are three separate cases
+#### Deleting leaf node
+The only change is to remove the leaf node
+#### Deleting node w one child
+Delete the current node & put the child node as a child from the deleted nodes parent.
+#### Deleting node w two children
+The node to be deleted has its value replaced with the next largest value from its sub-nodes.
+The node that the value is taken from is deleted.
+Deletion continuous recursively until the tree is stable.
+
+### Balanced Binary Tree
+This is a tree with the minimum depth for it's current nodes.
+It enables more efficient searching
