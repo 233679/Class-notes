@@ -27,7 +27,7 @@ Two measurements occur when using equipment such as rulers or protractors, as yo
 | pressure gauge     | analogue meter   |
 
 ---
-## Combining uncertainties 
+## Combining Uncertainties
 When doing "x" with values, the new uncertainty is:
 ### Adding & Subtracting
 Add the [[Physics/Uncertainties/Absolute Uncertainty|Absolute Uncertainties]].
